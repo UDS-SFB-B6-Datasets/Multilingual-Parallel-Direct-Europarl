@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20090716.FR" lang="fr" date="2009-07-16" place="Strasbourg" edition="Edition JO">
+  <section id="creitem1" title="1. Ouverture de la séance"/>
+  <section id="creitem2" title="2. Approbation du procès-verbal de la séance précédente: voir procès-verbal"/>
+  <section id="creitem3" title="3. Composition des commissions: voir procès-verbal"/>
+  <section id="creitem4" title="4. Heure des votes">
+    <intervention id="4-007" speaker_id="4308" name="Le Président" is_mep="True" mode="spoken">
+      <p sl="fr">Il est maintenant procédé au vote.</p>
+      <a text="(Pour les résultats des votes et autres détails les concernant: voir procès-verbal)"/>
+    </intervention>
+  </section>
+  <section id="creitem5" title="4.1. Nominations dans les commissions parlementaires: voir procès-verbal">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+      <p sl="de">Monsieur le Président, hier, de bien tristes nouvelles nous sont parvenues de Grozny, en Tchétchénie. La journaliste Natalia Estemirova, bien connue de tous dans notre groupe, y a été assassinée. Elle a été retrouvée morte juste derrière la frontière entre la Tchétchénie et l’Ingouchie après avoir été kidnappée à Grozny. Natalia Estemirova était totalement dévouée à son travail pour le Mémorial en Tchétchénie. Nous vous demandons d’accéder à notre demande de rendre hommage à cette journaliste très engagée et à cette pionnière de la lutte pour la liberté et les droits de l’homme en Tchétchénie en observant une minute de silence.</p>
+      <a text="(Applaudissements)"/>
+    </intervention>
+  </section>
+  <section id="creitem6" title="5. Communication de la Présidence">
+    <intervention id="4-012" speaker_id="4308" name="Le Président" is_mep="True" mode="spoken">
+      <p sl="fr">(Après l’allocution de M me Harms, voir article 4.1.). Oui, Madame Harms. Concernant la question que vous venez d’évoquer, je dois informer l’Assemblée que le président Buzek a fait une déclaration publique, que je vais vous lire.</p>
+    </intervention>
+  </section>
+  <section id="creitem7" title="6. Dépôt de documents: voir procès-verbal"/>
+  <section id="creitem8" title="7. Transmission de textes adoptés au cours de la présente séance: voir procès-verbal"/>
+  <section id="creitem9" title="8. Calendrier des prochaines séances: voir procès-verbal"/>
+  <section id="creitem10" title="9. Interruption de la session">
+    <intervention id="4-018" speaker_id="4308" name="Le Président" is_mep="True" mode="spoken">
+      <p sl="fr">Je déclare interrompue la session du Parlement européen.</p>
+      <a text="(La séance est levée à 9 h 15)"/>
+    </intervention>
+  </section>
+</text>

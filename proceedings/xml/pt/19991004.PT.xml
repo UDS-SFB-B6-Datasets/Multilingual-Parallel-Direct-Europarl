@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="19991004.PT" lang="pt" date="1999-10-04" place="Estrasburgo" edition="Edição JO">
+  <section id="creitem1" title="Reinício da sessão">
+    <intervention id="1-004" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Declaro reaberta a sessão do Parlamento Europeu, que tinha sido interrompida na sexta-feira, 17 de Setembro.</p>
+    </intervention>
+  </section>
+  <section id="creitem2" title="Declaração do Presidente">
+    <intervention id="1-006" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Como é do vosso conhecimento, verificou-se, na Formosa, na manhã de 21 de Setembro, um sismo violentíssimo, com uma amplitude de 7,6 na escala de Richter. Morreram ou ficaram gravemente feridos vários milhares de pessoas e os danos materiais são muito elevados. Em nome do Parlamento Europeu, gostaria de expressar a minha profunda simpatia e a minha solidariedade muito sincera para com as vítimas desta tragédia e seus familiares.</p>
+    </intervention>
+  </section>
+  <section id="creitem3" title="Aprovação da acta da sessão anterior">
+    <intervention id="1-008" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">A acta da sessão de 17 de Setembro já foi distribuída.</p>
+      <p sl="unknown">Há alguma observação?</p>
+    </intervention>
+    <intervention id="1-009" speaker_id="2335" name="Maes" is_mep="True" mode="spoken">
+      <p sl="nl">Senhora Presidente, repetidas vezes, veio à colação neste Parlamento a sorte de Paul van Buitenen, e repetidas vezes se defendeu a sua reabilitação. Gostaria de manifestar o meu regozijo pela solução encontrada: suspender o processo contra Paul van Buitenen, de molde a tornar possível a sua admissão noutro cargo. Espero que ele possa vir trabalhar no Parlamento.</p>
+    </intervention>
+    <intervention id="1-010" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Obrigada, Senhora Deputada Maes. Tomo nota da sua declaração, apesar de não estar relacionada com a acta.</p>
+      <p sl="unknown">Não havendo observações, submeto a acta à vossa aprovação.</p>
+      <a text="(O Parlamento aprova a acta)"/>
+    </intervention>
+    <intervention id="1-011" speaker_id="2002" name="Salafranca Sánchez-Neyra" is_mep="True" mode="spoken">
+      <p sl="es">Senhora Presidente, desejo simplesmente informar a assembleia de que, na semana passada, se registou um terramoto de grande intensidade no Estado mexicano de Oaxaca. Gostaria ainda, tendo em conta que a União Europeia está prestes a concluir as negociações de um acordo com o México, que o Parlamento exprimisse a sua solidariedade e a sua simpatia para com as vítimas desse terramoto.</p>
+    </intervention>
+    <intervention id="1-012" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">De facto, Senhor Deputado Salafranca Sánchez-Neyra, terei todo o gosto em fazê-lo em nome do Parlamento Europeu.</p>
+    </intervention>
+    <intervention id="1-013" speaker_id="997" name="Speroni" is_mep="True" mode="spoken">
+      <p sl="it">Senhora Presidente, apresentei uma questão para o período de perguntas, nos termos do artigo 43º do Regimento, e respeitei os prazos estabelecidos que, no nº 13 do Anexo II, parte A, prevêem que "as perguntas devem ser entregues pelo menos uma semana antes do início do período de perguntas. As perguntas entregues fora deste prazo poderão ser tratadas durante o período de perguntas se a Instituição interessada assim o consentir". Pois bem, acontece que a pergunta foi recusada por parte dos serviços competentes porque no verso do formulário figura um termo diferente do que se consta no Regimento. Em primeiro lugar, pergunto-me se é correcto que um formulário possa alterar um regimento; em segundo lugar, o Regimento prevê, em todo o caso, que, mesmo quando apresentada fora do prazo, a pergunta pode ser admissível se a Instituição interessada estiver de acordo. Contudo, foi aplicado um procedimento completamente diferente. Uma vez que o Regimento é aprovado pelo Parlamento, ao passo que o formulário é redigido pela burocracia interna, pergunto-me se deve prevalecer a burocracia ou se deve, pelo contrário, prevalecer aquilo que foi votado pelos representantes dos cidadãos.</p>
+    </intervention>
+    <intervention id="1-014" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Obrigada, Senhor Deputado Speroni. Há um ponto, pelo menos, em que poderei dar-lhe satisfação imediata. É evidente que um formulário não pode alterar um regimento. Nesta perspectiva, iremos examinar a questão e ver se será possível satisfazê-lo, nomeadamente na questão dos delitos.</p>
+    </intervention>
+  </section>
+  <section id="creitem4" title="Ordem dos trabalhos">
+    <intervention id="1-016" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Segue--se na ordem do dia a fixação da ordem de trabalhos. O projecto de ordem do dia já foi distribuído e foram propostas ou aplicadas as seguintes modificações.</p>
+      <p sl="unknown">Terça-feira:</p>
+      <p sl="unknown">Presidente. – O Grupo do Partido Europeu dos Liberais, Democratas e Reformistas solicita que se inscreva uma declaração da Comissão relativamente à recusa do Governo francês de levantar o embargo à carne de bovino britânica. É uma questão que eventualmente poderia ser suscitada no âmbito da declaração da Comissão sobre segurança alimentar, agendada para terça-feira de manhã.</p>
+      <p sl="unknown">Dou a palavra à senhora deputada Lynne, que pretende apresentar esse pedido.</p>
+    </intervention>
+    <intervention id="1-017" speaker_id="4541" name="Lynne" is_mep="True" mode="spoken">
+      <p sl="en">Senhora Presidente, nos termos do artigo 111º do Regimento do Parlamento Europeu, proponho uma alteração à ordem do dia do presente período de sessões, a fim de incluir uma declaração da Comissão sobre a recusa do Governo francês em levantar o embargo à carne de vaca britânica e a sua decisão de proibir o trânsito da mesma através do território francês, rota que é crucial para o acesso a Espanha e Itália.</p>
+      <p sl="en">Ficar-lhe-ia muito grata se permitisse que essa declaração fosse seguida de um curto debate, nos termos do disposto no artigo 37º do Regimento.</p>
+      <p sl="en">A Comissão aceitou a carne de vaca britânica como sendo segura. Está cientificamente provado que a carne britânica é segura. O Governo francês, tanto quanto sei, não possui provas em contrário. Existem salvaguardas rígidas no Reino Unido e, no entanto, há um Estado-Membro – a França – que se colocará à margem da decisão da Comissão. Caso se permita que a França mantenha esta atitude, prejudicar-se-ão o mercado interno e a credibilidade da Comissão e penalizar-se-ão ainda mais os produtores britânicos.</p>
+      <p sl="en">A BSE provocou já, no Reino Unido, a perda de exportações no valor de 1,5 mil milhões de libras. Os produtores britânicos têm dado mostras de paciência, durante as negociações, ao longo dos últimos dois anos e meio/três anos. Observaram escrupulosamente as regras. Chegaram mesmo a matar animais sem qualquer vestígio de BSE. Finalmente, o embargo à carne de vaca foi levantado. No entanto, os produtores britânicos voltam a ser confrontados com um novo ataque à sua indústria. É imperioso que oiçamos uma declaração da Comissão e que se realize um debate. Espero que seja possível encontrar tempo para ambas as coisas.</p>
+    </intervention>
+    <intervention id="1-018" speaker_id="1183" name="Roth-Behrendt" is_mep="True" mode="spoken">
+      <p sl="de">Senhora Presidente, caros colegas, aqueles de entre vós que já fizeram parte deste Parlamento nos anos anteriores sabem que, nesta câmara, existem muito poucas pessoas que se tenham ocupado tão intensamente e também - quase podemos dizê-lo - com tanto entusiasmo da questão da segurança da carne, e em especial da carne britânica, como eu fiz enquanto fui presidente da última comissão de inquérito à BSE. Chegou-se a dizer num relatório que eu praticamente conheceria cada vaquinha da Grã-Bretanha pelo nome. Não é, no entanto, o caso. O colega Schmid acha que conheço pelo menos uma em cada duas, o que também não é verdade. O que é certo é que vou conhecendo algumas.</p>
+      <p sl="de">Sou, portanto, a última pessoa a gostar que houvesse carne com falta de segurança em algum lugar da União Europeia. O Parlamento foi responsável pela nomeação da comissão de inquérito e, durante a sua vigência, procurámos que, no âmbito dos debates sobre a BSE, fossem preenchidas lacunas ainda existentes em muitos domínios da legislação alimentar. Este Parlamento pode orgulhar-se de tudo aquilo que conseguiu alcançar nestes últimos cinco anos. Mas é preciso não esquecer que atingimos estes resultados, trabalhando com seriedade e correcção, o que quer dizer, entre outros aspectos, que tudo o que fizemos foi feito atempadamente e assente em bases sólidas. Percebo perfeitamente quando há colegas a queixarem-se de um Estado-Membro que não respeita a legislação comunitária. Ainda bem que não foi o meu próprio país, há algum tempo, a ser criticado por uma infracção idêntica.</p>
+      <p sl="de">Senhora Presidente, graças à sua interessante iniciativa, vamos ter amanhã um debate alargado sobre saúde pública e segurança alimentar. A segurança alimentar será focada no seu todo, pois está em jogo muito mais do que a carne, muito mais do que as dioxinas, ou o tratamento de esgotos ou a peste suína. Trata-se de um debate sobre a segurança e a qualidade dos géneros alimentícios e é com esta abordagem que, no futuro, a União Europeia vai tratar este tema com o próprio Presidente da Comissão, Romano Prodi.</p>
+      <p sl="de">Se pretendermos retirar a este debate o seu carácter alargado, se quisermos modificá-lo, a melhor forma de o fazer será criar um problema adicional com a carne de bovino. Nesse caso, o que vamos ter amanhã será mais um debate sobre a BSE. Por mim, não tenho qualquer problema com isso, entro nesse debate com todo o prazer, acho inclusive que conheço as várias pastas quase de cor! Posso fazer isso, mas não acho que devamos fazê-lo. Tenho ainda uma outra razão para achar o que estou a dizer.</p>
+      <p sl="de">A agência francesa para a segurança dos alimentos manifestou há dois dias dúvidas quanto à segurança da carne de bovino britânica. Ainda não li qualquer documento a este respeito, ainda não li nada escrito sobre isto. As comissões, quer da Agricultura e do Desenvolvimento Rural, quer do Meio Ambiente, da Saúde Pública e da Política do Consumidor ainda puderam ocupar-se deste assunto. Como eu gostaria que tivéssemos um debate sério e honesto, é por isso que lhe peço, Senhora Presidente, que não o tenhamos amanhã, mas sim daqui a duas semanas, se continuar a ser necessário, pois só assim as comissões parlamentares se vão poder ocupar convenientemente do assunto. Peço-lhe que façamos amanhã aquilo para que estamos aqui, designadamente para debater os alimentos …</p>
+      <a text="(A Presidente retira a palavra à oradora)"/>
+    </intervention>
+    <intervention id="1-019" speaker_id="1422" name="Lord Bethell" is_mep="True" mode="spoken">
+      <p sl="en">Senhora Presidente, tanto quanto sei, ouve um orador que se pronunciou a favor da sugestão e um outro, que acaba agora de se sentar, que solicitou a realização de um debate sobre este assunto no final do corrente mês, ou seja, no próximo período de sessões, Outubro II. Tenciona pôr estas propostas a votação?</p>
+    </intervention>
+    <intervention id="1-020" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Não, isso não é possível. Esta proposta provém do Grupo do Partido Europeu dos Liberais, Democratas e Reformistas, foi apresentada pela senhora deputada Lynne e tem por objectivo inscrever neste período de sessões um debate sobre o assunto suscitado. Escutámos a senhora deputada Lynne que falou em nome do Grupo do Partido Europeu dos Liberais, Democratas e Reformistas. Já ouvimos um orador contra, a senhora deputada Roth-Behrendt. Gostaria agora de perguntar se há um orador a favor desta proposta.</p>
+    </intervention>
+    <intervention id="1-021" speaker_id="1436" name="McCartin" is_mep="True" mode="spoken">
+      <p sl="en">A senhora deputada Roth-Behrendt não respeitou o assunto. Estamos cientes da importância da realização de um debate neste Parlamento sobre a segurança alimentar, mas a proposta apresentada dizia respeito à realização de um debate urgente para apurar se determinado Estado-Membro tem o direito de decidir agir unilateralmente, não em conformidade com a política comunitária, mas de acordo com aquilo que mais lhe interessa em termos políticos num dado momento.</p>
+      <p sl="en">Trata-se de um assunto extremamente urgente que merece ser debatido como tal, uma vez que representa uma ameaça para o mercado livre. Se outros Estados-Membros vierem a decidir fazer o mesmo, poderá chegar-se a uma situação em que alguns bens específicos venham a ser proibidos, em cada um dos Estados-Membros da Comunidade, em alturas diferentes, não havendo garantias de que o mercado único, para cuja criação e consolidação trabalhámos com tanto afinco neste Parlamento, venha a funcionar eficazmente. Tal como a senhora deputada que apresentou a proposta, também eu considero trata-se de um assunto urgente que deve ser aqui debatido imediatamente.</p>
+    </intervention>
+    <intervention id="1-023" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Tenho outro pedido do Grupo dos Verdes/Aliança Livre Europeia que pretende que o debate sobre a segurança alimentar de terça-feira de manhã seja concluído com uma resolução.</p>
+      <p sl="unknown">A Conferência dos Presidentes considerou que não se deveria proceder desse modo. Por isso, muito simplesmente, vou submeter este pedido à votação. Quem é a favor de uma resolução no final do debate sobre a segurança alimentar?</p>
+      <a text="(O Parlamento rejeita a proposta)"/>
+      <p sl="unknown">Quarta-feira:</p>
+      <p sl="unknown">Presidente. – Não foi apresentado nenhum pedido de modificação. Em contrapartida, o mesmo Grupo dos Verdes/Aliança Livre Europeia pediu-me que propusesse à assembleia que o debate sobre a abertura da Ronda do Milénio seja também concluído com uma resolução. A Conferência dos Presidentes não considerou este pedido.</p>
+    </intervention>
+    <intervention id="1-024" speaker_id="2054" name="Hautala" is_mep="True" mode="spoken">
+      <p sl="fi">Senhor Presidente, na minha opinião, o Parlamento não deveria perder esta oportunidade para emitir uma declaração sobre os poderes que o Conselho vai delegar na Comissão, no dia 13 de Outubro, tendo em vista a ronda de negociações da OMC. Seria lamentável se esta delegação de poderes viesse a ocorrer sem os cidadãos saberem o que o Parlamento pensa deste facto. Quero ainda relembrar a todos os deputados que há duas semanas, no momento em que o Parlamento aprovou a nova Comissão, foi também aprovada uma declaração na qual se sublinhava o interesse do Parlamento em ter uma influência nas negociações que se vão desenrolar sobre os tratados internacionais e, ainda, em exercer essa influência nas diferentes fases das negociações. Seria, portanto, lamentável que o Parlamento desperdiçasse esta oportunidade.</p>
+    </intervention>
+    <intervention id="1-025" speaker_id="1253" name="Poettering" is_mep="True" mode="spoken">
+      <p sl="de">Senhora Presidente, caros colegas, lamento ter de contradizer a prezada colega Heidi Hautala. Na Conferência dos Presidentes, portanto dos líderes dos grupos políticos, pronunciámo-nos por grande maioria relativamente a não pretendermos votar qualquer proposta de resolução, nesta altura, sobre a OMC, dado haver ainda necessidade de discussão. Achamos que não se deve agora elaborar, em processo de urgência, uma proposta de resolução apenas para termos uma atitude que nos torne populares. É por este motivo e também por solidariedade para com a nossa votação na Conferência, que mantemos a posição de não adoptar atitudes precipitadas nem gratuitas.</p>
+      <p sl="de">Cara colega Heidi Hautala, no que respeita aos representantes do Parlamento na Conferência da OMC, em Seattle, decidimos por unanimidade que o Parlamento Europeu terá de ser representado por uma delegação de 15 deputados, exactamente o número que o Congresso americano exige, ou seja, esta posição mantém-se inalterada, aprovemos ou não uma proposta de resolução. O que eu digo em nome do meu grupo é: queremos ser representados em pé de igualdade com os americanos, mas somos contra uma declaração do Parlamento nesta matéria.</p>
+    </intervention>
+    <intervention id="1-027" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+      <p sl="es">Senhora Presidente, julgo que terá havido um mal-entendido, já que existem duas propostas: uma que visa substituir o ponto relativo ao acidente de Ustica, e outra que visa substituir o ponto relativo ao sismo na Formosa. Julgo existir um mal-entendido, e muitos membros da assembleia desconhecem qual é a proposta que está a ser submetida a votação. Lamento que se esteja em plena votação, mas esta é a realidade.</p>
+    </intervention>
+    <intervention id="1-028" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Provavelmente não fui suficientemente clara, Senhor Deputado Barón Crespo, e peço desculpa.</p>
+      <p sl="unknown">Trata-se da primeira proposta que visa substituir o ponto “Sismo na Formosa” por um novo ponto intitulado “Acidente nuclear no Japão”. Esta questão ficou clara agora?</p>
+      <p sl="unknown">(O Parlamento aprova o pedido) 2</p>
+    </intervention>
+    <intervention id="1-029" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+      <p sl="da">Também me congratulo com a decisão de não despedir o senhor Van Buitenen, todavia solicito que inclua esta questão na ordem do dia da próxima Conferência dos Presidentes, porque as premissas que constam na decisão são totalmente inaceitáveis. O crime que cometeu foi de ter entregue documentação a um presidente do Parlamento Europeu. Isso não pode, de modo algum, ser considerado um crime! Portanto, as premissas devem ser alteradas, pelo que lhe solicito que coloque este ponto na ordem do dia da Conferência dos Presidentes.</p>
+    </intervention>
+    <intervention id="1-030" speaker_id="4548" name="MacCormick" is_mep="True" mode="spoken">
+      <p sl="en">Senhora Presidente, gostaria de apresentar um pedido de informação sobre um ponto de ordem. Não sei se me é permitido fazer uma declaração de voto nesta altura do debate, mas se isso for possível, gostaria de dizer que considero, do ponto de vista dos escoceses, que é muito lamentável que se debata a segurança alimentar amanhã, sem incluir no debate o caso de um Estado-Membro que desrespeita a decisão comunitária sobre segurança alimentar. Foi por isso que votei favoravelmente a proposta.</p>
+    </intervention>
+    <intervention id="1-031" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Obrigada, Senhor Deputado MacCormick. Penso que terá oportunidade de levantar este ponto durante o debate.</p>
+    </intervention>
+    <intervention id="1-032" speaker_id="1191" name="Pack" is_mep="True" mode="spoken">
+      <p sl="de">Senhora Presidente, queria apenas apresentar os meus sinceros agradecimentos pela rápida resolução das dificuldades por mim relatadas na última sessão. Já posso funcionar com o meu aparelho de fax, pois agora está colocado a uma altura que está de acordo com a minha. Muito obrigada!</p>
+    </intervention>
+    <intervention id="1-033" speaker_id="2217" name="Berthu" is_mep="True" mode="spoken">
+      <p sl="fr">Senhora Presidente, gostaria de apresentar uma invocação do Regimento sobre a disposição do novo hemiciclo.</p>
+      <p sl="fr">No hemiciclo anterior, o Presidente sentava-se diante de um arranjo de bandeiras que simbolizava todos os países da União Europeia. Constato que neste hemiciclo esse arranjo desapareceu. Está à vista de todos.</p>
+      <p sl="fr">Gostaria por isso de colocar a seguinte pergunta: a nossa Assembleia deliberou sobre esta questão ou, pelo contrário, deixámos que os serviços decidissem sozinhos sobre um ponto que se me afigura altamente simbólico e importante?</p>
+    </intervention>
+    <intervention id="1-034" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Senhor Deputado Berthu, posso tranquilizá-lo e dar-lhe já uma satisfação para o facto: já mandei vir esse arranjo, mas infelizmente houve um ligeiro atraso. Amanhã cá estará.</p>
+      <a text="(A sessão é suspensa às 17H35)"/>
+    </intervention>
+  </section>
+</text>

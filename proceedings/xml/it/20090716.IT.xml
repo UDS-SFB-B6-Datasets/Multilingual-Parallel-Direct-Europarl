@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20090716.IT" lang="it" date="2009-07-16" place="Strasburgo" edition="Edizione GU">
+  <section id="creitem1" title="1. Apertura della seduta"/>
+  <section id="creitem2" title="2. Approvazione del processo verbale della seduta precedente: vedasi processo verbale"/>
+  <section id="creitem3" title="3. Composizione delle commissioni: vedasi processo verbale"/>
+  <section id="creitem4" title="4. Turno di votazioni">
+    <intervention id="4-007" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Dichiaro aperto il turno di votazioni.</p>
+      <a text="(Per i risultati delle votazioni e altri dettagli: vedasi processo verbale)"/>
+    </intervention>
+  </section>
+  <section id="creitem5" title="4.1. Nomine nelle commissioni parlamentari: vedasi processo verbale">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+      <p sl="de">Signor Presidente, ieri ci sono giunte notizie molto tristi da Grozny in Cecenia. La giornalista Natalia Estemirova, che nel nostro gruppo noi tutti conoscevamo bene, è stata uccisa. Il suo corpo è stato ritrovato oltre il confine tra Cecenia e Inguscezia, dopo il suo rapimento proprio a Grozny. Natalia Estemirova era una giornalista molto dedita al suo lavoro per il gruppo Memorial in Cecenia. Vi chiediamo quindi oggi di accettare la nostra richiesta di ricordare questa giornalista molto attiva nella lotta per la libertà e i diritti umani in Cecenia osservando un minuto di silenzio.</p>
+      <a text="(Applausi)"/>
+    </intervention>
+  </section>
+  <section id="creitem6" title="5. Comunicazione della Presidenza">
+    <intervention id="4-012" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">(Dopo l’intervento dell’onorevole Harms, vedasi il punto 4.1). Certo, onorevole Harms. Per quanto riguarda la questione presentata, devo informare quest’Aula che il presidente Buzek ha rilasciato una dichiarazione pubblica, che vi leggerò ora.</p>
+    </intervention>
+  </section>
+  <section id="creitem7" title="6. Presentazione di documenti: vedasi processo verbale"/>
+  <section id="creitem8" title="7. Trasmissione dei testi approvati nel corso della presente seduta: vedasi processo verbale"/>
+  <section id="creitem9" title="8. Calendario delle prossime sedute: vedasi processo verbale"/>
+  <section id="creitem10" title="9. Interruzione della sessione">
+    <intervention id="4-018" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Dichiaro interrotta la sessione del Parlamento europeo.</p>
+      <a text="(La seduta termina alle 9.15)"/>
+    </intervention>
+  </section>
+</text>

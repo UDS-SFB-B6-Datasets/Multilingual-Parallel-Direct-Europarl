@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20090716.EN" lang="en" date="2009-07-16" place="Strasbourg" edition="OJ edition">
+  <section id="creitem1" title="1. Opening of the sitting"/>
+  <section id="creitem2" title="2. Approval of the minutes of the previous sitting: see Minutes"/>
+  <section id="creitem3" title="3. Composition of committees: see Minutes"/>
+  <section id="creitem4" title="4. Voting time">
+    <intervention id="4-007" speaker_id="4308" is_mep="True" mode="spoken" role="President">
+      <p sl="unknown">We shall now proceed to the vote.</p>
+      <a text="(For results and other details of the vote: see Minutes)"/>
+    </intervention>
+  </section>
+  <section id="creitem5" title="4.1. Appointments to committees: see Minutes">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+      <p sl="de">Mr President, yesterday we received very sad news from Grozny in Chechnya. The journalist Natalia Estemirova, who was well known to everyone in our group, was murdered there. She was found dead just beyond the border between Chechnya and Ingushetia after being kidnapped in Grozny. Natalia Estemirova was extremely committed to her work for Memorial in Chechnya. We would ask you to agree to our request to remember this very committed journalist and pioneering fighter for freedom and human rights in Chechnya by observing a minute’s silence.</p>
+      <a text="(Applause)"/>
+    </intervention>
+  </section>
+  <section id="creitem6" title="5. Announcement by the President">
+    <intervention id="4-012" speaker_id="4308" is_mep="True" mode="spoken" role="President">
+      <p sl="unknown">(After the speech by Mrs Harms, see item 4.1). Yes, Mrs Harms. Regarding the matter that you have just mentioned, I must inform the House that President Buzek has made a public statement, which I will read to you.</p>
+    </intervention>
+  </section>
+  <section id="creitem7" title="6. Documents received: see Minutes"/>
+  <section id="creitem8" title="7. Forwarding of texts adopted during the sitting: see Minutes"/>
+  <section id="creitem9" title="8. Dates of forthcoming sittings: see Minutes"/>
+  <section id="creitem10" title="9. Adjournment of the session">
+    <intervention id="4-018" speaker_id="4308" is_mep="True" mode="spoken" role="President">
+      <p sl="unknown">I declare the session of the European Parliament adjourned.</p>
+      <a text="(The sitting was closed at 9.15)"/>
+    </intervention>
+  </section>
+</text>

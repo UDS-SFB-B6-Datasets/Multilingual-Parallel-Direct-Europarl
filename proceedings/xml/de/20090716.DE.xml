@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20090716.DE" lang="de" date="2009-07-16" place="Straßburg" edition="Ausgabe im ABl.">
+  <section id="creitem1" title="1. Eröffnung der Sitzung"/>
+  <section id="creitem2" title="2. Genehmigung des Protokolls der vorangegangenen Sitzung: siehe Protokoll"/>
+  <section id="creitem3" title="3. Zusammensetzung der Ausschüsse: siehe Protokoll"/>
+  <section id="creitem4" title="4. Abstimmungsstunde">
+    <intervention id="4-007" speaker_id="4308" is_mep="True" mode="spoken" role="Der Präsident">
+      <p sl="unknown">Wir werden jetzt zur Abstimmung übergehen.</p>
+      <a text="(Abstimmungsergebnisse und sonstige Einzelheiten der Abstimmung:siehe Protokoll)"/>
+    </intervention>
+  </section>
+  <section id="creitem5" title="4.1. Benennungen in die Ausschüsse: siehe Protokoll">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+      <p sl="de">Herr Präsident! Wir haben gestern eine sehr traurige Nachricht aus Grosny, aus Tschetschenien erhalten. Dort wurde die Journalistin Natalia Estemirova ermordet, die uns allen in der Fraktion gut bekannt war. Sie ist kurz hinter der Grenze zwischen Tschetschenien und Inguschetien tot aufgefunden worden, nachdem sie in Grosny entführt worden war. Natalia Estemirova hat in Tschetschenien sehr, sehr engagiert für Memorial gearbeitet. Wir würden Sie bitten, unserem Wunsch nachzukommen, und dieser sehr engagierten Journalistin und Vorkämpferin für Freiheit und Menschenrechte in Tschetschenien in einer Schweigeminute zu gedenken.</p>
+      <a text="(Beifall)"/>
+    </intervention>
+  </section>
+  <section id="creitem6" title="5. Mitteilung des Präsidenten">
+    <intervention id="4-012" speaker_id="4308" is_mep="True" mode="spoken" role="Der Präsident">
+      <p sl="unknown">(Nach der Rede von Frau Harms, siehe Punkt 4.1). Ja, Frau Harms. Bezüglich der Angelegenheit, die Sie gerade erwähnt haben, muss ich dem Haus mitteilen, dass Präsident Buzek eine öffentliche Erklärung abgegeben hat, die ich nun vorlesen werde.</p>
+    </intervention>
+  </section>
+  <section id="creitem7" title="6. Vorlage von Dokumenten: siehe Protokoll"/>
+  <section id="creitem8" title="7. Übermittlung der in dieser Sitzung angenommenen Texte: siehe Protokoll"/>
+  <section id="creitem9" title="8. Zeitpunkt der nächsten Sitzungen: siehe Protokoll"/>
+  <section id="creitem10" title="9. Unterbrechung der Sitzungsperiode">
+    <intervention id="4-018" speaker_id="4308" is_mep="True" mode="spoken" role="Der Präsident">
+      <p sl="unknown">Ich erkläre die Sitzung des Europäischen Parlaments für unterbrochen.</p>
+      <a text="(Die Sitzung wird um 9.15 Uhr geschlossen)"/>
+    </intervention>
+  </section>
+</text>

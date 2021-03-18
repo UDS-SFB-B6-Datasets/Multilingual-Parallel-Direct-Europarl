@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20090716.PT" lang="pt" date="2009-07-16" place="Estrasburgo" edition="Edição JO">
+  <section id="creitem1" title="1. Abertura do período de sessões"/>
+  <section id="creitem2" title="2. Aprovação da acta da sessão anterior: Ver Acta"/>
+  <section id="creitem3" title="3. Composição das comissões: Ver Acta"/>
+  <section id="creitem4" title="4. Período de votação">
+    <intervention id="4-007" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Vamos agora proceder à votação.</p>
+      <a text="(Resultados pormenorizados das votações: ver Acta)"/>
+    </intervention>
+  </section>
+  <section id="creitem5" title="4.1. Nomeações para as comissões parlamentares: Ver Acta">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+      <p sl="de">Senhor Presidente, ontem recebemos notícias muito tristes de Grozny, na Chechénia. A jornalista Natalia Estemirova, que era bem conhecida de todos os membros do nosso grupo, foi assassinada naquela zona. Foi encontrada morta logo a seguir à fronteira entra a Chechénia e a Ingúchia depois de ter sido raptada em Grozny. Natalia Estemirova estava profundamente empenhada no seu trabalho para a sociedade Memorial na Chechénia. Solicitamos que aceitem o nosso pedido de uma homenagem a esta jornalista muito dedicada e pioneira na luta pela liberdade e pelos direitos humanos na Chechénia, observando um minuto de silêncio.</p>
+      <a text="(Aplausos)"/>
+    </intervention>
+  </section>
+  <section id="creitem6" title="5. Comunicação da Presidência">
+    <intervention id="4-012" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">(Após a intervenção da deputada Harms, ver ponto 4.1). Sim, Senhora Deputada Harms. Relativamente à questão que acabou de mencionar, devo informar a Assembleia de que o Presidente Buzek emitiu uma declaração pública, que vos vou ler.</p>
+    </intervention>
+  </section>
+  <section id="creitem7" title="6. Entrega de documentos: ver Acta"/>
+  <section id="creitem8" title="7. Transmissão dos textos aprovados durante a presente sessão: ver Acta"/>
+  <section id="creitem9" title="8. Calendário das próximas sessões : Ver Acta"/>
+  <section id="creitem10" title="9. Interrupção da Sessão">
+    <intervention id="4-018" speaker_id="4308" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Dou por interrompida a sessão do Parlamento Europeu.</p>
+      <a text="(A sessão é suspensa às 9.15)"/>
+    </intervention>
+  </section>
+</text>

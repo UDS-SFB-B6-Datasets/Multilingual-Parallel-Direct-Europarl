@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20020114.IT" lang="it" date="2002-01-14" place="Strasburgo" edition="Edizione GU">
+  <section id="creitem1" title="Ripresa della sessione">
+    <intervention id="1-004" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Dichiaro ripresa la sessione del Parlamento europeo, interrotta il 17 dicembre 2001.</p>
+      <p sl="unknown">Onorevoli deputati e colleghi, prima di passare al punto concernente l’ordine dei lavori, permettetemi di rubarvi un minuto, un minuto soltanto, per unirmi sinceramente alle parole d’omaggio che nella seduta del 17 dicembre scorso tutti i gruppi parlamentari hanno reso alla nostra Presidente uscente, onorevole Nicole Fontaine. Ricorderete senz’altro che due anni fa sono stato uno dei suoi concorrenti e per questa ragione mi è gradita oggi quest’occasione per ringraziarla e riconoscere la dignità, l’imparzialità, l’efficacia e lo stile eccezionale con cui ha esercitato il suo mandato al servizio dell’Unione europea e a favore di un maggiore prestigio del nostro Parlamento.</p>
+      <a text="(Vivi applausi)"/>
+    </intervention>
+  </section>
+  <section id="creitem2" title="Ordine dei lavori">
+    <intervention id="1-006" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">E’ stata distribuita la versione definitiva del progetto di ordine del giorno elaborata in conformità alle decisioni prese il 10 gennaio scorso dalla Conferenza dei presidenti</p>
+      <p sl="unknown">Desidero comunque attirare l’attenzione dell’Assemblea sul fatto che l’ordine dei lavori di questa tornata sarà stabilito mercoledì mattina alle 9.00.</p>
+    </intervention>
+  </section>
+  <section id="creitem3" title="Annuncio delle candidature per l'elezione del Presidente">
+    <intervention id="1-008" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+      <p sl="unknown">Conformemente al Regolamento l’elezione del Presidente si terrà domani a partire dalle 10.00.</p>
+      <p sl="unknown">Vi ricordo che ai sensi del Regolamento sotto presidenza del decano d’età non può aver luogo alcuna discussione il cui oggetto sia estraneo all’elezione del Presidente o alla verifica dei poteri.</p>
+      <p sl="unknown">Ai sensi dell’articolo 13 del Regolamento, le candidature alla Presidenza del Parlamento europeo debbono essere presentate da un gruppo politico o da almeno trentadue deputati, con il consenso degli interessati.</p>
+      <p sl="unknown">Conformemente al Regolamento sono state presentate alla Presidenza del Parlamento europeo le seguenti candidature:</p>
+      <p sl="unknown">Onorevole Bonde</p>
+      <p sl="unknown">Onorevole Cox</p>
+      <p sl="unknown">Onorevole David Martin</p>
+      <p sl="unknown">Onorevole Onesta</p>
+      <p sl="unknown">Onorevole Wurtz</p>
+      <p sl="unknown">I candidati mi hanno comunicato di accettare le rispettive candidature. Ricordo inoltre che, ai sensi dell’articolo 14, paragrafo 1, un candidato per essere eletto deve ottenere, nei primi tre scrutini, la maggioranza assoluta dei voti espressi. Le schede bianche e nulle non sono considerate ai fini del conteggio dei voti.</p>
+      <p sl="unknown">Per accelerare i lavori di domani mattina, propongo di procedere fin d’ora al sorteggio dei sei scrutatori.</p>
+      <a text="(Il Presidente procede al sorteggio degli scrutatori)"/>
+      <p sl="unknown">Sono stati pertanto designati scrutatori i deputati Patsy Sörensen, Dieter-Lebrecht Kock, Giuseppe Nistico, Reinhard Rack, Ilkka Suominen e Alima Boumediene-Thiery.</p>
+      <a text="(La seduta è sospesa alle 18.14.)"/>
+    </intervention>
+  </section>
+</text>
