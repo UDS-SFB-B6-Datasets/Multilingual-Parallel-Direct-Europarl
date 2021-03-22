@@ -4,19 +4,19 @@
   <section id="creitem2" title="2. Aprobación del Acta de la sesión anterior: véase el Acta"/>
   <section id="creitem3" title="3. Composición de las comisiones: véase el Acta"/>
   <section id="creitem4" title="4. Turno de votaciones">
-    <intervention id="4-007" speaker_id="4308" name="Presidente" is_mep="True" mode="spoken">
+    <intervention id="4-007" speaker_id="4308" name="Alejo VIDAL-QUADRAS" is_mep="True" mode="spoken" nationality="Spain" birth_date="20-05-1945" birth_place="Barcelona" p_group="Group of the European People's Party (Christian Democrats)" m_state="ES">
       <p sl="es">Pasamos ahora al turno de votaciones.</p>
       <a text="(Para los resultados y otros detalles de la votación: véase el Acta)"/>
     </intervention>
   </section>
   <section id="creitem5" title="4.1. Nombramientos en las comisiones parlamentarias: véase el Acta">
-    <intervention id="4-010" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken">
+    <intervention id="4-010" speaker_id="28233" name="Rebecca HARMS" is_mep="True" mode="spoken" nationality="Germany" birth_date="07-12-1956" birth_place="Hambrock bei Uelzen" p_group="Group of the Greens/European Free Alliance - Co" m_state="DE">
       <p sl="de">Señor Presidente, ayer recibimos noticias muy tristes procedentes de Grozny, Chechenia. La periodista Natalia Estemirova, a la que todos los miembros de nuestro grupo conocíamos bien, ha sido asesinada allí. La encontraron muerta justo al otro lado de la frontera entre Chechenia e Inguchetia después que la hubieran raptado en Grozny. Natalia Estemirova tenía un compromiso extraordinario con su trabajo para Memorial en Chechenia. Nos gustaría que respaldaran nuestra solicitud de recordar a esta periodista tan comprometida y pionera en la lucha por la paz y los derechos humanos en Chechenia guardando un minuto de silencio.</p>
       <a text="(Aplausos)"/>
     </intervention>
   </section>
   <section id="creitem6" title="5. Comunicación de la Presidencia">
-    <intervention id="4-012" speaker_id="4308" name="Presidente" is_mep="True" mode="spoken">
+    <intervention id="4-012" speaker_id="4308" name="Alejo VIDAL-QUADRAS" is_mep="True" mode="spoken" nationality="Spain" birth_date="20-05-1945" birth_place="Barcelona" p_group="Group of the European People's Party (Christian Democrats)" m_state="ES">
       <p sl="es">(Tras la intervención de la Sra. Harms, véase el punto 4.1). Sí, señora Harms. Sobre el asunto que usted acaba de mencionar, debo informar a la Cámara de que el Presidente Buzek ha hecho una declaración pública, que paso a leerles.</p>
     </intervention>
   </section>
@@ -24,7 +24,7 @@
   <section id="creitem8" title="7. Transmisión de los textos aprobados por el Parlamento durante la presente sesión: véase el Acta"/>
   <section id="creitem9" title="8. Calendario de las próximas sesiones: véase el Acta"/>
   <section id="creitem10" title="9. Interrupción del período de sesiones">
-    <intervention id="4-018" speaker_id="4308" name="Presidente" is_mep="True" mode="spoken">
+    <intervention id="4-018" speaker_id="4308" name="Alejo VIDAL-QUADRAS" is_mep="True" mode="spoken" nationality="Spain" birth_date="20-05-1945" birth_place="Barcelona" p_group="Group of the European People's Party (Christian Democrats)" m_state="ES">
       <p sl="es">Declaro interrumpido el período de sesiones del Parlamento Europeo.</p>
       <a text="(Se levanta la sesión a las 9.15 horas)"/>
     </intervention>

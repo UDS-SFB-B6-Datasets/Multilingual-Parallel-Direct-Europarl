@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="19990720.PT" lang="pt" date="1999-07-20" place="Estrasburgo" edition="Edição JO">
   <section id="creitem1" title="Reinício da sessão">
-    <intervention id="2-001" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-001" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Declaro reaberta a sessão do Parlamento Europeu, que tinha sido interrompida em 7 de Maio de 1999, e declaro aberta a sessão prevista no n� 3 do artigo 10� do Acto relativo à eleição dos representantes ao Parlamento Europeu por sufrágio universal directo e no n� 3 do artigo 10� do Regimento do Parlamento.</p>
       <p sl="unknown">O senhor deputado Crowley pediu a palavra para uma questão prévia.</p>
     </intervention>
-    <intervention id="2-002" speaker_id="2109" name="Crowley" is_mep="True" mode="spoken">
+    <intervention id="2-002" speaker_id="2109" name="Brian CROWLEY" is_mep="True" mode="spoken" nationality="Ireland" birth_date="04-03-1964" birth_place="Dublin" p_group="European Conservatives and Reformists Group" m_state="IE">
       <p sl="en">Senhor Presidente, gostaria de lhe agradecer a oportunidade que me concede de falar a este Parlamento. Gostaria de registar o meu protesto relativamente à falta de instalações adequadas à minha condição, na qualidade de deputado desta câmara. Há dois anos e meio atrás, dirigi-me às autoridades que tinham em mãos a construção deste novo edifício e informei-as das minhas necessidades, neste hemiciclo, decorrentes da minha deficiência física. Na altura, garantiram-me que me seriam oferecidas todas as condições. Cheguei aqui no mês passado e falei com os arquitectos e construtores em relação às adaptações necessárias do meu lugar dentro deste hemiciclo. Escrevi igualmente ao antigo Presidente, informando-o das dificuldades que poderiam surgir.</p>
       <p sl="en">Cheguei aqui hoje, após ter sido reeleito para este Parlamento, e descobri que, em primeiro lugar, não posso ir do nível «0» do edifício para o «1» sem obter um cartão de segurança de um dos serviços de segurança. Esta manhã fui retido durante 24 minutos, e ontem à noite 38 minutos, à espera que alguém me trouxesse o cartão.</p>
       <p sl="en">Em segundo lugar, não posso sentar-me junto do meu grupo político porque não existem instalações que me permitam ocupar esses lugares. Em terceiro lugar, é profundamente lamentável que, tendo sido despendido tanto dos dinheiros públicos neste edifício, não consigamos dar o exemplo ao sec. XXI – ao novo milénio – do tipo de sociedade abrangente que o Parlamento Europeu defende para o futuro.</p>
@@ -13,12 +13,12 @@
       <p sl="en">Gostaria de terminar com uma citação de George Bernard Shaw: «O ódio pelo teu semelhante não é o maior pecado, mas a indiferença, essa sim, é a essência da desumanidade.» Hoje, aqui, assistiu-se a isso. Faço questão de registar este protesto. Participarei na sessão, mas gostaria que as minhas profundas objecções fossem ouvidas por todos neste hemiciclo e em toda a Europa, quando a sessão for hoje transmitida pela televisão.</p>
       <a text="(Vivos e prolongados aplausos)"/>
     </intervention>
-    <intervention id="2-003" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-003" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Senhor Deputado Crowley, o seu protesto será, naturalmente, registado em acta. Em meu nome pessoal, gostaria de expressar um vivo lamento pelo sucedido. Não posso fazer mais do que transmitir a garantia, que me é dada neste momento, de que os serviços procederão às necessárias melhorias técnicas que requer, em tempo útil para o período de sessões de Setembro. Estou certo de que o Presidente eleito se encarregará pessoalmente de zelar pelo efectivo respeito deste compromisso e deste prazo.</p>
     </intervention>
   </section>
   <section id="creitem2" title="Decano">
-    <intervention id="2-004" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-004" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Comunico que, nos termos do n� 1 do artigo 12� do Regimento, as funções de decano cabem ao senhor deputado Mário Soares. Contudo, o senhor deputado considerou oportuno não assumir essas funções, dado que é candidato à Presidência do Parlamento. Nestas circunstâncias, assumirei eu, portanto, tais funções.</p>
       <p sl="unknown">Caros colegas, vou dizer apenas algumas breves palavras. Não é a primeira vez que exerço as funções de Presidente de uma assembleia parlamentar, mas é a primeira vez que o faço na qualidade de decano – ainda que em substituição de um ilustre colega mais velho do que eu –, e não escondo algum embaraço. Trata-se, todavia, de uma ocasião muito propícia para dirigir a cada um de vós calorosos votos de boas-vindas a esta assembleia, na qual tive já a honra de participar durante alguns anos. Fui, sobretudo, durante muitos anos, membro do parlamento do meu país, a Itália. Acredito convictamente na instituição parlamentar e estou particularmente convencido de que a legitimação democrática de todo o processo de integração europeia assenta neste Parlamento, no pleno reconhecimento do seu papel e também na sua capacidade de colaboração com os parlamentos nacionais.</p>
       <p sl="unknown">É sabido que o nosso Parlamento conquistou mais amplos poderes, e que deve prosseguir nessa via. Cabe-nos agora dar um contributo decisivo para a reforma das instituições da União, para a construção de uma verdadeira democracia europeia. É esta a tarefa que nos une, independentemente das importantes diferenças políticas que nos caracterizam e que se manifestarão, certamente, em acalorados debates. Neste hemiciclo, nesta nossa nova e bela casa, haverá dialéctica, haverá confronto de ideias, mas não esqueceremos nunca a causa a que se entregaram grandes figuras da vida europeia: permitam-me citar, a título de exemplo, um nome que nos é caro – foi muito o que com ele aprendi, e tenho bem presente a sua luta ao longo de dez anos, neste hemiciclo –, o nome de Altiero Spinelli.</p>
@@ -27,56 +27,56 @@
       <p sl="unknown">Bom trabalho para a quinta legislatura!</p>
       <p sl="unknown">Recordo que, de acordo com o Regimento, durante a presidência do Decano não é permitido qualquer debate cujo objecto seja estranho, em termos processuais, à eleição do Presidente ou à verificação de poderes.</p>
     </intervention>
-    <intervention id="2-005" speaker_id="4740" name="Cappato" is_mep="True" mode="spoken">
+    <intervention id="2-005" speaker_id="4740" name="Marco CAPPATO" is_mep="True" mode="spoken" nationality="Italy" birth_date="25-05-1971" birth_place="Milano" p_group="Group of the Alliance of Liberals and Democrats for Europe" m_state="IT">
       <p sl="it">Senhor Presidente, peço a palavra para uma invocação do Regimento, pensando no futuro, obviamente. O n� 2 do artigo 14� refere que o discurso inaugural apenas poderá ser proferido pelo Presidente eleito.</p>
     </intervention>
-    <intervention id="2-006" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-006" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Agradeço o seu esclarecimento, mas não sabe o tempo que eu teria demorado se tivesse feito uma alocução!</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-007" speaker_id="2155" name="Watson" is_mep="True" mode="spoken">
+    <intervention id="2-007" speaker_id="2155" name="Sir Graham WATSON" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="23-03-1956" birth_place="Rothesay " p_group="Group of the Alliance of Liberals and Democrats for Europe" m_state="GB">
       <p sl="en">Senhor Presidente, antes de passarmos à eleição do Presidente deste Parlamento, gostaria de lhe solicitar que confirmasse que o Anexo I do nosso Regimento está a ser observado. O n� 2 do artigo 1� do Anexo I do nosso Regimento afirma que qualquer deputado, antes de poder ser oficialmente nomeado membro titular do Parlamento, deverá ter preenchido devidamente a declaração de interesses financeiros. Solicitava-lhe que confirmasse se na realidade esta disposição foi cumprida.</p>
     </intervention>
-    <intervention id="2-008" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-008" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Confirmo-lhe, em nome dos serviços do Parlamento, que isso foi feito.</p>
     </intervention>
   </section>
   <section id="creitem3" title="Eleição do Presidente">
-    <intervention id="2-009" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-009" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Caros colegas, em conformidade com o Regimento, vamos proceder esta manhã à eleição do Presidente.</p>
       <p sl="unknown">Nos termos do artigo 13� do Regimento, as candidaturas às funções de Presidente do Parlamento Europeu devem ser apresentadas, com a concordância dos interessados, por um grupo político ou por um mínimo de trinta e dois deputados.</p>
       <p sl="unknown">Nos termos do artigo 14� do Regimento, foram apresentadas as seguintes candidaturas à Presidência do Parlamento Europeu:</p>
       <p sl="unknown">deputada Nicole Fontaine deputada Laura González Álvarez deputada Heidi Hautala deputado Mário Soares</p>
       <p sl="unknown">Posteriormente, o Grupo GUE/NGL declarou que retirava a candidatura da deputada González Álvarez. Sobre essa questão o deputado Wurtz pediu a palavra.</p>
     </intervention>
-    <intervention id="2-010" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-010" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Senhor Presidente, pela primeira vez em dez anos, vamos de facto votar para a eleição do Presidente, ou da Presidente, do Parlamento Europeu sem nenhum daqueles acordos prévios entre os grupos democrata-cristão e socialista que simbolizavam, em minha opinião, uma espécie de soberania que bloqueava o debate democrático. Neste momento, mais pelo acaso das circunstâncias do que pela vontade política dos dois principais grupos, assistimos a um confronto direita-esquerda. O Grupo da Esquerda Unitária Europeia …</p>
     </intervention>
-    <intervention id="2-011" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-011" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Solicito-lhe que se circunscreva ao tema da retirada da candidatura da senhora deputada González Álvarez, sem tecer considerações políticas relativamente à questão da eleição do Presidente.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-012" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-012" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Absolutamente de acordo, Senhor Presidente, mas, como sabe, aqui tudo é político. Mas vou ter em linha de conta a sua observação. Na primeira volta, em que a eleição do Presidente do Parlamento não tinha inicialmente qualquer possibilidade de ocorrer, tínhamos decidido apresentar a candidatura da senhora deputada Laura González Álvarez, de forma a afirmarmos o nosso lugar específico no seio da esquerda. Os últimos desenvolvimentos da situação, nomeadamente a conclusão de um contrato de legislatura entre os dois principais grupos de direita, fazem com que já não possamos ignorar que tudo se irá decidir na primeira volta do escrutínio. Para uma direita coligada e segura de si, queremos então contribuir opondo uma esquerda unida e ofensiva …</p>
     </intervention>
-    <intervention id="2-013" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-013" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Lamento, Senhor Deputado Wurtz, mas sou obrigado a retirar-lhe a palavra. Tudo é político: teremos cinco anos para debater as questões políticas, mas não vamos fazê-lo neste momento.</p>
       <a text="(Aplausos)"/>
       <p sl="unknown">Mantêm-se, pois, três candidaturas, das quatro iniciais: a senhora deputada Nicole Fontaine, a senhora deputada Heidi Hautala e o senhor deputado Mário Soares, tendo sido retirada, de acordo com a intervenção do senhor deputado Wurtz, a candidatura da senhora deputada González Álvarez.</p>
       <p sl="unknown">Observo que, nos termos do artigo 14� do Regimento, para ser eleito nos três primeiros escrutínios, um candidato deve obter a maioria absoluta dos votos expressos. Os votos brancos ou nulos não são considerados na contabilização dos votos. Passo agora ao sorteio dos seis escrutinadores.</p>
       <a text="(O Presidente procede ao sorteio dos escrutinadores)"/>
     </intervention>
-    <intervention id="2-014" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-014" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Foram designados como escrutinadores os seguintes deputados:</p>
       <p sl="unknown">senhor deputado Baltas senhora deputada O"Toole senhor deputado Ortuondo Larrea senhor deputado Katiforis senhora deputada Sanders-ten Holte senhora deputada Sauquillo Pérez del Arco</p>
       <a text="(Procede-se à votação)"/>
     </intervention>
-    <intervention id="2-015" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-015" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Declaro encerrado o escrutínio.</p>
       <p sl="unknown">Convido os escrutinadores a procederem à contagem dos votos.</p>
       <a text="(A sessão, suspensa às 11H15 para permitir a contagem dos votos, é reiniciada às 12H20)"/>
     </intervention>
-    <intervention id="2-016" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-016" speaker_id="1103" is_mep="True" mode="spoken" role="Presidente" name="Giorgio NAPOLITANO" nationality="Italy" birth_date="29-06-1925" birth_place="Napoli" p_group="Group of the Party of European Socialists" m_state="IT">
       <p sl="unknown">Comunico o resultado do escrutínio para a eleição do Presidente.</p>
       <p sl="unknown">Número de votantes: 615 Boletins em branco ou nulos: 60, cinco dos quais não regulamentares, contendo o nome do senhor deputado Mário Soares Votos expressos nos termos do n� 1 do artigo 136� do Regimento: 555</p>
       <p sl="unknown">A maioria requerida é de 278 votos. Os resultados foram os seguintes:</p>
@@ -85,7 +85,7 @@
       <p sl="unknown">Felicito a senhora deputada Fontaine pela sua eleição. Desejo-lhe as maiores felicidades para o exercício do seu mandato, e convido-a a ocupar a cadeira da presidência.</p>
       <a text="(Vivos aplausos)"/>
     </intervention>
-    <intervention id="2-017" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-017" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Caros colegas, acabam de me fazer uma das mais belas surpresas da minha vida. Devo dizer-lhes que estou muito emocionada. Não vou fazer um discurso, isso fica para amanhã. Vou dizer apenas algumas palavras para lhes agradecer verdadeiramente do fundo do coração a confiança que acabam de me testemunhar. É uma confiança um pouco esmagadora, mas devo dizer-lhes que farei tudo o que puder para ser digna dela e para que trabalhemos maravilhosamente em conjunto, como aliás aconteceu até agora.</p>
       <p sl="unknown">Se me permitem, dirigiria duas palavras muito concretamente às colegas deputadas – penso que os meus colegas homens mo permitirão – que sempre me apoiaram maravilhosamente, tal como todos os outros, mas gostaria de dizer que esta eleição é também um pouco a vossa, pois é um facto que, desde Simone Veil, em 1979, há vinte anos, não havia uma mulher na presidência do Parlamento Europeu, e estou muito orgulhosa desse facto.</p>
       <a text="(Vivos aplausos)"/>
@@ -94,17 +94,17 @@
       <a text="(Vivos aplausos)"/>
       <p sl="unknown">O senhor deputado Mário Soares está a pedir-me a palavra e eu dou-lha imediatamente.</p>
     </intervention>
-    <intervention id="2-018" speaker_id="4443" name="Soares" is_mep="True" mode="spoken">
+    <intervention id="2-018" speaker_id="4443" name="Mário SOARES" is_mep="True" mode="spoken" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="pt">Muito obrigado, Senhora Presidente. Permita-me que as minhas primeiras palavras sejam para a felicitar. Fez uma campanha muito boa, portou-se com grande dignidade e foi realmente muito elegante nos contactos que tivemos. Por isso, quero felicitá-la muito sinceramente e desejar-lhe uma excelente presidência, que estou certo que vai fazer. E, se me permite, também queria agradecer àqueles que votaram em mim. Com a minha candidatura desencadeámos uma nova dinâmica, e eu quereria agradecer não só àqueles que pertencem ao meu grupo, mas também aos que, sendo de outros grupos, também votaram em mim.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-019" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-019" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Obrigada, Senhor Deputado Soares.</p>
     </intervention>
-    <intervention id="2-020" speaker_id="2054" name="Hautala" is_mep="True" mode="spoken">
+    <intervention id="2-020" speaker_id="2054" name="Heidi HAUTALA" is_mep="True" mode="spoken" nationality="Finland" birth_date="14-11-1955" birth_place="Oulu" m_state="FI">
       <p sl="fi">Senhora Presidente, em nome do Grupo dos Verdes/Aliança Livre Europeia do Parlamento Europeu, quero felicitá-la calorosamente. De facto, sabemos já que é uma Presidente muito justa e competente e afirmamos que queremos continuar a trabalhar em conjunto a fim de que todas as reformas internas possam ser realizadas. Por exemplo, o estatuto dos deputados do Parlamento é actualmente uma matéria muito importante. Quero felicitá-la pessoalmente pelo facto de ser, após um longo período, a primeira mulher a presidir a esta casa. Eu própria colhi uma experiência bastante boa consigo nos diferentes comités de conciliação, e no nosso grupo sabemos que irá exercer extremamente bem a função de Presidente. A nossa tarefa comum é representar neste Parlamento os cidadãos da Europa, a fim de que também eles possam ter influência nos assuntos da União Europeia. Uma vez mais, as nossas felicitações.</p>
     </intervention>
-    <intervention id="2-021" speaker_id="1253" name="Poettering" is_mep="True" mode="spoken">
+    <intervention id="2-021" speaker_id="1253" name="Hans-Gert PÖTTERING" is_mep="True" mode="spoken" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Madame la Présidente , caríssima Senhora Presidente, felicito-a muito sinceramente em nome do Grupo do Partido Popular Europeu. Faço-o igualmente e com todo o prazer em meu nome pessoal, dado que, desde 1984, mantemos aqui no Parlamento Europeu um trabalho conjunto baseado na confiança e na amizade. Desejo à senhora Presidente todo o êxito que corresponde aos seus próprios anseios e expectativas, todo o êxito que todos nós desejamos para este Parlamento.</p>
       <p sl="de">Quando, em Maio passado, aqui em Estrasburgo, durante a última semana de sessões parlamentares, concluiu a sua presidência da sessão, disse-nos o seguinte: «Dou por concluída a minha participação na sessão. É a última vez que conduzo uma sessão na qualidade de Vice-presidente.» Nesse momento, a senhora Presidente recebeu grandes aplausos – no que foi, para mim e para todos os que se encontravam presentes, uma situação única e irrepetível – e todos se levantaram, atitude de que até àquela data só tinham sido alvo Presidentes. E é por esta razão que todos nós, seja qual for o nosso posicionamento nesta assembleia, seja onde for que tenhamos assento, dizemos: se existe justiça, precisamente aqui no Parlamento Europeu, então essa justiça política tornou-se realidade com a eleição da colega Nicole Fontaine para Presidente do Parlamento Europeu!</p>
       <p sl="de">Jean Monnet disse em tempos: «Nada é possível sem as pessoas, nada é duradouro sem as instituições.» Desde 1979 até à actualidade que o Parlamento Europeu percorreu um longo caminho e, neste momento, encontrámos em Nicole Fontaine a personalidade certa para, num futuro positivo, continuar a ser a representante das competências, dos poderes e da dignidade deste Parlamento. Quero desejar à colega Nicole Fontaine felicidades e muito êxito e assegurar-lhe que poderá sempre contar com o apoio do grupo político mais forte desta casa, grupo que apresentou a proposta em apreço, necessária ao seu sentido do dever político e da democracia!</p>
@@ -113,44 +113,44 @@
       <p sl="de">Colega Heidi Hautala – temos tido uma boa colaboração nos últimos dias e uma expressão dessa boa colaboração é o facto de a colega ser a presidente do Grupo dos Verdes, tendo enquanto tal assento na primeira fila, exactamente do mesmo modo que o presidente do Grupo ELDR, o colega Pat Cox. Vamos prosseguir o nosso trabalho neste espírito de abertura e nesta atmosfera de fairplay e, apesar dos nossos antagonismos pessoais ou políticos – o que é normal em democracia –, vamos ser objectivos e vamos fazer avançar a união da Europa! É o que eu desejo à senhora Presidente e a todos nós!</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-022" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+    <intervention id="2-022" speaker_id="1352" name="Enrique BARÓN CRESPO" is_mep="True" mode="spoken" nationality="Spain" birth_date="27-03-1944" birth_place="Madrid" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="fr">Senhora Presidente, permita-me expressar-me na sua língua, antes de mais para a felicitar e lhe desejar muita sorte, e também para lhe assegurar a colaboração e a amizade do Grupo do Partido dos Socialistas Europeus.</p>
       <p sl="fr">Trabalhamos juntos há anos nas nossas diferentes responsabilidades. Sei muito bem o que representa o seu cargo, pois, há dez anos, num dia de Julho, coube-me também a mim subir à mesa da presidência. A senhora trabalhou enquanto Vice-presidente durante a minha presidência e as que se seguiram e conquistou uma grande estima nesta casa pelo seu trabalho, em primeiro lugar enquanto Vice-presidente, sobretudo nos dias de votações difíceis, mas também pelo seu comprometimento europeu de longa data que nos levou também a colaborar em outras missões e outras plataformas.</p>
       <p sl="fr">Posso assegurar-lhe, Senhora Presidente, que, se até agora foi candidata de um grupo político, é agora Presidente de todos os deputados do Parlamento Europeu, e estou certo de que estará à altura da sua tarefa. No que respeita ao Grupo do Partido dos Socialistas Europeus, terá todo o apoio necessário para levar a bom porto, não só as reformas indispensáveis a introduzir neste recinto, antes de mais no estatuto dos deputados e no dos assistentes, mas também para abrir de par em par as janelas da instituição às nossas concidadãs e aos nossos concidadãos, em toda a Europa dos Quinze e para além dela, pois estamos a construir, não só esta casa, mas também uma Europa mais unida. Neste contexto, creio que pode contar com o nosso apoio leal e com a nossa amizade, e espero que, quer na Mesa, quer nos prazos que nos esperam, possamos dar o nosso melhor, não só para fazer andar para a frente o nosso Parlamento, mas também para fazer avançar a Europa.</p>
       <p sl="fr">Se me permite, e para concluir, gostaria de expressar também a minha estima e a minha amizade por um antigo camarada, Mário Soares, que conheço desde a época da luta antifascista no meu país e em Portugal. Constitui um exemplo, não só de um lutador tenaz pela democracia no seu país, de um grande homem que ajudou ao processo de descolonização e a criar um mundo um pouco mais justo e mais aberto, mas sobretudo penso que encarna de forma admirável a dimensão, digamos, desportiva, que há que reconhecer à democracia. Gostaria também de saudar a senhor deputada Hautala, e espero que, todos juntos, sejamos capazes de fazer avançar a causa da democracia e da Europa unida.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-023" speaker_id="1287" name="Cox" is_mep="True" mode="spoken">
+    <intervention id="2-023" speaker_id="1287" name="Pat COX" is_mep="True" mode="spoken" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="fr">Bravo, Nicole, e parabéns, Senhora Presidente.</p>
       <p sl="fr">Esta manhã, pedi antecipadamente à Nicole um pequeno esclarecimento, um conselho, para o caso de ela subir aqui hoje à mesa da presidência. Na língua de Molière, qual é a regra quando uma mulher é eleita presidente? Ela respondeu-me: segundo a Academia Francesa, pode dizer-se «Madame le Président » ou «Madame la Présidente ». Então, Madame la Présidente – que, segundo a Academia Francesa, está perfeitamente correcto –, gostaria de a felicitar, não só por ter sido agora eleita Presidente da nossa assembleia para os próximos anos, mas também por ser a primeira mulher desde há vinte anos, como a senhora já disse, a suceder como Presidente à minha antiga colega Simone Veil. Felicito-a também, não só por ser Presidente e uma mulher presidente, mas também por ser uma excelente colega desde há anos a esta parte, e desejo-lhe um óptimo trabalho para o Parlamento, para a reforma interna, mas sobretudo para a assembleia e para a Europa, porque sei o quanto está ligada pessoalmente à Europa, à nossa visão comum.</p>
       <p sl="fr">Gostaria também de dizer ao nosso colega português, Mário Soares, que o felicito pelo facto de, ao tomar parte nesta eleição, ter proporcionado à assembleia a capacidade de disputar o lugar, pois essa é a verdadeira política, a verdadeira democracia.</p>
       <p sl="fr">No seio do Grupo do Partido Europeu dos Liberais, Democratas e Reformistas, optámos por apoiar a sua candidatura, Senhora Presidente, não para formar uma coligação política, mas como expressão política para o período de sessão constitutiva, pois, de vez em quando, são necessários equilíbrios políticos entre as grandes formações políticas europeias. Tendo sido eleita hoje Presidente da nossa assembleia, dispõe também do necessário equilíbrio político entre as instituições para um futuro definido, com vista a um trabalho comum para a Europa, para a reforma interna e para toda a assembleia. Parabéns, e bravo, cara colega.</p>
     </intervention>
-    <intervention id="2-024" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-024" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Muitíssimo obrigada, Senhor Deputado Cox.</p>
       <p sl="unknown">Tem a palavra o senhor deputado Wurtz.</p>
     </intervention>
-    <intervention id="2-025" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-025" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Senhora Presidente, também eu a desejo felicitar, em nome do Grupo da Esquerda Unitária Europeia/Esquerda Nórdica Verde. A senhora é agora a Presidente de todos nós e de todas nós.</p>
       <p sl="fr">Gostaria de acrescentar aquilo que tive ocasião de lhe dizer quando veio visitar o nosso grupo há alguns dias, a saber, que todos sabem que não pertencemos ao mesmo lado político. Não lho escondi, inclusive no que respeita às implicações que isso teria hoje, mas as divergências políticas não excluem a estima pessoal.</p>
       <p sl="fr">O nosso desejo é então o de que dê provas, como Presidente, da mesma lealdade e da mesma equidade que lhe fizeram tantos amigos nesta casa como primeira Vice-presidente da nossa anterior assembleia.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-026" speaker_id="2106" name="Collins" is_mep="True" mode="spoken">
+    <intervention id="2-026" speaker_id="2106" name="Gerard COLLINS" is_mep="True" mode="spoken" nationality="Ireland" birth_date="16-10-1938" birth_place="Limerick" p_group="Union for Europe of the Nations Group - Vice" m_state="IE">
       <p sl="en">Senhora Presidente, gostaria de lhe desejar felicidades pela sua eleição como Presidente do Parlamento Europeu. Congratulo-me bastante com o facto de o Parlamento ter adquirido uma excelente Presidente e estou igualmente certo de que sempre cumprirá os seus deveres com dignidade e isenção.</p>
       <p sl="en">A senhora Presidente ganhou o respeito deste Parlamento durante o período em que o serviu como Vice-presidente e nas várias funções que desempenhou. Em nome deste Parlamento, gostaria de lhe desejar o maior êxito durante o seu mandato. O Parlamento tem uma excelente Presidente. Todos lhe desejamos felicidades.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-027" speaker_id="1073" name="Muscardini" is_mep="True" mode="spoken">
+    <intervention id="2-027" speaker_id="1073" name="Cristiana MUSCARDINI" is_mep="True" mode="spoken" nationality="Italy" birth_date="06-11-1948" birth_place="Cannobio " p_group="Group of the European People's Party (Christian Democrats)" m_state="IT">
       <p sl="it">Senhora Presidente, a Aliança Nacional sabe que liderará este Parlamento com o espírito de democracia e de equilíbrio que já pudemos testemunhar na passada legislatura. O seu forte empenhamento no sentido de uma Europa livre e unida politicamente, o seu respeito pelas instituições democráticas, a sua aposta num Parlamento que possa ter, finalmente, uma relação forte, consciente e transparente com a Comissão, fazem-nos, naturalmente, acreditar que, nos próximos anos, o consociativismo do passado será, efectivamente, algo do passado, e que se iniciará uma verdadeira colaboração entre todos os grupos deste Parlamento. Esta Europa começa a legislatura num momento de grande dificuldade devido aos acontecimentos junto das nossas fronteiras: um momento de grande dificuldade porque o processo de unificação política e o projecto de política económica estão ainda longe de ser alcançados. Uma presidência forte, simpática e competente, equilibrada e justa, como a senhora Presidente mostrou já ser capaz de exercer, dá-nos esperança e confiança para trabalharmos conjuntamente, todos, a fim de corresponder às exigências dos cidadãos europeus, que continuam a esperar de nós uma resposta clara sobre o seu futuro.</p>
     </intervention>
-    <intervention id="2-028" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="2-028" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="da">Madame la Présidente, chère Nicole, o Grupo para a Europa das Democracias e das Diferenças gostaria igualmente de a felicitar pela eleição de hoje. Estou certo de que será a Presidente que se ocupará dos interesses comuns dos deputados. Damos particular ênfase a que se arrume agora o Parlamento, para que uma viagem que custa 300 euros não seja reembolsada com 1000 euros, para que a remuneração entre pela porta da frente e não seja encapotada sob a forma de regalias que entram pela porta dos fundos. O meu grupo mantém-se muito crítico face ao centralismo e à falta de abertura da UE. Estou certo de que, juntos, vamos poder trabalhar de forma construtiva, com vista a tornar aberto o processo de decisão na UE. Existem outros domínios relativamente aos quais não iremos poder oferecer-lhe cooperação construtiva, mas antes oposição construtiva, o que se deve, naturalmente, ao facto de a senhora Presidente querer mais integração quando nós queremos menos integração. Mas podemos oferecer-lhe uma oposição construtiva.</p>
       <p sl="da">Em seguida, um comentário de carácter particular para o senhor Doutor Mário Soares. Faz 25 anos por estes dias que o visitei num apartamento em Paris, onde se encontrava exilado. Eu era um grande admirador da sua luta pela democracia em Portugal e prestei-lhe o meu apoio, providenciando a publicação dos seus discursos nos jornais escandinavos e divulgando as suas mensagens. Mas hoje não pude apoiá-lo porque, não obstante estarmos de acordo quanto à democracia em Portugal, o meu grupo não concorda com o ponto de vista que preconiza relativamente aos Estados Unidos da Europa. Portanto, não pudemos votar no senhor Doutor Mário Soares, apesar de o seu passado e a sua história me falarem ao coração.</p>
       <p sl="da">Em seguida, um comentário pessoal, como um dos dez veteranos que está no Parlamento desde 1979. Nicole Fontaine é a melhor Presidente que já tivemos. Ao encerrarmos a sessão de Maio, verificou-se um apoio unânime e um forte aplauso de toda esta sala, pela excelente forma como conduziu as reuniões durante o último período eleitoral. Consequentemente, não foram, de modo algum, razões políticas que hoje me levaram a votar a seu favor, mas antes porque espero que possa continuar a desempenhar o seu papel como delegada de todos os deputados. E com estas palavras quero dar-lhe as boas-vindas como nova Presidente do Parlamento para o próximo período de 2 anos e meio.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-029" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-029" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Obrigada, Senhor Deputado Bonde.</p>
       <p sl="unknown">Caros colegas, estou imensamente sensibilizada com o que acabo de ouvir. Amanhã, no meu discurso de abertura, responderei a muitas preocupações e reflexões referidas pelos senhores. Neste momento, se estiverem de acordo, vamos suspender esta sessão, mas, antes de o fazer, gostaria de agradecer ao senhor deputado Napoletano, que presidiu aos nossos debates desta manhã com grande talento e grande sangue frio, quando chamámos a atenção para a falha de tradução. Por fim, tudo se resolveu. Presidiu de uma forma notável a essa sessão de abertura e eu gostaria, em nome de todos, de lho agradecer.</p>
       <a text="(Aplausos)"/>
@@ -158,7 +158,7 @@
     </intervention>
   </section>
   <section id="creitem4" title="Eleição dos Vice-presidentes">
-    <intervention id="2-030" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-030" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Caros colegas, segue-se na ordem do dia a eleição dos Vice-presidentes do Parlamento Europeu.</p>
       <p sl="unknown">Em princípio, terão à vossa frente a lista dos candidatos. Vou lê-la em voz alta. Os boletins de voto estão a ser distribuídos, uma vez que preferimos, mais uma vez, proceder a uma votação por aclamação, já que há catorze candidatos para catorze lugares. Utilizaremos os benefícios da electrónica um pouco mais tarde.</p>
       <p sl="unknown">Comunico que recebi as seguintes candidaturas:</p>
@@ -171,7 +171,7 @@
       <a text="(Procede-se à votação)"/>
       <a text="(A sessão, suspensa às 15H40, é reiniciada às 18H05)"/>
     </intervention>
-    <intervention id="2-031" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-031" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Caros colegas, permitam-me, como combinado, anunciar-lhes o resultado do escrutínio por ordem de precedência dos Vice-presidentes.</p>
       <p sl="unknown">Número de votantes: 594 Boletins brancos ou nulos: 26 Votos expressos: 568</p>
       <p sl="unknown">Obtiveram:</p>
@@ -184,19 +184,19 @@
     </intervention>
   </section>
   <section id="creitem5" title="Eleição dos Questores">
-    <intervention id="2-032" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-032" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">No que respeita à eleição dos Questores, que terá lugar amanhã de manhã, proponho-lhes fixarmos o prazo de apresentação das candidaturas até às 20H00 de hoje. Essas candidaturas devem ser entregues no mesmo local que as dos Vice-presidentes, isto é, na salinha ao lado do hemiciclo.</p>
     </intervention>
-    <intervention id="2-033" speaker_id="2295" name="Swoboda" is_mep="True" mode="spoken">
+    <intervention id="2-033" speaker_id="2295" name="Hannes SWOBODA" is_mep="True" mode="spoken" nationality="Austria" birth_date="10-11-1946" birth_place="Bad Deutsch Altenburg" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Vice" m_state="AT">
       <p sl="de">Senhora Presidente, o prazo que indicou não levanta problemas aos grupos que apenas têm um bom candidato para a eleição dos Questores. O nosso problema é que o nosso grupo tem vários bons candidatos e vamos ter de fazer uma selecção em primeiro lugar. Queria, portanto, pedir-lhe que, uma vez que a eleição não se realiza logo de manhã cedo, estabelecesse como prazo uma hora mais tardia, por exemplo as 22H00. Quanto a mim podia ser inclusive as 24H00, mas nunca antes das 22H00 de hoje. É este o pedido urgente que faço em nome do meu grupo!</p>
     </intervention>
-    <intervention id="2-034" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-034" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Senhor Deputado Swoboda, penso que podemos alargar ainda mais o prazo e propor, se estiver de acordo, amanhã de manhã às 9H00. Assim, terá toda a noite para dormir sobre o assunto.</p>
     </intervention>
-    <intervention id="2-035" speaker_id="2295" name="Swoboda" is_mep="True" mode="spoken">
+    <intervention id="2-035" speaker_id="2295" name="Hannes SWOBODA" is_mep="True" mode="spoken" nationality="Austria" birth_date="10-11-1946" birth_place="Bad Deutsch Altenburg" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Vice" m_state="AT">
       <p sl="de">Senhora Presidente, se vai ser sempre tão generosa, vamos estar sempre muito satisfeitos consigo!</p>
     </intervention>
-    <intervention id="2-036" speaker_id="945" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-036" speaker_id="945" is_mep="True" mode="spoken" role="Presidente" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Caros colegas, chegámos ao fim da ordem do dia.</p>
       <a text="(A sessão é suspensa às 18H1O)"/>
     </intervention>

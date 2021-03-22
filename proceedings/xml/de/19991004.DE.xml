@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="19991004.DE" lang="de" date="1999-10-04" place="Straßburg" edition="Ausgabe im ABl.">
   <section id="creitem1" title="Wiederaufnahme der Sitzungsperiode">
-    <intervention id="1-004" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-004" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Ich erkläre die am Freitag, dem 17. September unterbrochene Sitzungsperiode des Europäischen Parlaments für wiederaufgenommen.</p>
     </intervention>
   </section>
   <section id="creitem2" title="Erklärung des Präsidenten">
-    <intervention id="1-006" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-006" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Wie Sie alle wissen, hat sich am Morgen des 21. September in Taiwan ein schreckliches Erdbeben der Stärke 7,6 auf der Richterskala ereignet. Mehrere Tausend Menschen wurden getötet oder schwer verletzt, und die Sachschäden sind enorm. Ich möchte im Namen des Europäischen Parlaments den Opfern dieser Tragödie sowie ihren Familien mein tief empfundenes Mitgefühl und meine aufrichtige Solidarität aussprechen.</p>
     </intervention>
   </section>
   <section id="creitem3" title="Genehmigung des Protokolls der vorangegangenen Sitzung">
-    <intervention id="1-008" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-008" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Das Protokoll der Sitzung vom 17. September ist verteilt worden.</p>
       <p sl="unknown">Gibt es Einwände?</p>
     </intervention>
-    <intervention id="1-009" speaker_id="2335" name="Maes" is_mep="True" mode="spoken">
+    <intervention id="1-009" speaker_id="2335" name="Nelly MAES" is_mep="True" mode="spoken" nationality="Belgium" birth_date="25-02-1941" birth_place="Sinaai" p_group="Group of the Greens/European Free Alliance - Vice" m_state="BE">
       <p sl="nl">Frau Präsidentin! Schon des öfteren ist in diesem Parlament über das Schicksal von Herrn van Buitenen gesprochen und zum wiederholten Male für seine Rehabilitierung plädiert worden. Ich bin hoch erfreut über die gefundene Lösung, durch die das Verfahren gegen Herrn van Buitenen eingestellt wurde, so daß sein Wechsel in ein anderes Amt ermöglicht wird. Ich hoffe, er kann im Parlament tätig sein.</p>
     </intervention>
-    <intervention id="1-010" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-010" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Vielen Dank, Frau Maes. Ich nehme Ihre Erklärung zur Kenntnis, obwohl sie sich nicht auf das Protokoll bezieht.</p>
       <p sl="unknown">Da keine Einwände vorliegen, lasse ich über das Protokoll abstimmen.</p>
       <a text="(Das Parlament genehmigt das Protokoll.)"/>
     </intervention>
-    <intervention id="1-011" speaker_id="2002" name="Salafranca Sánchez-Neyra" is_mep="True" mode="spoken">
+    <intervention id="1-011" speaker_id="2002" name="José Ignacio SALAFRANCA SÁNCHEZ-NEYRA" is_mep="True" mode="spoken" nationality="Spain" birth_date="31-05-1955" birth_place="Madrid" p_group="Group of the European People's Party (Christian Democrats)" m_state="ES">
       <p sl="es">Frau Präsidentin! Ich möchte das Hohe Haus nur davon in Kenntnis setzen, daß sich letzte Woche im mexikanischen Staat Oaxaca ein schweres Erdbeben ereignet hat. Da die Europäische Union zur Zeit die Verhandlungen über ein Abkommen mit Mexiko abschließt, würde ich es gern sehen, daß das Parlament seine Solidarität und Anteilnahme mit den Opfern dieses Erdbebens zum Ausdruck bringt.</p>
     </intervention>
-    <intervention id="1-012" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-012" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Richtig, Herr Salafranca Sánchez, ich werde dies im Namen des gesamten Europäischen Parlaments gerne tun.</p>
     </intervention>
-    <intervention id="1-013" speaker_id="997" name="Speroni" is_mep="True" mode="spoken">
+    <intervention id="1-013" speaker_id="997" name="Francesco Enrico SPERONI" is_mep="True" mode="spoken" nationality="Italy" birth_date="04-10-1946" birth_place="Busto Arsizio" p_group="Europe of freedom and democracy Group - Co" m_state="IT">
       <p sl="it">Frau Präsidentin, gemäß Artikel 41 der Geschäftsordnung habe ich für die Fragestunde eine Anfrage eingereicht und mich dabei an die in Anlage II, Teil A, Ziffer 13 angegebenen Fristen gehalten, wo es heißt: „Die Anfragen müssen mindestens eine Woche vor Beginn der Fragestunde beim Präsidenten eingegangen sein. Anfragen, die nicht innerhalb dieser Frist eingegangen sind, können in der Fragestunde behandelt werden, wenn das befragte Organ damit einverstanden ist.“ Der zuständige Dienst hat nun die Anfrage abgewiesen, weil auf der Rückseite des Formulars ein anderer Termin genannt ist als in der Geschäftsordnung. Erstens frage ich mich nun, ob es korrekt ist, daß eine Geschäftsordnung durch ein Formular geändert werden kann; und zweites sieht ja die Geschäftsordnung auf jeden Fall vor, daß auch eine nicht fristgemäß eingereichte Anfrage entgegengenommen werden kann, wenn das befragte Organ damit einverstanden ist. Statt dessen wurde ganz anders verfahren. Da die Geschäftsordnung vom Parlament verabschiedet, das Formular hingegen vom internen Beamtenapparat erstellt wurde, frage ich mich, ob die Bürokratie oder nicht vielmehr ein von den Vertretern der Bürgerinnen und Bürger angenommenes Dokument Vorrang haben muß.</p>
     </intervention>
-    <intervention id="1-014" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-014" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Vielen Dank, Herr Speroni. Zumindest in einem Punkt kann ich Sie sofort beruhigen. Natürlich kann eine Geschäftsordnung nicht durch ein Formblatt geändert werden. Aber wir werden die Angelegenheit prüfen und sehen, ob wir Sie zufriedenstellen können, insbesondere, was die Fristen betrifft.</p>
     </intervention>
   </section>
   <section id="creitem4" title="Arbeitsplan">
-    <intervention id="1-016" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-016" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Nach der Tagesordnung folgt die Festsetzung des Arbeitsplans. Der Entwurf der Tagesordnung liegt Ihnen vor. Es wurden folgende Änderungen vorgeschlagen bzw. vorgenommen.</p>
       <p sl="unknown">Zum Dienstag:</p>
       <p sl="unknown">Die Präsidentin. – Die Fraktion der Liberalen und Demokratischen Partei Europas beantragt die Aufnahme einer Erklärung der Kommission zur Weigerung der französischen Regierung, das Embargo gegen britisches Rindfleisch aufzuheben. Dieser Punkt könnte unter Umständen im Rahmen der für Dienstag vormittag vorgesehenen Erklärung der Kommission über Lebensmittelsicherheit zur Sprache kommen.</p>
       <p sl="unknown">Das Wort hat Frau Lynne, die diesen Antrag stellt.</p>
     </intervention>
-    <intervention id="1-017" speaker_id="4541" name="Lynne" is_mep="True" mode="spoken">
+    <intervention id="1-017" speaker_id="4541" name="Elizabeth LYNNE" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="22-01-1948" birth_place="Woking" p_group="Group of the Alliance of Liberals and Democrats for Europe" m_state="GB">
       <p sl="en">Frau Präsidentin, gemäß Artikel 111 der Geschäftsordnung des Europäischen Parlaments schlage ich vor, die Tagesordnung dieser Plenartagung um eine Erklärung der Kommission zur Weigerung der französischen Regierung, das Einfuhrverbot für Rindfleisch aufzuheben sowie zu ihrer Entscheidung, britisches Rindfleisch nicht über französisches Territorium – ein wichtiger Transportweg nach Spanien und Italien – transportieren zu lassen, zu erweitern.</p>
       <p sl="en">Es würde mich freuen, wenn sich entsprechend Artikel 37 an diese Erklärung eine kurze Debatte anschließen würde.</p>
       <p sl="en">Die Kommission ist sich darüber einig, daß britisches Rindfleisch sicher ist. Wir haben wissenschaftliche Beweise, daß britisches Rindfleisch sicher ist. Soweit mir bekannt ist, liegen der französischen Regierung keine neuen Beweise vor. Obwohl im Vereinigten Königreich strenge Sicherheitsstandards gelten, setzt sich ein Staat – Frankreich – über die Bestimmungen der Kommission hinweg. Es wird dem Binnenmarkt schaden, wenn zugelassen wird, daß dieser Zustand weiter andauert; die Glaubwürdigkeit der Kommission wird beschädigt, und den britischen Landwirten wird noch mehr Schaden zugefügt.</p>
       <p sl="en">BSE hat das Vereinigte Königreich bereits 1,5 Mrd. Pfund an Exportverlusten gekostet. Die britischen Landwirte haben in den letzten zweieinhalb bis drei Jahren während der Verhandlungsphase Geduld gezeigt und sich an die Regeln gehalten. Sie haben sogar Tiere getötet, die keine Anzeichen von BSE aufwiesen. Schließlich wurde das Exportverbot aufgehoben. Nun sehen sie sich erneut einem Angriff auf ihre Branche ausgesetzt. Wir brauchen dringend eine entsprechende Erklärung und eine Debatte. Ich hoffe, daß dafür Zeit sein wird.</p>
     </intervention>
-    <intervention id="1-018" speaker_id="1183" name="Roth-Behrendt" is_mep="True" mode="spoken">
+    <intervention id="1-018" speaker_id="1183" name="Dagmar ROTH-BEHRENDT" is_mep="True" mode="spoken" nationality="Germany" birth_date="21-02-1953" birth_place="Frankfurt/Main" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="DE">
       <p sl="de">Liebe Kolleginnen und Kollegen! Diejenigen von Ihnen, die in den vergangenen Jahren diesem Parlament schon angehört haben, wissen, daß es ganz wenige Menschen hier in dem Haus gibt, die sich so arbeitsintensiv und auch mit – man kann fast sagen – Begeisterung um die Frage der Sicherheit von Fleisch, insbesondere britischem Rindfleisch, gekümmert haben wie ich es getan habe, als ich Vorsitzende des letzten BSE-Ausschusses war. Es wurde mal in einem Bericht gesagt, ich würde jede Kuh in Großbritannien beim Namen kennen. Das stimmt aber nicht. Herr Schmid meint, jede zweite, auch das ist eine Lüge, aber ich kenne zumindest einige.</p>
       <p sl="de">Ich bin die letzte, die möchte, daß es irgendwo in dieser Europäischen Union unsicheres Fleisch gibt. Dieses Parlament hat die Einsetzung des Untersuchungsausschusses veranlaßt. Wir haben dann dafür gesorgt, daß im Rahmen der BSE-Debatte in vielen Bereichen der Lebensmittelgesetzgebung Lücken geschlossen wurden, die es noch gab. Auf das, was es in den letzten fünf Jahren erreicht hat, kann dieses Parlament insgesamt stolz sein. Aber wir haben das erreicht, indem wir seriös und vernünftig gearbeitet haben. Das heißt unter anderem auch, alles zu seiner Zeit und auf guten Grundlagen. Ich habe viel Verständnis dafür, wenn Kollegen sich darüber beschweren, daß ein Mitgliedsland aus der Unionsgesetzgebung herausgeht. Ich bin ja dankbar dafür, daß nicht mein eigenes Land, Deutschland, vor einiger Zeit für einen ähnlichen Vorstoß kritisiert wurde.</p>
       <p sl="de">Frau Präsidentin, morgen haben wir auf Ihre interessante Initiative hin eine umfassende Debatte zur Lebensmittelsicherheit, und zwar zur Lebensmittelsicherheit insgesamt. Das ist sehr viel mehr als Fleisch, das ist sehr viel mehr als Dioxin oder Klärschlamm oder Schweinepest. Das ist eine Debatte über Sicherheit und Qualität von Lebensmitteln. Damit wollen wir auch in Zukunft in der Europäischen Union über Lebensmittelsicherheit mit dem Kommissionspräsidenten selbst, mit Herrn Prodi, diskutieren.</p>
@@ -57,56 +57,56 @@
       <p sl="de">Die Lebensmittelagentur in Frankreich hat vor zwei Tagen Zweifel geäußert, daß britisches Rindfleisch sicher ist. Ich habe noch kein Dokument darüber gelesen. Ich habe noch nichts davon schriftlich gesehen. Die zuständigen Ausschüsse für Landwirtschaft bzw. Umwelt haben sich noch nicht damit beschäftigen können. Ich möchte eine seriöse Debatte dazu haben. Deshalb bitte ich Sie, Frau Präsidentin, daß wir morgen nicht darüber debattieren, sondern daß wir das in zwei Wochen tun, wenn es immer noch nötig ist, damit die zuständigen Ausschüsse sich damit beschäftigen können, und wir morgen das tun, wofür wir hier da sind, nämlich das Lebensmittel …</p>
       <a text="(Die Präsidentin entzieht der Rednerin das Wort)"/>
     </intervention>
-    <intervention id="1-019" speaker_id="1422" name="Bethell, the Lord" is_mep="True" mode="spoken">
+    <intervention id="1-019" speaker_id="1422" name="The Lord Nicholas BETHELL" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="19-07-1938" birth_place="London" p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="GB">
       <p sl="en">Wie ich höre, Frau Präsidentin, hat ein Sprecher sich für den Vorschlag ausgesprochen und eine andere Rednerin, die soeben ihren Platz wiedereingenommen hat, eine Debatte zu dieser Angelegenheit in der zweiten Teilsitzung Ende Oktober vorgeschlagen. Werden Sie über beide Vorschläge abstimmen lassen?</p>
     </intervention>
-    <intervention id="1-020" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-020" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Nein, das geht nicht. Dieser Vorschlag stammt von den Liberalen, ist von Frau Lynne vorgetragen worden und zielt darauf ab, in dieser Sitzungsperiode eine Aussprache über das angesprochene Thema vorzusehen. Frau Lynne hat im Namen der Liberalen Fraktion gesprochen. Frau Roth-Behrendt hat sich dagegen ausgesprochen. Und jetzt frage ich, ob es einen Redner für diesen Vorschlag gibt.</p>
     </intervention>
-    <intervention id="1-021" speaker_id="1436" name="McCartin" is_mep="True" mode="spoken">
+    <intervention id="1-021" speaker_id="1436" name="John Joseph McCARTIN" is_mep="True" mode="spoken" nationality="Ireland" birth_date="24-04-1939" birth_place="Ballinamore " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="IE">
       <p sl="en">Frau Roth-Behrendt ist vom Thema abgekommen. Wir erkennen die Bedeutung einer Parlamentsdebatte zur Lebensmittelsicherheit an, aber im Vorschlag ging es darum, eine Dringlichkeitsdebatte zu der Frage anzusetzen, ob ein Mitgliedstaat das Recht hat, seine Entscheidungen nicht in Übereinstimmung mit der Politik der Gemeinschaft, sondern auf der Grundlage dessen zu treffen, was seinen eigenen politischen Zielen zu einem bestimmten Zeitpunkt nützt.</p>
       <p sl="en">Dies ist eine äußerst dringende Angelegenheit und muß daher vordringlich in einer Debatte behandelt werden, stellt sie doch eine Bedrohung des freien Markts dar. Sollten andere Mitgliedstaaten in ähnlicher Weise reagieren, könnte das dazu führen, daß einzelne Produkte in den Mitgliedstaaten der Gemeinschaft zu unterschiedlichen Zeiten mit einem Verbot belegt werden, und es gibt keine Garantie dafür, daß der Binnenmarkt, für dessen Schaffung und Konsolidierung wir in diesem Parlament so hart gearbeitet haben, ordnungsgemäß funktionieren wird. Ich stimme mit den Antragsteller darin überein, daß diese Sache sehr eilt und hier sofort diskutiert werden sollte.</p>
     </intervention>
-    <intervention id="1-023" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-023" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Mir liegt noch ein weiterer Antrag vor, ein Antrag der Fraktion Die Grünen / Freie Europäische Allianz, wonach die Aussprache über Lebensmittelsicherheit am Dienstag vormittag mit einer Entschließung abgeschlossen werden soll.</p>
       <p sl="unknown">Die Konferenz der Präsidenten befürwortet dies nicht. Ich lasse also über diesen Antrag abstimmen. Wer ist für eine Entschließung nach der Aussprache über Nahrungsmittelsicherheit?</p>
       <a text="(Das Parlament lehnt den Antrag ab)"/>
       <p sl="unknown">Zum Mittwoch:</p>
       <p sl="unknown">Die Präsidentin. – Mir liegen keine Änderungswünsche vor. Doch hat wiederum die Fraktion Die Grünen / Freie Europäische Allianz beantragt, die Aussprache über die Millenium-Runde ebenfalls mit einer Entschließung abzuschließen. Dieser Antrag wurde von der Konferenz der Präsidenten nicht unterstützt.</p>
     </intervention>
-    <intervention id="1-024" speaker_id="2054" name="Hautala" is_mep="True" mode="spoken">
+    <intervention id="1-024" speaker_id="2054" name="Heidi HAUTALA" is_mep="True" mode="spoken" nationality="Finland" birth_date="14-11-1955" birth_place="Oulu" m_state="FI">
       <p sl="de">Frau Präsidentin, meiner Meinung nach sollte das Parlament die Gelegenheit nicht ungenutzt lassen, eine Entschließung zum Mandat der WTO-Runde vorzulegen, da der Ministerrat der Kommission am 13.Oktober das Mandat erteilen wird. Es wäre bedauerlich, wenn das ohne Kenntnis der Ansichten des Parlaments dazu erfolgen würde. Ich möchte die verehrten Kollegen auch daran erinnern, daß das Parlament erst vor zwei Wochen im Zusammenhang mit der Bestätigung der Kommission eine Entschließung angenommen hat, in der es seinen Wunsch bekräftigt hatte, auf Verhandlungen über internationale Verträge Einfluß nehmen zu können, auch in den einzelnen Verhandlungsphasen, so daß es wirklich bedauerlich wäre, wenn das Parlament diese Gelegenheit ungnutzt ließe.</p>
     </intervention>
-    <intervention id="1-025" speaker_id="1253" name="Poettering" is_mep="True" mode="spoken">
+    <intervention id="1-025" speaker_id="1253" name="Hans-Gert PÖTTERING" is_mep="True" mode="spoken" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Frau Präsidentin, liebe Kolleginnen und Kollegen! Ich bedaure sehr, daß ich der geschätzten Kollegin Hautala widersprechen muß. Wir haben in der Konferenz der Präsidenten, also der Fraktionsvorsitzenden, mit ganz großer Mehrheit gesagt, daß wir zu diesem Zeitpunkt keine Entschließung zur WTO wollen, weil wir noch Diskussionsbedarf haben, und man sollte jetzt nicht im Schnellverfahren einen Entschließungsantrag verfassen, weil man sich damit hier und da beliebt macht. Deswegen bleiben wir dabei, auch aus Solidarität mit unserer Abstimmung in der Konferenz, jetzt hier keine Schnellschüsse zu machen.</p>
       <p sl="de">Liebe Frau Kollegin Hautala, was den Repräsentanten des Parlaments auf der WTO-Konferenz in Seattle angeht, haben wir ja übereinstimmend gesagt, daß das Europäische Parlament zahlenmäßig mit 15 Abgeordneten genauso vertreten sein muß, wie der amerikanische Kongreß das in Anspruch nimmt, das heißt, diese Stellungnahme bleibt davon unberührt, ob wir nun eine Entschließung hier annehmen oder nicht. Ich sage für meine Fraktion: Wir wollen gleichberechtigt mit den Amerikanern vertreten sein, sind aber zum jetzigen Zeitpunkt gegen eine Äußerung des Parlaments in dieser Sache.</p>
     </intervention>
-    <intervention id="1-027" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+    <intervention id="1-027" speaker_id="1352" name="Enrique BARÓN CRESPO" is_mep="True" mode="spoken" nationality="Spain" birth_date="27-03-1944" birth_place="Madrid" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="es">Frau Präsidentin! Mir scheint ein Mißverständnis vorzuliegen, denn es gibt zwei Anträge: einen zur Ersetzung des Punktes im Zusammenhang mit dem Unglück von Ustica und einen anderen zur Ersetzung des Punktes in bezug auf das Erdbeben in Taiwan. Mir scheint da ein Mißverständnis vorzuliegen, und viele Mitglieder des Parlaments wissen nicht genau, über welchen Antrag sie abstimmen. Ich bedauere, daß wir bei der Abstimmung sind, aber so ist die Situation.</p>
     </intervention>
-    <intervention id="1-028" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-028" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Ich habe mich vielleicht nicht klar genug ausgedrückt, Herr Baron Crespo, entschuldigen Sie.</p>
       <p sl="unknown">Es geht um den ersten Vorschlag, der vorsieht, den Punkt „Erdbeben auf Taiwan“ durch einen neuen Punkt „Atomunfall in Japan“ zu ersetzen. Ist das jetzt klar?</p>
       <a text="(Das Parlament nimmt den Antrag an.)"/>
     </intervention>
-    <intervention id="1-029" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="1-029" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="da">Auch ich freue mich über den Beschluß, Herrn van Buitenen nicht zu entlassen. Ich möchte Sie aber bitten, die Angelegenheit auf der nächsten Konferenz der Präsidenten zu behandeln, da die Voraussetzungen der Entscheidung völlig inakzeptabel sind. Sein Vergehen bestand darin, daß er Dokumente an einen Fraktionsvorsitzenden des Europäischen Parlaments weitergegeben hat. Das ist sicher keine Straftat! Diese Voraussetzungen müssen geändert werden, deshalb bitte ich Sie, dieses Thema auf die Tagesordnung der Konferenz der Präsidenten zu setzen.</p>
     </intervention>
-    <intervention id="1-030" speaker_id="4548" name="MacCormick" is_mep="True" mode="spoken">
+    <intervention id="1-030" speaker_id="4548" name="Professor Sir Neil MacCORMICK" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="27-05-1941" birth_place="Glasgow - Scotland" p_group="Group of the Greens/European Free Alliance" m_state="GB">
       <p sl="en">Frau Präsidentin, ich habe eine Frage zur Geschäftsordnung. Ich bin mir nicht ganz sicher, ob an dieser Stelle der Debatte Erklärungen zur Abstimmung abgegeben werden dürfen, aber wenn dem so ist, dann möchte ich gern festhalten, daß ich es aus der Sicht der Menschen in Schottland für sehr bedauerlich halte, daß wir morgen eine Aussprache über Lebensmittelsicherheit führen, ohne einen Fall zu berücksichtigen, wo sich ein Mitgliedstaat über die gemeinschaftliche Entscheidung zur Lebensmittelsicherheit hinwegsetzt. Daher habe ich für diesen Antrag gestimmt.</p>
     </intervention>
-    <intervention id="1-031" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-031" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Vielen Dank Herr MacCormick. Ich denke, sie werden bei der Aussprache ausreichend Gelegenheit haben, auf diesen Punkt einzugehen.</p>
     </intervention>
-    <intervention id="1-032" speaker_id="1191" name="Pack" is_mep="True" mode="spoken">
+    <intervention id="1-032" speaker_id="1191" name="Doris PACK" is_mep="True" mode="spoken" nationality="Germany" birth_date="18-03-1942" birth_place="Schiffweiler/Saar" p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Frau Präsidentin! Ich wollte mich herzlich für die prompte Behebung der Schwierigkeiten bedanken, die wir Ihnen in der letzten Sitzungswoche geschildert haben. Ich kann jetzt mein Faxgerät bedienen; es steht jetzt in einer Höhe, die meiner Größe entspricht. Vielen Dank!</p>
     </intervention>
-    <intervention id="1-033" speaker_id="2217" name="Berthu" is_mep="True" mode="spoken">
+    <intervention id="1-033" speaker_id="2217" name="Georges BERTHU" is_mep="True" mode="spoken" nationality="France" birth_date="14-05-1950" birth_place="Angoulême " p_group="Union for Europe of the Nations Group" m_state="FR">
       <p sl="fr">Frau Präsidentin, ich möchte einen Antrag zum Verfahren stellen, der sich auf den neuen Plenarsaal bezieht.</p>
       <p sl="fr">Im alten Plenarsaal waren hinter dem Platz des Präsidenten die Flaggen aller Länder der Europäischen Union angebracht. Ich sehe nun, daß es im neuen Plenarsaal diese Flaggen nicht mehr gibt. Jedermann kann das feststellen.</p>
       <p sl="fr">Deshalb möchte ich folgende Frage stellen: Ist diese Sache im Parlament besprochen worden, oder hat man die Verwaltung über diesen Punkt, den ich von der Symbolik her für sehr bedeutend halte, allein entscheiden lassen?</p>
     </intervention>
-    <intervention id="1-034" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin">
+    <intervention id="1-034" speaker_id="945" is_mep="True" mode="spoken" role="Die Präsidentin" name="Nicole FONTAINE" nationality="France" birth_date="16-01-1942" birth_place="Grainville-Ymauville " p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="FR">
       <p sl="unknown">Herr Berthu, ich kann Sie sofort beruhigen und Ihrem Wunsch entsprechen: Ich habe die Flaggen angefordert, die leider noch nicht eingetroffen sind. Morgen werden sie da sein.</p>
       <a text="(Die Sitzung wird um 17.35 Uhr geschlossen)"/>
     </intervention>

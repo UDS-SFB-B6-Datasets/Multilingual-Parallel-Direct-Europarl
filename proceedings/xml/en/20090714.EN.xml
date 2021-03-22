@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="20090714.EN" lang="en" date="2009-07-14" place="Strasbourg" edition="OJ edition">
   <section id="creitem1" title="1. Opening of the sitting (first sitting of the newly elected Parliament)">
-    <intervention id="2-004" speaker_id="1253" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-004" speaker_id="1253" is_mep="True" mode="spoken" role="President" name="Hans-Gert PÖTTERING" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="unknown">Ladies and gentlemen, under the terms of the Act concerning the election of the representatives of the European Parliament by direct universal suffrage, I declare the first sitting of the European Parliament following the elections open.</p>
       <a text="(Applause)"/>
       <p sl="unknown">I would ask you to rise for the European anthem.</p>
@@ -16,14 +16,14 @@
   <section id="creitem5" title="5. Formation of political groups: see Minutes"/>
   <section id="creitem6" title="6. Verification of credentials: see Minutes"/>
   <section id="creitem7" title="7. Election of the President of the European Parliament">
-    <intervention id="2-011" speaker_id="1253" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-011" speaker_id="1253" is_mep="True" mode="spoken" role="President" name="Hans-Gert PÖTTERING" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="unknown">This morning, in accordance with the Rules of Procedure, we must elect the President. According to Rule 13 of the Rules of Procedure, candidates for the office of President of our Parliament must be nominated, with the consent of the people concerned, by a group or by at least 40 Members.</p>
       <p sl="unknown">Under the conditions provided for in the Rules of Procedure, I have received the following nominations for the office of President of the European Parliament:</p>
       <p sl="unknown">Mr Jerzy Buzek</p>
       <p sl="unknown">Mrs Eva-Britt Svensson</p>
       <p sl="unknown">The candidates have informed me that they consent to their nomination as candidates. Both candidates will now introduce themselves briefly, starting with Mrs Svensson.</p>
     </intervention>
-    <intervention id="2-012" speaker_id="28134" name="Eva-Britt Svensson" is_mep="True" mode="spoken">
+    <intervention id="2-012" speaker_id="28134" name="Eva-Britt SVENSSON" is_mep="True" mode="spoken" nationality="Sweden" birth_date="05-12-1946" birth_place="Värnamo" p_group="Confederal Group of the European United Left - Nordic Green Left - Vice" m_state="SE">
       <p sl="sv">Mr President, ladies and gentlemen, I would like to congratulate all my fellow Members on the trust that has been shown in you by the citizens of your respective Member States. This is an enormous amount of trust and hence it is also an enormous responsibility for us all to meet our citizens’ expectations and demands for the changes that are needed and to build a citizens’ Europe. Democracy, the right to choose their elected representatives, is the most important instrument that our citizens have. To be able to talk of true democracy requires more than the right to vote. It requires openness, transparency and an open debate.</p>
       <p sl="sv">I would therefore like to say that it is extremely important for us now to ensure that we reform the first reading procedure. We must take the trust shown in Parliament seriously and demonstrate the openness that is also required with regard to the first reading procedure.</p>
       <p sl="sv">Ladies and gentlemen, we are facing huge challenges: an economic crisis with higher unemployment, increased exclusion and social insecurity. We have a climate crisis that has already resulted in climate refugees. As usual, it is the poorest people that are hit first and hardest. We see an EU and a world full of injustice and poverty. There are, however, political solutions to these crises, but they require a change in policy. The policy that has been pursued up to now has not solved the problems that we have been responsible for solving. On the contrary, in many areas it has helped to create the crises.</p>
@@ -34,14 +34,14 @@
       <p sl="sv">Today, each one of you has the power of your vote. You have the power to send out a strong message to our citizens that we are now building a citizens’ Europe, a social Europe, to demonstrate to both our citizens and the world around us that the EU is prepared to take responsibility for global justice, human rights and the global environment and to demonstrate the power we have with our votes to send out the message that European citizens are expecting of this Parliament.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-013" speaker_id="28269" name="Jerzy Buzek" is_mep="True" mode="spoken">
+    <intervention id="2-013" speaker_id="28269" name="Jerzy BUZEK" is_mep="True" mode="spoken" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="pl">Mr President, representatives of the Council and of the Commission, ladies and gentlemen, first of all, let us congratulate ourselves on meeting in this room. We represent half a billion inhabitants of this continent – a considerable responsibility.</p>
       <p sl="pl">I would like to say a few words about myself. I am a scientist by profession. I began my political activity in 1980 in the Solidarność trade union, which fought for freedom, and human and civil rights (Applause) . The fight for human and civil rights has always been at the heart of my activity. Between 1997 and 2001 I was the Prime Minister of Poland. For four years we negotiated Poland’s membership of the structures of the European Union. Since 2004, I have been a Member of the European Parliament. I have been involved with research, innovation and new technologies, then with energy security, climate change and how to address the latter, and also with the Eastern Partnership. It so happens that all of these matters are also our priorities during this current term of office.</p>
       <p sl="pl">We should remember that we are currently living through a crisis, and our citizens expect us, first and foremost, to deal with it. We should also remember to streamline parliamentary activity, a process which has already begun thanks to action taken over the last few years. We can only achieve this if the Treaty of Lisbon is adopted in full. This will help to make us more efficient and more productive, and enable us to act on the international stage. We have certain commitments: the Mediterranean, the Eastern Partnership, Latin America, the strategic alliance with the United States and developing powers on the world stage. These are our major challenges, and this is why the Treaty of Lisbon will provide us with an exceptional tool to meet those challenges.</p>
       <p sl="pl">Finally, I would like to say to you that the most important crisis which we must deal with – and which we must acknowledge, however hard that may be – is the lack of trust from our citizens. Let us speak harshly to one another, as we sometimes must, to overcome our weaknesses. Our citizens often do not understand us. We need to do everything we can to change this. This is primarily our responsibility, as Members of the European Parliament, as we come here every week from our constituencies and, at the end of the week, as we go back, all over Europe. We know better than anyone what our constituents’ grievances are and what they expect. Let us hope for this above all, since then it will be easier for us to rise to the challenges before us.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-015" speaker_id="1253" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-015" speaker_id="1253" is_mep="True" mode="spoken" role="President" name="Hans-Gert PÖTTERING" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="unknown">I will now announce the result of the vote.</p>
       <p sl="unknown">Number of voters: 713</p>
       <p sl="unknown">Voting slips that were not filled in or were invalid: 69</p>
@@ -54,7 +54,7 @@
       <p sl="unknown">Jerzy Buzek has therefore received the absolute majority of the votes cast. I will therefore repeat in my own language what I tried to say in Polish: I congratulate Mr Buzek most sincerely on his convincing election and wish him all the best in the wonderful job that he is about to take over, and I would ask him to take his place here in the President’s chair.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-017" speaker_id="28269" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-017" speaker_id="28269" is_mep="True" mode="spoken" role="President" name="Jerzy BUZEK" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="unknown">Dear colleagues, thank you for electing me President of the European Parliament. For me it is both an enormous challenge and a great honour. Thank you to those who voted for me; I will do everything not to disappoint your trust. For those of you who did not vote for me, I will try to convince you to me. I wish to work with all of you, regardless of political conventions. I count on your support.</p>
       <p sl="unknown">Thank you, Mrs Svensson, for taking part in this election and for our discussions. To our colleagues, Mario Mauro and Graham Watson, who stood as candidates and resigned early in order to strengthen the unity of our House, this was a profound gesture.</p>
       <p sl="unknown">Mario, I know how important for you human rights are. In my homeland, Solidarność was born, a great movement for human rights, …</p>
@@ -63,26 +63,26 @@
       <p sl="unknown">Graham, you spoke about the necessity of change in the European Parliament, of the need for reform, of the need to involve in the European project our citizens, who are becoming more and more indifferent. I will make sure that, together, we will do everything we can to change this.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-019" speaker_id="4342" name="Joseph Daul" is_mep="True" mode="spoken" role="on behalf of the PPE Group">
+    <intervention id="2-019" speaker_id="4342" name="Joseph DAUL" is_mep="True" mode="spoken" role="on behalf of the PPE Group" nationality="France" birth_date="13-04-1947" birth_place="Strasbourg" p_group="Group of the European People's Party (Christian Democrats)" m_state="FR">
       <p sl="fr">Mr President, it was unexpected, but it is a joy – I believe – for everyone here no longer to have an Eastern or a Western Europe for the first time in this Parliament. We simply have a Europe that is symbolised by our President, who is in the Chamber today.</p>
       <a text="(Applause)"/>
       <p sl="fr">This is unity; this is also where our responsibilities lie, as you said earlier, Mr Buzek. Forgetting about East and West, in the two and a half years of your presidency, and speaking only of a single Europe – that is my wish, for you and for Europe.</p>
     </intervention>
-    <intervention id="2-020" speaker_id="1911" name="Martin Schulz" is_mep="True" mode="spoken" role="on behalf of the S&amp;D Group">
+    <intervention id="2-020" speaker_id="1911" name="Martin SCHULZ" is_mep="True" mode="spoken" role="on behalf of the S&amp;D Group" nationality="Germany" birth_date="20-12-1955" birth_place="Hehlrath" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="DE">
       <p sl="de">Mr President, on behalf of our group I would like to congratulate you on your election. We supported your election and, even though we should be careful not to overuse the term ‘historic moment’, I believe that your election as President of the European Parliament is indeed an historic moment.</p>
       <a text="(Applause)"/>
       <p sl="de">The fact that 20 years after the fall of the Berlin Wall, six years after the accession of your country and many other Central and Eastern European countries to the European Union – which was after all a process that you yourself initiated as Prime Minister of your country, as the accession negotiations took place during your term of office – the fact that 20 years after putting an end to the division of the world into two heavily armed blocs, after overcoming the Stalinist dictatorships of the states which had to suffer 40 years longer under these dictatorships than the western part of Europe did under the fascist dictatorships, the fact that 20 years later it is only natural that Members from Poland, Hungary, the Baltic states, the Czech Republic or Slovakia should be sitting together with Members from France, Portugal, Finland, Germany, Austria or Italy in this Chamber and that we are able to elect as head of this assembly a representative of Solidarność, a democratically elected head of the Polish Government, in a free, secret and fair election – that is in my view an historic moment, which proves that Europe – this great continent in which 27 states have united to become the European Union – actually represents something, and that is that the dream of democracy and freedom can become reality if we do not merely dream, but also actively work to bring it about, as you have done in your life.</p>
       <p sl="de">I therefore believe that your Presidency is also an appeal to all of us and that the values on which this Union was founded are the values that drove the dictators to the wall and overcame the dictatorships. It is the wish of our group that your Presidency will be based on these values. My sincere congratulations, Mr Buzek.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-021" speaker_id="97058" name="Guy Verhofstadt" is_mep="True" mode="spoken" role="on behalf of the ALDE Group">
+    <intervention id="2-021" speaker_id="97058" name="Guy VERHOFSTADT" is_mep="True" mode="spoken" role="on behalf of the ALDE Group" nationality="Belgium" birth_date="11-04-1953" birth_place="Dendermonde" m_state="BE">
       <p sl="de">Mr President, first of all congratulations from the Liberal and Democratic Group on your election. I can tell you that you have the full support of the Liberal and Democratic Group for the forthcoming years in your work. Your work, from our point of view, means the creation of a more integrated European Union and a European Union that uses the community method.</p>
       <p sl="de">You have become President at a very difficult time: we have to ratify the Lisbon Treaty; we have to find a single strategy against the economic and financial crisis. It is a huge task in which you have the full support of our group. You should know that you have behind you a large pro-European majority in this Parliament. You should be aware of that.</p>
       <a text="(Applause)"/>
       <p sl="de">The only request we have is to use it, this large pro-European majority. To go forward with Europe and also to say what you have to say in the European Council, that you know so well – as I do. I hope that you can make your voice heard there and have more ‘Europe’ in that institution also.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-022" speaker_id="28233" name="Rebecca Harms" is_mep="True" mode="spoken" role="on behalf of the Verts/ALE Group">
+    <intervention id="2-022" speaker_id="28233" name="Rebecca HARMS" is_mep="True" mode="spoken" role="on behalf of the Verts/ALE Group" nationality="Germany" birth_date="07-12-1956" birth_place="Hambrock bei Uelzen" p_group="Group of the Greens/European Free Alliance - Co" m_state="DE">
       <p sl="de">Mr President, I would also like to join the previous speakers in congratulating you on behalf of my group. We are also very happy about your election.</p>
       <p sl="de">I think that it is a slight understatement, Mr President, when you say that it is an honour for you to take up the position to which we have elected you today. It is, on the contrary, an honour for us – at least from the point of view of the Group of the Greens/European Free Alliance – to have you as President. Everything you have done in your political career has helped you to achieve your current position, and we are all putting our trust in you. I am not sure if it will be possible in two and a half years to overcome the division that still exists between East and West, but I believe that, with you at the head of this House, we can strengthen bridges between East and West.</p>
       <p sl="de">I personally would like it to be clear to the Members from Western Europe that Poland is in the middle of the continent, that you come from a country at the heart of the continent and that the work to forge links with the East must now be carried out much more intensively than it has been in the past. You are in the best position to do this. I was very pleased to hear you say that we need to get closer to our citizens. We in the Group of the Greens will always support you in this. Strengthening Europe from within is important, but it is also important to think about Europe on a larger scale.</p>
@@ -90,19 +90,19 @@
       <p sl="de">I wish you every success in your new role!</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-023" speaker_id="4542" name="Timothy Kirkhope" is_mep="True" mode="spoken" role="on behalf of the ECR Group">
+    <intervention id="2-023" speaker_id="4542" name="Timothy KIRKHOPE" is_mep="True" mode="spoken" role="on behalf of the ECR Group" nationality="United Kingdom" birth_date="29-04-1945" birth_place="Newcastle upon Tyne" p_group="European Conservatives and Reformists Group" m_state="GB">
       <p sl="en">Mr President, may I congratulate you on your presidency and in particular welcome the fact that in your remarks you have referred to history – and others have referred to it as well. You certainly seem to be someone who will value the freedoms which this House wishes to have: the freedom of expression, but also the freedoms of looking ahead, of change and reform in Europe, and that this House must change and reform with Europe.</p>
       <p sl="en">The fact that you have a history of which you are proud, and rightfully so, from 1980 in Solidarność and onwards, where you brought Poland into NATO and then started the negotiations for membership of the European Union, you are someone who can embrace the changes that Europe needs now.</p>
       <p sl="en">We welcome you. We will do our very best to help you in the job that you have taken on.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-024" speaker_id="96650" name="Lothar Bisky" is_mep="True" mode="spoken" role="on behalf of the GUE/NGL Group">
+    <intervention id="2-024" speaker_id="96650" name="Lothar BISKY" is_mep="True" mode="spoken" role="on behalf of the GUE/NGL Group" nationality="Germany" birth_date="17-08-1941" birth_place="Zollbrück" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="DE">
       <p sl="de">Mr President, I am pleased that a neighbour from Poland has become President of this House. I come from eastern Germany and work near Słubice. Słubice and Frankfurt/Oder are both part of a united Europe.</p>
       <p sl="de">I would like to thank you for focusing in particular on the continued integration of Eastern and Western Europe. There is still much to do in this respect, as we are all aware. However, I would also like to mention the important contribution in terms of Polish culture that you can make to cooperation and cultural diversity in Europe.</p>
       <p sl="de">I hope that I will soon be able to speak to you in more depth. I have started to work towards this. Two of my sons speak Polish. I once had the honour of presenting the Andrzej Wajda film prize to the director Andreas Dresen and of making a speech to mark the occasion. Andrzej Wajda and other Polish directors are part of our European culture. I hope that Western Europe and Eastern Europe will not forget the special achievements of Eastern European culture.</p>
       <p sl="de">Mr President, you have our respect and our support!</p>
     </intervention>
-    <intervention id="2-025" speaker_id="4525" name="Nigel Farage" is_mep="True" mode="spoken" role="on behalf of the EFD Group">
+    <intervention id="2-025" speaker_id="4525" name="Nigel FARAGE" is_mep="True" mode="spoken" role="on behalf of the EFD Group" nationality="United Kingdom" birth_date="03-04-1964" birth_place="Farnborough" p_group="Non" m_state="GB">
       <p sl="en">Mr President, I would like to congratulate you on being elected although I feel that this morning it has been more like a papal inauguration. If this Parliament were a proper Parliament, it would actually select Members to sit in the chair on ability and not have the usual big group stitch-ups. That is rather a shame.</p>
       <p sl="en">I think the signs for change here are not very good. Just yesterday we had armed Eurocorps soldiers carrying the European flag round the courtyard outside, a sort of European Union version of trooping the colour. We had an orchestra, we had the anthem, we had a choir; we started today, did we not, with the anthem. This is the same flag and anthem that you said had been dropped after the French and Dutch very sensibly said ‘no’ to the dreaded EU Constitution.</p>
       <p sl="en">You are not even pretending any more. You are pushing ahead with all the symbols of statehood and trying at the same time to lie and cheat to the Irish by giving them a series of guarantees that are not worth the paper that they are written on. Well, I can tell you that many of us in this Europe of Freedom and Democracy Group will do all we can to help the ‘no’ side in that Irish referendum.</p>
@@ -111,7 +111,7 @@
       <p sl="en">Mr President, you fought against the Soviet Union. You fought for democracy. You fought for national self-determination. If you continue to ignore the democratic voice of countries like France, the Netherlands and Ireland, then you will turn the European Union back into that very Union that you fought so hard against. Listen to the people, please.</p>
       <a text="(Mixed reactions)"/>
     </intervention>
-    <intervention id="2-026" speaker_id="28269" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-026" speaker_id="28269" is_mep="True" mode="spoken" role="President" name="Jerzy BUZEK" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="unknown">Thank you for your speech, Mr Farage. European parliamentarianism has always provided a forum for various opinions. This is what discussion in Europe is based on. The speeches of those Members who wished to speak have now ended, but I think that the President of the European Commission, Mr Barroso, is signalling that he would like to say a few words. Mr Barroso, please take the floor.</p>
     </intervention>
     <intervention id="2-027" speaker_id="photo_generic" name="José Manuel Barroso" is_mep="True" mode="spoken" role="President of the Commission">
@@ -122,7 +122,7 @@
       <p sl="fr">Our institutions must strengthen one another for the sake of the European project. This is particularly true as regards the relations between the European Parliament and the European Commission. We know perfectly well that it is the cooperation between our two institutions that moves the European project forward.</p>
       <p sl="fr">Mr President, my dear friend, all that remains is for me to wish you, and the new Parliament, success in your work towards establishing a Europe that more fully promotes the values of freedom and solidarity.</p>
     </intervention>
-    <intervention id="2-028" speaker_id="1164" name="Bruno Gollnisch" is_mep="True" mode="spoken">
+    <intervention id="2-028" speaker_id="1164" name="Bruno GOLLNISCH" is_mep="True" mode="spoken" nationality="France" birth_date="28-01-1950" birth_place="Neuilly-sur-Seine" p_group="Non" m_state="FR">
       <p sl="fr">Mr President, I had resigned myself to being overlooked to some extent, in the same way as my non-attached colleagues, for whom I certainly speak in offering you the congratulations that are due to yourself, but rather less, it must be said, to the method of your election, since your triumphant election is, in a way, the result of an agreement between the two main groups of this House, which oppose one another rather artificially at election time and then go on to jointly manage Parliament for five years.</p>
       <p sl="fr">Mr President, I hope that you are the master of your victory, that you do not become a slave to these two main groups, that you are able to defend the rights of minorities and, in particular, the rights of dissidents such as ourselves, of those who are concerned about the effects of economic globalisation on their identity, and of the universal mixing of people, goods and capital, who do not believe that this necessarily brings benefits and who condemn the indefinite increase in the European Union’s powers with regard to their national freedoms.</p>
       <p sl="fr">We are, in a way, dissidents just as you once were. We hope that you will protect the rights of dissidents and, in particular, that you will attach great importance to respect for these Rules of Procedure, which should not be systematically amended, since it is clear that they can benefit those who are, I believe, the true defenders of the freedoms of the European nations.</p>
@@ -130,29 +130,29 @@
     </intervention>
   </section>
   <section id="creitem8" title="8. Election of Vice-Presidents (deadline for submitting nominations): see Minutes">
-    <intervention id="2-977" speaker_id="28269" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-977" speaker_id="28269" is_mep="True" mode="spoken" role="President" name="Jerzy BUZEK" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="unknown">Ladies and Gentlemen, please take your seats. We will start in three minutes.</p>
     </intervention>
   </section>
   <section id="creitem9" title="9. Election of Vice-Presidents (first, second and third ballots)">
-    <intervention id="2-033" speaker_id="23821" name="József Szájer" is_mep="True" mode="spoken">
+    <intervention id="2-033" speaker_id="23821" name="József SZÁJER" is_mep="True" mode="spoken" nationality="Hungary" birth_date="07-09-1961" birth_place="Sopron" m_state="HU">
       <p sl="en">Mr President, I would like to ask whether there is any minimum requirement for the vote.</p>
     </intervention>
-    <intervention id="2-034" speaker_id="28269" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-034" speaker_id="28269" is_mep="True" mode="spoken" role="President" name="Jerzy BUZEK" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="unknown">Mr Szájer, there is no minimum number: you can leave one person or two persons; it does not matter.</p>
     </intervention>
-    <intervention id="2-036" speaker_id="28269" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-036" speaker_id="28269" is_mep="True" mode="spoken" role="President" name="Jerzy BUZEK" nationality="Poland" birth_date="03-07-1940" birth_place="Śmiłowice" m_state="PL">
       <p sl="unknown">Dear colleagues, allow me to say a few words at the beginning. During the break in the sitting it came to my attention that an Italian soldier was killed today in Afghanistan in the NATO-led mission there. His death comes after 15 British soldiers were killed in the past month. I think we always need to remember our men and women in the armed forces who are on missions abroad, often in dangerous situations, so that they know they are not forgotten.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-039" speaker_id="22097" name="Véronique De Keyser" is_mep="True" mode="spoken">
+    <intervention id="2-039" speaker_id="22097" name="Véronique DE KEYSER" is_mep="True" mode="spoken" nationality="Belgium" birth_date="23-03-1945" birth_place="Etterbeek" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Vice" m_state="BE">
       <p sl="fr">Mr President, I am truly sorry but, for the sake of a clear vote, since we do not have a display and we have tried to keep up with your very quick delivery, please could you read out the names and the votes again a little more slowly?</p>
     </intervention>
-    <intervention id="2-040" speaker_id="1934" name="Daniel Cohn-Bendit" is_mep="True" mode="spoken">
+    <intervention id="2-040" speaker_id="1934" name="Daniel COHN-BENDIT" is_mep="True" mode="spoken" nationality="France" birth_date="04-04-1945" birth_place="Montauban" p_group="Group of the Greens/European Free Alliance - Co" m_state="FR">
       <p sl="en">Mr President, put the numbers on the screen so that we can all see them. It is not very difficult.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-041" speaker_id="2229" name="Bernd Posselt" is_mep="True" mode="spoken">
+    <intervention id="2-041" speaker_id="2229" name="Bernd POSSELT" is_mep="True" mode="spoken" nationality="Germany" birth_date="04-06-1956" birth_place="Pforzheim" p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Mr President, I would urge you very strongly to ring the bell, as I see that a lot of Members from all groups are not here. Many people are under the impression that the vote is not due to start until 19.30. I would therefore ask you to ring the bell one more time.</p>
     </intervention>
   </section>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="20020115.PT" lang="pt" date="2002-01-15" place="Estrasburgo" edition="Edição JO">
   <section id="creitem1" title="Eleição do Presidente do Parlamento Europeu">
-    <intervention id="2-004" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-004" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Damos agora início, nos termos do artigo 14º do Regimento, à eleição do Presidente. Comunico que recebi as seguintes candidaturas:</p>
       <p sl="unknown">Deputada Patsy Sörensen</p>
       <p sl="unknown">Deputado Dieter-Lebrecht Koch,</p>
@@ -10,7 +10,7 @@
       <p sl="unknown">Deputado Ilkka Suominen e</p>
       <p sl="unknown">Deputada Alima Boumediene-Thiery.</p>
     </intervention>
-    <intervention id="2-005" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="2-005" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="en">Bom dia, colegas. Este Parlamento deve continuar a ser multilingue. Onze línguas formam 110 combinações. Vinte e duas línguas formam 462 combinações. Trinta e cinco línguas formam 1 090 combinações. Imaginam como é que vai ser uma tradução do finlandês para o polaco, através do inglês e do francês? Com a tradução directa, uns estão a votar sobre a rubrica orçamental 2, enquanto outros ainda estão votar sobre a rubrica orçamental 1. Com um sistema de traduções intermédias, o nosso sistema não vai funcionar. Se não fizermos uma reforma, a maior parte de nós não vai poder usar a sua língua. Dentro de dois anos podemos ter dez novos Estados-Membros. As nossas instalações não estão preparadas para isso.</p>
       <p sl="en">Dentro em breve outros países, desde a Ucrânia até aos Balcãs, vão candidatar-se à adesão, e arriscamo-nos a criar uma nova torre de Babel. O nosso próximo Presidente deve dedicar-se à reforma interna e ao êxito do alargamento. Não vai ter muito tempo para andar a passear!</p>
       <p sl="en">Precisamos de um artesão, de alguém que seja um braço direito, e não de um estadista. Vai ser culpa de todos nós se não estivermos preparados para o alargamento em 2004, e essa responsabilidade dependerá, em parte, da forma como votarmos hoje.</p>
@@ -20,7 +20,7 @@
       <p sl="en">Ponho à vossa disposição as minhas capacidades e a minha energia, para o que for necessário. Mas tudo o que vos peço é que me dêem o vosso voto na primeira volta: em primeiro lugar, porque pode ser a vossa única oportunidade de votarem em mim e, em segundo lugar, porque, se me derem muitos votos, isso vai ser um teste para os grupos que apoiam os deputados Cox e Martin. Desta vez precisamos de um porta-voz prático e politicamente neutro, que nos sirva a todos. Façam uma escolha melhor. E votar no deputado Bonde, do gabinete 007, será escolher melhor do que votar nos deputados Cox e Martin.</p>
       <p sl="en">No fim do dia vamos ter uma presidência melhor, graças aos autores da “plataforma da presidência justa”, que foram responsáveis pela primeira disputa eleitoral autêntica da nossa história. A próxima presidência terá um mandato claro. Merece o nosso apoio.</p>
     </intervention>
-    <intervention id="2-006" speaker_id="1287" name="Cox" is_mep="True" mode="spoken">
+    <intervention id="2-006" speaker_id="1287" name="Pat COX" is_mep="True" mode="spoken" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="en">Senhor Presidente, minhas senhoras e meus senhores, chegou a altura de decidir. Tivemos mais candidatos, tivemos mais debate e tivemos mais abertura, o que representa uma mudança no método de condução dos nossos trabalhos. É uma boa mudança, e espero que seja um sinal de que todos, nesta assembleia, têm vontade de se empenhar mais nos próximos anos e de que este mandato se caracterizará por uma cultura de mudança da forma como conduzimos os nossos trabalhos.</p>
       <p sl="en">A campanha foi muito reveladora, entre outras coisas no que se refere aos pontos fortes e aos pontos fracos dos candidatos – e tenho também de uns e de outros. Os jornais mais delicados disseram de mim que sou loquaz. Vivo na Irlanda, onde somos todos loquazes, perto de Blarney, onde há uma pedra e um castelo. Quando os visitantes que lá vão beijam essa pedra, diz-se no inglês hibérnico que passam a ter “the gift of the gab” , o dom da palavra, o que significa o mesmo que ser “loquaz”, na linguagem dos jornais mais delicados.</p>
       <p sl="en">Pode ser que sim, mas o mais importante para mim nesta campanha foi o facto de me ter proporcionado a oportunidade de ouvir e de aprender. Ouvi e aprendi que há vontade de mudança, e que há nesta assembleia a convicção de que temos de fazer mais política, no melhor sentido e no sentido mais visionário do termo. Soube que queremos menos votações e menos tecnicidade, e mais capacidade para actuarmos como políticos e exercermos a nossa influência. Por outras palavras, queremos mais vitalidade na forma como gerimos o nosso trabalho. Temos de resolver definitivamente muitas questões relacionadas com a reforma que debatemos há muito. O estatuto dos deputados é uma questão complexa, como o prova todo o trabalho que deu a Nicole Fontaine. Mas temos de continuar. Quero dizer uma coisa aos deputados: vou esforçar-me por levar a cabo esta reforma, mas não à revelia dos deputados a esta assembleia. Fá-lo-ei com base numa consulta transparente e aberta, com a participação plena de todos.</p>
@@ -30,7 +30,7 @@
       <p sl="en">Quero dizer a Hans-Gert Poettering e ao Grupo PPE-DE que aprecio muito o seu compromisso firme no sentido de se manterem como parceiros fiéis e sem reservas de um acordo concluído entre nós. Mas quero dizer-lhes também outra coisa: tive o privilégio de visitar muitos grupos, muitas comissões, muitos intergrupos. Quero, se puder, exercer uma presidência que seja uma presidência participativa, uma presidência disposta a tirar partido do talento de todos os que queiram dar o seu contributo. Peço a todos vós o vosso apoio.</p>
       <p sl="en">Finalmente, Senhor Presidente, os grupos mais pequenos desta assembleia não têm geralmente as possibilidades que tem hoje o meu, o Grupo dos Liberais e Democratas. Não sei qual será o resultado final, mas sei uma coisa: não percebo como é que aqueles que dizem que são a favor de mais abertura, de uma mudança no sistema, que gostariam que houvesse mais igualdade de oportunidades para todos, podem conciliar esses pontos de vista com a votação num candidato de um grande grupo, não porque os outros candidatos tenham qualquer falha, mas devido à própria natureza do sistema existente. Se querem transformar o sistema, a votação de hoje será a primeira prova de que estão empenhados na transformação e na mudança. É esse o meu apelo, e é para isso que peço o vosso apoio. Gostaria de ter o privilégio de ser o vosso Presidente, mas agora a decisão é vossa.</p>
     </intervention>
-    <intervention id="2-007" speaker_id="1403" name="Martin, David W." is_mep="True" mode="spoken">
+    <intervention id="2-007" speaker_id="1403" name="David MARTIN" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="26-08-1954" birth_place="Edinburgh" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="GB">
       <p sl="en">Senhor Presidente, caros colegas, não estranhem que inicie a minha intervenção agradecendo à nossa Presidente cessante, a senhora deputada Fontaine, o seu trabalho como Presidente. Liderou a luta contra o terrorismo muito antes do 11 de Setembro, e teve o mérito de tomar essas iniciativas nessa altura.</p>
       <p sl="en">Antes de deitarmos o nosso voto na urna nestas eleições, sabemos já quem é o vencedor. O vencedor é o Parlamento Europeu, pois, como muito bem o disse Pat Cox, tivemos uma eleição aberta, dura, mas lealmente disputada, o que só pode dar mais visibilidade e melhorar a imagem desta Instituição, algo que, digamo-lo com franqueza, é muito necessário. As eleições europeias de 1999, o Eurobarómetro e outras sondagens demonstram que esta Instituição tem um problema de imagem. Com a Convenção, o alargamento e as eleições europeias de 2004, confrontamo-nos com enormes desafios.</p>
       <p sl="en">Todos os deputados a este Parlamento têm agora oportunidade de votar por voto secreto na pessoa que lhes parece ser a mais indicada para nos guiar nesta fase crítica.</p>
@@ -45,7 +45,7 @@
       <p sl="en">Se me elegerem hoje, considerarei que cheguei ao topo da minha carreira política. Canalizarei toda a minha energia, todo o meu empenho e todo o meu entusiasmo para garantir que nos possamos orgulhar deste nosso Parlamento.</p>
       <a text="(Vivos aplausos)"/>
     </intervention>
-    <intervention id="2-008" speaker_id="1838" name="Onesta" is_mep="True" mode="spoken">
+    <intervention id="2-008" speaker_id="1838" name="Gérard ONESTA" is_mep="True" mode="spoken" nationality="France" birth_date="05-08-1960" birth_place="Albi" p_group="Group of the Greens/European Free Alliance" m_state="FR">
       <p sl="fr">Sinto que, durante esta campanha, algo aconteceu, caros colegas, uma qualidade na forma como trocámos pontos de vista e nos ouvimos uns aos outros raramente alcançada, pelo que penso que será agora difícil voltar atrás e imaginar uma eleição combinada nos bastidores, servindo o nosso plenário apenas para a confirmar. Quanto mais não fosse por isso, penso que esta campanha valeu a pena ser vivida.</p>
       <p sl="fr">O mais surpreendente é que os vossos cinco candidatos focaram os mesmos três temas. Surpreendente ou talvez não, pois, independentemente das nossas diferenças, todos nós fazemos a mesma constatação: o nosso Parlamento precisa de reformar os seus trabalhos, precisa de assegurar o pluralismo, bem como o respeito e a equidade de cada um de nós, aqui, nesta casa, e de se abrir mais aos nossos concidadãos.</p>
       <p sl="fr">Então, sim às reformas! Façamos do plenário a montra dos nossos trabalhos. Pela minha parte, tenho um sonho louco: criar instantes de tal forma apaixonantes que os nossos colegas fossem mais numerosos aqui, no hemiciclo, do que os intérpretes nas cabinas. Penso que este sonho é realista. Mas se as reformas são indispensáveis, não devemos fazê-las pagar o preço da nossa diversidade. Somos suficientemente bons políticos para distinguir, entre nós, por consenso, aquilo que pode tecnicamente ser feito em comissão daquilo que tem necessariamente de ser objecto de um debate político em plenário.</p>
@@ -60,7 +60,7 @@
       <p sl="fr">Para concluir, quero dizer que esta experiência de campanha foi para mim terrivelmente enriquecedora, como creio que para o conjunto da nossa assembleia. Tenho a certeza de que o nosso Presidente, seja ele qual for, saberá fazer perdurar esta atmosfera em que nos ouvimos uns aos outros, trabalhamos e debatemos democraticamente as questões. Não posso, portanto, deixar de terminar com uma única palavra pronunciada em todas as nossas línguas de trabalho. Embora a minha pronúncia seja abominável, espero que a compreendam, já que é dita com sinceridade: obrigado, gracias, grazie, tack, xapi , thank you, dank u well, danke, tak, kiitos, Merci !</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-009" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-009" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Senhor Presidente, caros colegas, os meus colegas e amigos do Grupo da Esquerda Unitária Europeia/Esquerda Nórdica Verde propuseram a minha candidatura na sequência do meu compromisso como presidente do grupo. Há dois anos e meio que me esforço a esse título por contribuir para dar vida a uma certa concepção da política aplicada à Europa. É essa atitude que simboliza a minha candidatura.</p>
       <p sl="fr">A sua primeira característica é, incontestavelmente, uma orientação afirmada à esquerda. Em meu entender, os dirigentes europeus não retiram os ensinamentos do preocupante desinteresse das cidadãs e dos cidadãos perante as Instituições europeias.</p>
       <p sl="fr">No terreno, as preocupações estão exacerbadas em matéria de emprego, de protecção social, de serviço público, de desenvolvimento sustentável, enquanto, no Conselho e na Comissão, o vento sopra no sentido da desregulamentação, dos negócios, do mercado acima de tudo. Penso que temos de situar-nos claramente face a esta contradição.</p>
@@ -71,7 +71,7 @@
       <p sl="fr">Gostaria, a propósito, de manifestar a minha surpresa e a minha pena – visto que se trata de amigos - perante a atitude, tão enormemente decepcionante, daqueles que não hesitam em conduzir uma campanha sobre temas progressistas na primeira volta para, na segunda, oferecerem o seu voto ao candidato único da direita, baptizado um pouco laboriosamente para a circunstância como candidato saído de um pequeno grupo. Cada um tem os seus princípios e os seus métodos, mas estes não são, seguramente, os meus.</p>
       <p sl="fr">Senhor Presidente, as cartas estão dadas, resta-nos assumir as nossas responsabilidades.</p>
     </intervention>
-    <intervention id="2-010" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-010" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Recordo que, nos termos do nº 1 do artigo 14º do Regimento, um candidato, para ser eleito, deve obter nas primeiras três voltas do escrutínio a maioria absoluta dos votos expressos. Os boletins brancos e nulos não são tidos em consideração para fins de contagem de votos.</p>
       <p sl="unknown">Recordo ainda os nomes dos deputados que ontem foram designados escrutinadores: a senhora deputada Patsy Sörensen, os senhores deputados Dieter-Lebrecht Koch, Giuseppe Nisticò, Reinhard Rack, Ilkka Suominen e a senhora deputada Alima Boumediene-Thiery. Solicito aos senhores escrutinadores que se dirijam à mesa da Presidência.</p>
       <p sl="unknown">As instruções para a eleição do Presidente já foram distribuídas. Procedamos à eleição do Presidente, em conformidade com o disposto no Regimento. Foram-vos distribuídos boletins de voto e envelopes. Queiram assinalar o nome do candidato escolhido, só se podendo votar num único candidato. Caso pretendam rectificar o voto expresso, bastará pedir a um contínuo novo boletim de voto e restituir-lhe o boletim mal assinalado, o qual será destruído. Serão considerados nulos os boletins nos quais tenham sido introduzidas alterações, ou feitas inscrições, ou em que tenha sido assinalado mais do que um candidato. Queiram dobrar o boletim de voto em quatro e metê-lo no envelope. Dirijam-se em seguida à urna correspondente à inicial do vosso apelido.</p>
@@ -81,7 +81,7 @@
       <p sl="unknown">Está encerrado o escrutínio.</p>
       <a text="(A sessão, suspensa às 11H03, é reiniciada às 11H55)"/>
     </intervention>
-    <intervention id="2-011" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-011" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Senhoras e Senhores Deputados, vou apresentar o resultado do escrutínio. Votantes: 590. Boletins brancos ou nulos: 7. Votos expressos: 583. Maioria absoluta: 292.</p>
       <p sl="unknown">Vou ler agora os resultados obtidos por cada um dos candidatos:</p>
       <p sl="unknown">Deputado Bonde: 66 votos</p>
@@ -91,48 +91,48 @@
       <p sl="unknown">Deputado Wurtz: 42 votos.</p>
       <p sl="unknown">Dado que nenhum candidato obteve a maioria dos votos expressos, procederemos a uma segunda volta. Se não há observações, mantêm-se as candidaturas da primeira volta.</p>
     </intervention>
-    <intervention id="2-012" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-012" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Senhor Presidente, de acordo com o meu grupo e em conformidade com a atitude que expliquei antes da primeira volta, retiro a minha candidatura e convido aquelas e aqueles que votaram em mim, a quem agradeço, a transferirem os seus votos para o senhor deputado David Martin.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-013" speaker_id="1838" name="Onesta" is_mep="True" mode="spoken">
+    <intervention id="2-013" speaker_id="1838" name="Gérard ONESTA" is_mep="True" mode="spoken" nationality="France" birth_date="05-08-1960" birth_place="Albi" p_group="Group of the Greens/European Free Alliance" m_state="FR">
       <p sl="fr">Caros colegas, como combinado com o meu grupo, retiro a minha candidatura. O meu grupo discutiu longamente as diferentes qualidades dos candidatos. Penso que, aconteça o que acontecer, teremos um bom Presidente.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-014" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="2-014" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="da">Senhor Presidente, gostaria de agradecer os 66 votos expressos. Os membros que votaram em mim poderão reunir na sala R31 às 12H00 para decidir sobre a minha retirada.</p>
     </intervention>
-    <intervention id="2-015" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-015" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">O prazo para apresentação de candidaturas para a segunda volta termina às 12H15. As candidaturas devem ser apresentadas ao Decano por intermédio do Secretário-Geral adjunto.</p>
     </intervention>
-    <intervention id="2-016" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+    <intervention id="2-016" speaker_id="1352" name="Enrique BARÓN CRESPO" is_mep="True" mode="spoken" nationality="Spain" birth_date="27-03-1944" birth_place="Madrid" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="es">Senhor Presidente, em conformidade com o acordo de cavalheiros estabelecido na Conferência dos Presidentes, solicitaria um quarto de hora suplementar, ou seja, que comecemos às 12H45.</p>
     </intervention>
-    <intervention id="2-018" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-018" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Temos agora apenas três candidatos: os senhores deputados Bonde, Cox e David Martin. Vamos proceder, portanto, a um segundo escrutínio. Os boletins de voto e respectivos envelopes vão ser distribuídos.</p>
       <p sl="unknown">Está aberto o escrutínio.</p>
       <a text="(Os deputados levantam-se para votar)"/>
       <p sl="unknown">Está encerrado o escrutínio.</p>
       <a text="(A sessão, suspensa às 13H15, é reiniciada às 15H00)"/>
     </intervention>
-    <intervention id="2-019" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-019" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Vou ler agora o resultado do escrutínio realizado. Votantes: 592. Boletins brancos ou nulos: 13. Votos expressos: 579. Maioria absoluta: 290. Os resultados obtidos pelos três candidatos que se apresentaram são os seguintes:</p>
       <p sl="unknown">Deputado Bonde: 76 votos</p>
       <p sl="unknown">Deputado Cox: 277 votos</p>
       <p sl="unknown">Deputado David Martin: 226 votos</p>
       <p sl="unknown">Dado que nenhum candidato obteve a maioria absoluta, procederemos a uma terceira volta. É necessário saber agora se todos os candidatos mantêm as suas candidaturas. O candidato Cox mantém a sua candidatura. O candidato David Martin também. Senhor Deputado Bonde, mantém a sua candidatura?</p>
     </intervention>
-    <intervention id="2-020" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="2-020" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="da">Senhor Presidente, gostaria de lhe pedir para adiar a sessão, permitindo, desse modo, a continuação da discussão entre os membros que votaram em mim …</p>
       <a text="(Burburinho)"/>
       <p sl="da">É óbvio que não iremos pedir uma única concessão política. Os membros que votaram em mim são membros independentes que provêm tanto de grupos mais pequenos como de grupos maiores e que sentem que não foram satisfeitas todas as suas pretensões. É uma coligação mista isenta de qualquer intenção política, mas estas pessoas têm necessidade de dialogar com os dois candidatos que irão participar na última volta, nomeadamente o senhor deputado David Martin e o senhor deputado Pat Cox. Estivemos reunidos com eles na sala R3, 1, e gostaríamos de continuar a reunião ainda durante algum tempo. Caso contrário, vejo-me obrigado a manter a minha candidatura, contra a minha vontade.</p>
     </intervention>
-    <intervention id="2-021" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-021" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Senhor Deputado Bonde, tenho que consultar toda a Assembleia para saber se concorda ou não com esta suspensão de sessão.</p>
       <a text="(O Parlamento vota a suspensão da sessão)"/>
       <a text="(A sessão, suspensa às 15H10, é reiniciada às 15H40)"/>
     </intervention>
-    <intervention id="2-022" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-022" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Comunico que recebi as seguintes candidaturas:</p>
       <p sl="unknown">Deputado Bonde</p>
       <p sl="unknown">Deputado Cox</p>
@@ -143,7 +143,7 @@
       <p sl="unknown">Está encerrado o escrutínio. Convido os senhores escrutinadores a dirigirem-se à sala onde procederão à contagem dos votos.</p>
       <a text="(A sessão, suspensa às 16H05, é reiniciada às 16H39)"/>
     </intervention>
-    <intervention id="2-023" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-023" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Vou ler o resultado do escrutínio realizado. Votantes: 586. Boletins brancos ou nulos: 18. Votos expressos: 568. Maioria absoluta: 285. O resultado é o seguinte:</p>
       <p sl="unknown">Deputado Bonde: 33 votos</p>
       <p sl="unknown">Deputado Cox: 298 votos</p>
@@ -151,7 +151,7 @@
       <p sl="unknown">O senhor deputado Patrick Cox, como todos compreenderam, obteve a maioria absoluta dos votos expressos. Felicito-o sinceramente, Senhor Deputado Patrick Cox, pela sua eleição, e formulo os melhores votos para o exercício do seu mandato, um exercício feliz e bom para o Parlamento Europeu. Convido o senhor deputado a ocupar a Presidência.</p>
       <a text="(Vivos aplausos)"/>
     </intervention>
-    <intervention id="2-025" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-025" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">A sensação de estar aqui é muito diferente.</p>
       <p sl="unknown">Colegas, o dia de hoje foi um dia fausto para a democracia parlamentar no Parlamento Europeu. Quero agradecer ao nosso colega, o senhor deputado Soares, o Decano, pela forma como conduziu até agora a nossa sessão.</p>
       <a text="(Aplausos)"/>
@@ -164,7 +164,7 @@
       <a text="(Aplausos)"/>
       <p sl="unknown">Agradeço ao senhor deputado Poettering e ao Grupo PPE-DE por me terem indigitado, juntamente com o Grupo ELDR, e pelo vosso apoio generoso, em termos de cumprimento daquilo a que se comprometeram. Na actividade política é muito importante ter um parceiro fiável, é uma base sobre a qual podemos construir de uma forma inclusiva nesta assembleia. Agradeço a todos os que votaram em mim. E quanto aos que votaram noutros candidatos, agora que o assunto está arrumado, espero que possamos criar uma presidência verdadeiramente participativa, empenhada em construir neste Parlamento e na União uma União e um Parlamento à altura da Europa do futuro.</p>
     </intervention>
-    <intervention id="2-030" speaker_id="1253" name="Poettering" is_mep="True" mode="spoken">
+    <intervention id="2-030" speaker_id="1253" name="Hans-Gert PÖTTERING" is_mep="True" mode="spoken" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Senhor Presidente, Senhor Presidente da Comissão, caros colegas, este dia 15 de Janeiro de 2002 é um dia significativo na história do Parlamento Europeu. Elegemos um novo Presidente e, Senhor Presidente, gostaria de lhe dar os mais sinceros parabéns em nome do Grupo do Partido Popular Europeu e dos Democratas Europeus.</p>
       <a text="(Aplausos)"/>
       <p sl="de">Peço a compreensão dos outros grupos – e já direi algo aos candidatos – pelo facto de dizer o seguinte: muitos duvidaram de que fosse possível eleger para Presidente do Parlamento Europeu um membro de um país pequeno, o presidente de um grupo pequeno. Senhor Presidente, gostaria de lhe dizer, assim como a todos nós: estou muito grato por termos tido a oportunidade – também o nosso grupo – de manifestar claramente a cultura europeia, pelo facto de também um pequeno grupo, um pequeno país ter a oportunidade de assumir uma das tarefas mais importantes na União Europeia.</p>
@@ -180,7 +180,7 @@
       <p sl="de">Desejo-lhe muito sucesso e a bênção de Deus para o seu trabalho!</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-031" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+    <intervention id="2-031" speaker_id="1352" name="Enrique BARÓN CRESPO" is_mep="True" mode="spoken" nationality="Spain" birth_date="27-03-1944" birth_place="Madrid" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="es">Senhor Presidente, antes de mais, em nome do Grupo do Partido dos Socialistas Europeus, gostaria de lhe dar os mais cordiais parabéns pela sua eleição. Mais do que felicitá-lo, quero desejar-lhe boa sorte, pois o senhor ocupa o lugar da Presidência após uma renhida batalha eleitoral travada connosco. Não foi, pois, em si que votámos, mas o senhor é o nosso novo Presidente e fazemos votos por que exerça o seu cargo com o cavalheirismo, a imparcialidade e a elegância que o caracterizam.</p>
       <p sl="es">Somos de opinião que colaborámos activamente para dar a todos os europeus um exemplo de democracia. A democracia pressupõe combate político, na base do respeito mútuo e de valores comuns, e este é um momento extremamente importante. Digo-o porque acabámos de reafirmar os nossos valores comuns. Espero que o senhor Presidente defenda as posições do Parlamento Europeu na Convenção que está prestes a começar sobre o futuro da Europa e, acima de tudo, que defenda a nossa Carta dos Direitos Fundamentais como sendo a afirmação dos nossos valores comuns. Acontece também que seremos nós os anfitriões da Convenção, pois ela irá ter lugar na nossa Casa. Felizmente, o Parlamento Europeu já pode ser a casa aberta de todos os europeus que o senhor Presidente deseje seriamente defender. Espero ainda que, além de defender as posições deste Parlamento, o senhor Presidente contribua também para que os nossos colegas dos parlamentos nacionais possam participar activamente neste processo, que se inicia quase em simultâneo com a sua Presidência.</p>
       <p sl="es">Tenho presentes, também, todos aqueles europeus que se querem associar à nossa aventura comum. Creio que é importante que, a partir do mês de Março deste ano, e sem esperar pelas ratificações, comecemos a tratá-los como se já pertencessem à grande casa europeia. Irão ser membros da Convenção. Temos de desenvolver relações com eles. Já estamos a falar de uma União alargada. Este não é, todavia, Senhor Presidente, o momento de entrar em muitos pormenores. Tenho confiança e deposito esperanças no seu discurso inaugural, através do qual nos será dado conhecer qual a orientação que pretende dar à sua Presidência no tocante ao processo de alargamento.</p>
@@ -188,11 +188,11 @@
       <p sl="es">De qualquer modo, reitero os nossos parabéns enquanto grupo, bem como a nossa atitude de leal colaboração para consigo, fazendo votos por que seja o Presidente de todos os europeus na via de uma Europa mais progressista, com mais justiça social, com um desenvolvimento sustentável e, acima de tudo, uma Europa em que sejamos capazes de lançar as pedras basilares de uma Constituição para todos os europeus.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-032" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-032" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Apesar de não trazer um ramo de flores, as suas palavras foram o equivalente a um ramo de flores.</p>
       <p sl="unknown">Afastando-me da ordem de precedência normal e porque hoje é um dia especial, gostaria de convidar o meu amigo e colega, o senhor deputado David Martin, a usar da palavra.</p>
     </intervention>
-    <intervention id="2-033" speaker_id="1403" name="Martin, David" is_mep="True" mode="spoken">
+    <intervention id="2-033" speaker_id="1403" name="David MARTIN" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="26-08-1954" birth_place="Edinburgh" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="GB">
       <p sl="en">Senhor Presidente, antes de o felicitar, gostaria de dizer que foi uma honra para a assembleia que a nossa eleição presidencial tenha sido presidida por um europeu tão distinto e um democrata tão convicto como o senhor deputado Soares. Foi um prazer tê-lo aqui.</p>
       <a text="(Aplausos)"/>
       <p sl="en">Apresento-lhe as minhas mais calorosas felicitações. Foi uma vitória bem merecida – teve de mover uma campanha difícil, e soube fazê-lo. Lutou esforçadamente para defender a sua posição e deu provas, durante a campanha, de todas as qualidades de que necessita para ser um excelente Presidente desta assembleia. Aguardo com expectativa a nossa colaboração futura.</p>
@@ -202,59 +202,59 @@
       <p sl="en">Mais uma vez e no mesmo espírito, gostaria de agradecer ao senhor deputado Poettering as suas palavras, que se incluem na mesma categoria. Não é o momento mais adequado para fazer longos discursos, Senhor Presidente, mas a sua vitória foi merecida. Desejo-lhe boa sorte. Disse uma vez, durante a campanha, que acontecesse o que acontecesse, uma ou duas semanas depois da eleição íamos os dois beber um copo. Vamos a isso!</p>
       <a text="(Risos e aplausos prolongados)"/>
     </intervention>
-    <intervention id="2-034" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-034" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">No que se refere a essa citação que vai ficar agora registada em acta, e que não posso desmentir, num debate que teve lugar a 28 de Novembro de 2001, em Bruxelas, lembro-me de que a dada altura concluí as minhas observações dizendo, a propósito da sugestão que o senhor deputado David Martin acaba de registar em acta, que a minha metade irlandesa queria ir tomar um copo, mas que a minha metade escocesa não o queria pagar.</p>
       <a text="(Risos)"/>
       <p sl="unknown">Por isso ainda não definimos as regras desse compromisso.</p>
       <a text="(Risos)"/>
       <p sl="unknown">Convido os senhores deputados Bonde, Onesta e Wurtz a juntarem-se a nós nessa ocasião.</p>
     </intervention>
-    <intervention id="2-035" speaker_id="1838" name="Onesta" is_mep="True" mode="spoken">
+    <intervention id="2-035" speaker_id="1838" name="Gérard ONESTA" is_mep="True" mode="spoken" nationality="France" birth_date="05-08-1960" birth_place="Albi" p_group="Group of the Greens/European Free Alliance" m_state="FR">
       <p sl="fr">Senhor Presidente, evidentemente que, tal como todos os meus colegas, não posso deixar de saudar a sua vitória, que, visivelmente, é merecida, pois foi conquistada na reflexão, no debate, semana após semana. Penso que as mais belas vitórias são as que se constroem lentamente. A sua, à velocidade a que se construiu, é forçosamente muito bela.</p>
       <p sl="fr">O senhor anunciou-nos uma Presidência neutra mas não neutralizada. Ora, a acreditar no seu primeiro discurso, fico de facto com a sensação de que vai cumprir a sua palavra, pois penso que será realmente neutro: o seu percurso fala por si e penso que saberá ouvir toda a gente. Mas a sua Presidência não será neutralizada, porque o senhor é um europeu convicto. Fez de imediato referência à bandeira que se encontra à nossa frente e por trás de si, Senhor Presidente, e é um facto que essa bandeira nos une independentemente das nossas diferenças. Mas essas diferenças, o senhor não as negou ao falar numa língua que não é uma língua de trabalho mas é uma língua oficial. Há muitas línguas, nesta Europa, que poderiam tornar-se oficiais no dia em que ela estiver mais próxima dos cidadãos. Penso ser muito belo o símbolo que o senhor utilizou.</p>
       <p sl="fr">Para terminar, espero que a sua Presidência seja à imagem do seu primeiro discurso, voluntária e sorridente.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-036" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-036" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Tentarei.</p>
     </intervention>
-    <intervention id="2-037" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-037" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Senhor Presidente, em nome do meu grupo e em meu nome pessoal, felicito-o muito sinceramente pela sua eleição. Todos sabemos que não apoiámos a sua candidatura mas que respeitamos a sua pessoa. E somos democratas. Neste momento, o senhor é o Presidente de todas e todos nós. Herda um cargo assumido com êxito, durante a primeira metade da legislatura, pela senhora deputada Nicole Fontaine, que soube, ao longo de todo o seu mandato, respeitar o pluralismo e cooperar lealmente com todos. O nosso desejo é o de que essa cooperação continue com o senhor. E, conhecendo-o, não tenho qualquer razão para duvidar disso. É por isso e dentro desse espírito que lhe desejo boa sorte, Senhor Presidente.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-038" speaker_id="4359" name="Pasqua" is_mep="True" mode="spoken">
+    <intervention id="2-038" speaker_id="4359" name="Charles PASQUA" is_mep="True" mode="spoken" nationality="France" birth_date="17-04-1927" birth_place="Grasse" p_group="Union for Europe of the Nations Group" m_state="FR">
       <p sl="fr">Senhor Presidente, em qualquer eleição por voto secreto que se desenrole numa assembleia, há sempre uma parte de riscos e há sempre suspense . Devo dizer que, depois de uma autêntica prova de ciclismo de perseguição que nos apaixonou a todos, o senhor chegou em primeiro lugar, chegou à meta, está agora eleito. Felicitamo-lo por isso, evidentemente. E vemos em si um Presidente como desejávamos. Pude verificar, no seio da Conferência dos Presidentes, o seu sentido da diplomacia e a inteligência das suas intervenções, o que não exclui, em minha opinião, uma certa firmeza.</p>
       <p sl="fr">Assim, ao longo de toda esta jornada, Senhor Presidente, senti a sua inquietação, partilhei as suas angústias perante as incertezas do escrutínio e, por fim, vivi consigo o resultado como uma espécie de libertação.</p>
       <p sl="fr">Logo após a sua eleição, o senhor afirmou que era Presidente de toda a assembleia, que era Presidente de todos os deputados, daqueles que votaram em si e daqueles que não o fizeram. É agora o Presidente de todos. É óbvio que, se consultasse individualmente os deputados, constataria que aqueles que diriam que votaram em si são muito mais numerosos do que o número oficial. As coisas são assim.</p>
       <p sl="fr">As promessas que o senhor faz, Senhor Presidente, tendo em conta as suas características de irlandês, não devem dirigir-se apenas a um membro desta assembleia. Assim, quando decide, ao inaugurar a sua Presidência, oferecer um copo, compreendo as preocupações da metade irlandesa que é obrigada a pagar. Pois permita-me informá-lo de que, se quer ser honesto e cumprir os seus compromissos, não vai oferecer só um copo a uma só pessoa, mas sim 626 copos a todos os presentes. É um facto, Senhor Presidente!</p>
       <p sl="fr">Para terminar com uma observação um pouco mais séria, diria que o grupo a que presido, o Grupo da União para a Europa das Nações, foi sensível às primeiras afirmações que proferiu quanto à necessidade de salvaguardar a diversidade das nossas culturas, pois o que fará a força da Europa será a adição das qualidades de cada um dos povos e não uma tendência que poderá existir aqui ou ali de fazer desaparecer essas diferenças. Também tomamos nota disso. Contamos consigo para o fazer. Pode contar connosco para o apoiarmos, mas também, se for caso disso, estarmos vigilantes relativamente às decisões que serão tomadas.</p>
     </intervention>
-    <intervention id="2-039" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-039" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Obrigado, Senhor Deputado Pasqua, não lhe esconderei mais tempo que amanhã, às 13 horas, todos os deputados estão convidados a tomar um copo comigo no exterior do nosso hemiciclo, incluindo o senhor, Senhor Presidente Pasqua.</p>
     </intervention>
-    <intervention id="2-040" speaker_id="1934" name="Cohn-Bendit" is_mep="True" mode="spoken">
+    <intervention id="2-040" speaker_id="1934" name="Daniel COHN-BENDIT" is_mep="True" mode="spoken" nationality="France" birth_date="04-04-1945" birth_place="Montauban" p_group="Group of the Greens/European Free Alliance - Co" m_state="FR">
       <p sl="fr">Senhor Presidente Cox, o senhor foi eleito por maioria. No fundo da urna há votos diferentes e gostaria de lhe recordar uma coisa. Sei que, quando pertencemos a um grupo minoritário – e o senhor esteve muito tempo num grupo minoritário – habituamo-nos a dar conselhos a toda a gente. Assim, mantenho-me fiel ao seu hábito e dou conselhos ao Presidente desta assembleia, cuja importância ultrapassa de longe a do presidente de um pequeno grupo ou de um vice-presidente. Por conseguinte, gostaria de lhe recordar a sabedoria de um velho rabino. Este tinha o hábito de responder, em situações difíceis em que lhe diziam "tens à escolha duas possibilidades": "nesse caso, escolho a terceira".</p>
       <p sl="fr">Senhor Presidente, penso que deve hoje esquecer quem é que votou em si e quem é que votou contra si. O senhor representa a Instituição do interesse comunitário. Representa uma ideia da Europa e é essa ideia que está a ser atacada por um político que faz parte de uma das famílias daqueles que votaram em si: por acaso, à sorte, o Sr. Haider, por acaso, à sorte, o Sr. Berlusconi. Espero de si que as posições que venha a tomar não sejam em nome dos interesses daqueles que votaram em si, mas sim em nome do interesse da Europa, sem ter em conta aqueles que votaram em si e as razões por que o fizeram.</p>
       <p sl="fr">Foi isso que esperámos de Nicole Fontaine e ela fê-lo quase sempre. Sei que nunca ninguém fará completamente aquilo que a Instituição lhe pede. Mas, Senhor Presidente Cox, o senhor tem perante si um desafio moral, que é o de emancipar-se da força imensa daqueles que o apoiaram e o nomearam. Não será fácil, e se precisar de independência, de aliados que defendem o pluralismo, o Grupo dos Verdes/Aliança Livre Europeia – aqueles que votaram em si e aqueles que não o fizeram – está à sua disposição. Não se deixe cercar por este ou por aquele: defender a liberdade do pluralismo, eis a sua tarefa enquanto Presidente.</p>
     </intervention>
-    <intervention id="2-041" speaker_id="1926" name="Riis-Jørgensen" is_mep="True" mode="spoken">
+    <intervention id="2-041" speaker_id="1926" name="Karin RIIS-JØRGENSEN" is_mep="True" mode="spoken" nationality="Denmark" birth_date="07-11-1952" birth_place="Odense" p_group="Group of the Alliance of Liberals and Democrats for Europe - Vice" m_state="DK">
       <p sl="en">Senhor Presidente, venceu! Foi uma maravilha. Tinha um sonho, e realizou-o. Felizmente que tem mais sonhos, mais visões. Estou certa de que vai realizá-los também.</p>
       <p sl="en">Felicitamo-lo em nome do Grupo dos Liberais. Estamos muito orgulhosos de si. Vamos sentir a sua falta, vamos sentir a falta do seu empenho, das suas visões e do seu sentido do humor. Mas felizmente vai ficar entre nós. Faremos tudo o que pudermos para cooperar consigo e para assegurar que os seus sonhos, os nossos sonhos, se tornem realidade. Boa sorte! Já estou cheia de saudades suas.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-042" speaker_id="1275" name="Bonde" is_mep="True" mode="spoken">
+    <intervention id="2-042" speaker_id="1275" name="Jens-Peter BONDE" is_mep="True" mode="spoken" nationality="Denmark" birth_date="27-03-1948" birth_place="Åbenrå" p_group="Independence/Democracy Group - Co" m_state="DK">
       <p sl="en">Senhor Presidente, quando, há dezanove anos, visitei Mário Soares no apartamento de Paris onde viveu durante o seu exílio, não podia adivinhar que lhe ia agradecer hoje a forma como dirigiu esta reunião. Assinei a carta e preparei o discurso de retirada da minha candidatura, e lamento que a última votação tenha começado pelo meu nome. Gostaria de agradecer aos 76 colegas que me deram o seu voto na segunda volta, em apoio da “plataforma da presidência justa”.</p>
       <p sl="en">Era evidente desde o início que a presidência ia ser disputada entre o senhor deputado Cox e o senhor deputado David Martin. Travámos bons debates nos grupos e um esplêndido debate televisivo, organizado pela European Voice e pela Campanha para a Reforma Parlamentar. O debate final, antes da votação de hoje, foi o resultado de uma iniciativa comum dos cinco candidatos. A nossa amizade não foi afectada, pelo contrário, foi até reforçada.</p>
       <p sl="en">Caro deputado Cox, parabéns pela sua vitória. Obteve a maioria por voto secreto; já não está dependente de um acordo, pois a assembleia conferiu-lhe um mandato claro. A campanha eleitoral sensibilizou-o para os problemas que vai ter de resolver. O método de votação tem se ser reformado; o tempo de uso da palavra deve permitir que seja travado um debate animado e todos os deputados devem ter acesso a todos os documentos do processo legislativo; os pequenos grupos e os deputados independentes devem deter uma proporção justa dos cargos; todos os deputados devem poder usar da palavra pelo menos três vezes por ano; os países candidatos à adesão devem ser convidados como observadores e as suas línguas devem ser aceites; os diferentes pontos de vista da maioria federalista e das minorias devem estar representados de forma adequada na Convenção. Uma democracia deve tratar sempre com justiça as suas minorias, e o senhor vai ser justo para as numerosas minorias desta assembleia. Desejo-lhe 30 meses de trabalho intenso, em benefício de todos nós. Parabéns.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-043" speaker_id="1428" name="Balfe" is_mep="True" mode="spoken">
+    <intervention id="2-043" speaker_id="1428" name="Richard A. BALFE" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="14-05-1944" birth_place="Mildenhall " p_group="Group of the Party of European Socialists" m_state="GB">
       <p sl="en">Em nome do grupo bastante grande dos Não-inscritos, que tem mais de trinta deputados, alguns dos quais são refugiados de outros grupos, felicito-o pela sua eleição. Este é um grupo muito diferenciado, com filosofias políticas variadas, que abrangem os mais diversos quadrantes, mas cujos deputados têm em comum o facto de deterem todos um mandato político e de terem sido todos apoiados por milhares, ou mesmo, em muitos casos, por milhões de pessoas, em diferentes urnas de diferentes países. Winston Churchill disse um dia que a democracia tem inconvenientes, mas que é o melhor sistema que conhecemos.</p>
       <p sl="en">O senhor referiu-se também, na sua intervenção, às pessoas que se sentem marginalizadas. As pessoas deste grupo têm-se sentido muitas vezes marginalizadas; efectivamente, alguns de nós faziam parte de um grupo que foi dissolvido, e não ficaram nada satisfeitos com a forma como isso foi feito. Não vou falar aqui de ideologias políticas, porque seria muito difícil identificar uma ideologia política comum neste grupo, mas gostaria de observar que o que une todos os deputados do grupo dos Não-inscritos é estarmos à espera de ser tratados com justiça, esperarmos de vós um tratamento justo, esperarmos que as pessoas que estão deste lado da assembleia sejam ouvidas quando falam e esperarmos que reconheçam que, apesar de muitos de nós estarem numa posição difícil, somos democratas e queremos participar nos trabalhos desta assembleia.</p>
       <p sl="en">O senhor vem de um pequeno país e de um pequeno grupo; efectivamente, sabemos que vem de um grupo muito pequeno, porque quando chegou da Irlanda era de um grupo de um. Agora sou eu que estou na posição de ser um deputado de um grupo de um, por isso temos alguma coisa em comum. Portanto, na qualidade de deputado de um grupo de um que se dirige a outro deputado de um grupo de um, quero dar-lhe os parabéns. Aguardamos com expectativa a oportunidade de trabalhar consigo e sei que todos os meus colegas das novas bancadas esperam, como eu o espero também, que os trate com justiça e com o respeito democrático que sei que todos eles merecem.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-044" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-044" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Senhor Deputado Balfe, na sua qualidade de deputado de um grupo de um, tenho a certeza de que esse seu sentimento é unânime.</p>
       <p sl="unknown">Já terminámos os nossos trabalhos parlamentares, mas vieram agora juntar-se a nós colegas da Comissão Europeia, cuja presença assinalo com gratidão, pois estamos num momento importante da nossa vida democrática no Parlamento.</p>
     </intervention>
@@ -265,30 +265,30 @@
       <p sl="it">Senhor Presidente, uma vez mais, parabéns pela sua eleição. Juntamente com os meus colegas Comissários, terei muito prazer em colaborar consigo com vista à consecução desse objectivo.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-046" speaker_id="4358" name="Sylla" is_mep="True" mode="spoken">
+    <intervention id="2-046" speaker_id="4358" name="Fodé SYLLA" is_mep="True" mode="spoken" nationality="France" birth_date="23-01-1963" birth_place="Thiès " p_group="Confederal Group of the European United Left/Nordic Green Left" m_state="FR">
       <p sl="fr">Senhor Presidente, agradeço-lhe e felicito-o também eu. Não tenho muito a acrescentar àquilo que disse o presidente Francis Wurtz.</p>
       <p sl="fr">Gostaria apenas de lhe transmitir o seguinte. Muitas vezes, dizem-nos que o Parlamento não corresponde à imagem das nossas sociedades, das nossas escolas, ou mesmo dos nossos campos de futebol. É um facto que não há suficientes mulheres aqui, que não há suficientes pessoas oriundas da imigração. Pelo contrário, no que respeita a estas duas categorias, há um sector – chamo a sua atenção para ele – em que a quota é largamente ultrapassada: é o do pessoal de limpeza, das pessoas que se ocupam do nosso conforto. Quando damos por isso – e como o senhor é o Presidente de todos, gostaria que lhes prestasse também a sua atenção –, constatamos que muitas dessas pessoas que se ocupam do nosso conforto são imigrantes.</p>
       <p sl="fr">A segunda coisa que gostaria de lhe dizer, que talvez não seja uma brincadeira, é a seguinte: o senhor surpreendeu toda a gente ao falar na sua língua de origem. Acontece que a minha – sou oriundo do Senegal e sou deputado francês – é o bambara. Assim, não posso deixar de formular o voto de poder também eu exprimir-me, daqui até ao final da legislatura, na minha língua materna, pois penso que é isso a diversidade, e é também uma forma de conhecer cada um de nós, uma vez que, apesar de todas as nossas diferenças, temos um futuro a construir juntos.</p>
       <a text="(Aplausos)"/>
     </intervention>
-    <intervention id="2-047" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-047" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Colegas, agradeço a todos os vossos votos de felicidade e os vossos conselhos, e repito que amanhã, à hora do almoço, convido todos os deputados a juntarem-se a mim num breve momento de comemoração.</p>
       <p sl="unknown">Passamos assim ao ponto seguinte da ordem do dia. Temos agora de eleger os vice-presidentes do Parlamento. São 17H30. Se houver alterações aceitá-las-ei, mas proponho que seja fixado um prazo para a apresentação de candidaturas, até às 18H00. As candidaturas devem ser apresentadas ao secretário-geral adjunto, no gabinete R00.101 do edifício Louise Weiss. Espero que estejam de acordo.</p>
     </intervention>
-    <intervention id="2-048" speaker_id="1352" name="Barón Crespo" is_mep="True" mode="spoken">
+    <intervention id="2-048" speaker_id="1352" name="Enrique BARÓN CRESPO" is_mep="True" mode="spoken" nationality="Spain" birth_date="27-03-1944" birth_place="Madrid" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="es">Senhor Presidente, por razões óbvias, teremos de optar por um dos dois cenários. Pedimos que seja respeitada a ordem do dia tal como estava estabelecida, isto é, que o prazo para a entrega de candidaturas seja prorrogado até às 18H30.</p>
     </intervention>
-    <intervention id="2-049" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-049" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Pode haver circunstâncias especiais que justifiquem este pedido. Se a assembleia estiver de acordo (tivemos um longo dia de escrutínios e as pessoas devem poder estabelecer contactos e fazer consultas), aceitaremos a sugestão; as candidaturas deverão ser apresentadas até às 18H30, o que significa que a votação terá lugar às 19H00.</p>
       <p sl="unknown">A sessão é suspensa.</p>
       <a text="(A sessão, suspensa às 17h35, é reiniciada às 19H05)"/>
     </intervention>
-    <intervention id="2-050" speaker_id="1426" name="Banotti" is_mep="True" mode="spoken">
+    <intervention id="2-050" speaker_id="1426" name="Mary Elizabeth BANOTTI" is_mep="True" mode="spoken" nationality="Ireland" birth_date="29-05-1939" birth_place="Dublin" p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="IE">
       <p sl="en">Senhor Presidente, antes de mais nada quero felicitá-lo pela sua eleição. Vou só fazer um breve anúncio técnico, antes de iniciarmos a votação. Houve uma falha geral no sistema informático, causada por uma falha do hardware , que se prolongou por cinco minutos. O problema foi já identificado e está a ser resolvido, e a boa notícia é que o sistema já está a funcionar. Não entrem em pânico: os técnicos puseram já mãos à obra e esperemos que não haja mais problemas</p>
     </intervention>
   </section>
   <section id="creitem2" title="Eleição dos Vice-presidentes do Parlamento Europeu">
-    <intervention id="2-052" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-052" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Segue-se na ordem do dia a eleição dos vice-presidentes do Parlamento Europeu.</p>
       <p sl="unknown">Informo-vos de que foi recebida uma lista de candidatos. Com os seguintes nomes: Cederschiöld, Colom i Naval, Dimitrakopoulos, Friedrich, Imbeni, Lalumière, David Martin, …</p>
       <a text="(Vivos aplausos)"/>
@@ -298,10 +298,10 @@
       <p sl="unknown">Os aplausos são a aclamação que confirma que os 14 candidatos foram eleitos vice-presidentes. No entanto, agora temos de realizar um escrutínio para determinar a ordem de precedência. Portanto, proclamo que estes candidatos foram eleitos vice-presidentes do Parlamento Europeu. Felicito-os a todos pela sua eleição.</p>
       <p sl="unknown">Vamos agora proceder a um escrutínio para determinar a ordem de precedência. Como o escrutínio se destina apenas a determinar a ordem de precedência, não é necessária uma maioria qualificada. Vão ser distribuídos os boletins de voto para estabelecer a ordem de precedência. Os escrutinadores são os mesmos da eleição do Presidente. Solicito aos escrutinadores que tomem posição junto às urnas.</p>
     </intervention>
-    <intervention id="2-053" speaker_id="1264" name="Friedrich" is_mep="True" mode="spoken">
+    <intervention id="2-053" speaker_id="1264" name="Ingo FRIEDRICH" is_mep="True" mode="spoken" nationality="Germany" birth_date="24-01-1942" birth_place="Kutno" p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="DE">
       <p sl="de">Senhor Presidente, tenho uma pergunta: até agora, foi-nos dito que temos de assinalar pelo menos sete candidatos para que o boletim de voto seja válido. Mantém-se este pressuposto de que é necessário assinalar sete candidatos, no mínimo?</p>
     </intervention>
-    <intervention id="2-054" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="2-054" speaker_id="1287" is_mep="True" mode="spoken" role="Presidente" name="Pat COX" nationality="Ireland" birth_date="28-11-1952" birth_place="Dublin" p_group="Group of the European Liberal, Democrat and Reform Party" m_state="IE">
       <p sl="unknown">Senhor Deputado Friedrich, fui informado de que pode assinalar os nomes de todos os candidatos que desejar, sejam muitos ou poucos. É como quiser. Não há regras neste ponto.</p>
       <p sl="unknown">Devem utilizar exclusivamente os boletins de voto oficiais e assinalar os nomes dos candidatos em que querem votar. Caso pretendam rectificar o voto expresso, bastará pedir a um contínuo novo boletim de voto e restituir-lhe o boletim mal assinalado, o qual será destruído.</p>
       <p sl="unknown">Está aberto o escrutínio.</p>

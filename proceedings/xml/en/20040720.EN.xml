@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="20040720.EN" lang="en" date="2004-07-20" place="Strasbourg" edition="OJ edition">
   <section id="creitem1" title="Resumption of the session">
-    <intervention id="2-004" speaker_id="28369" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-004" speaker_id="28369" is_mep="True" mode="spoken" role="President" name="Giovanni BERLINGUER" nationality="Italy" birth_date="09-07-1924" birth_place="Sassari" p_group="Socialist Group in the European Parliament" m_state="IT">
       <p sl="unknown">Pursuant to the Act concerning the election of Members of the European Parliament by direct universal suffrage, I declare the first sitting subsequent to the elections open.</p>
     </intervention>
   </section>
   <section id="creitem2" title="Oldest Member">
-    <intervention id="2-006" speaker_id="28369" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-006" speaker_id="28369" is_mep="True" mode="spoken" role="President" name="Giovanni BERLINGUER" nationality="Italy" birth_date="09-07-1924" birth_place="Sassari" p_group="Socialist Group in the European Parliament" m_state="IT">
       <p sl="unknown">As a consequence of this universal vote and despite its limitations, which we must also understand, for the first time a union of peoples and governments has been formed based on democracy and rights and not on the dominance of one country over the others, as has often happened in the history of our continent.</p>
       <p sl="unknown">The role of the European Parliament is growing in parallel, as a result of both the positive experience of past years and also the rules of the new Constitution now in the process of ratification, and our borders have expanded to include 25 countries. I especially want to welcome the arrival of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia.</p>
       <p sl="unknown">Our borders have expanded to 25 countries and the bounds of the European Parliament’s activities will also be expanding, in a Europe that started as the Coal and Steel and the Atomic Energy Communities, which then became the Common Market and afterwards a common currency in order to encourage financial exchange and trade, and which now, with the implementation of the Lisbon Agenda and the commitments of the European Constitution, is beginning to turn into a Europe of work, solidarity, social justice, reception and integration: in a word, a Europe of the people and of its citizens. A Europe open to the world, to the suffering and aspirations of other peoples in all countries; above all, a Europe open to peace and the search for personal and collective security.</p>
@@ -14,7 +14,7 @@
     </intervention>
   </section>
   <section id="creitem3" title="Election of the President of the European Parliament">
-    <intervention id="2-008" speaker_id="28369" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-008" speaker_id="28369" is_mep="True" mode="spoken" role="President" name="Giovanni BERLINGUER" nationality="Italy" birth_date="09-07-1924" birth_place="Sassari" p_group="Socialist Group in the European Parliament" m_state="IT">
       <p sl="unknown">Pursuant to the Rules of Procedure, I have received the following nominations for the presidency of the European Parliament:</p>
       <p sl="unknown">Josep Borrel Fontelles</p>
       <p sl="unknown">Bronisław Geremek</p>
@@ -32,7 +32,7 @@
       <p sl="unknown">Mr Pistelli</p>
       <p sl="unknown">Before the vote I shall give each of the three candidates the floor to make a speech which, according to the Rules of Procedure, may last for no longer than five minutes.</p>
     </intervention>
-    <intervention id="2-009" speaker_id="28267" name="Borrell Fontelles" is_mep="True" mode="spoken">
+    <intervention id="2-009" speaker_id="28267" name="Josep BORRELL FONTELLES" is_mep="True" mode="spoken" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="es">Mr President, I warmly welcome all the honourable Members and in particular the other candidates. I belong to the generation of Spaniards who, with Europe on the horizon, played a leading role in the transition to democracy, and at a very young age we took on important political responsibilities. Councillor and trade union delegate, Member of Parliament for eighteen years, five as Chairman of the Committee on European Affairs and twelve as Minister or Secretary of State, and then candidate for Prime Minister. I have also been a member of the Convention, and for ten years in a row I have represented my country in different formations of the Council. I lost battles there which were then won in Parliament, from its position closer to the citizens.</p>
       <p sl="es">I can say that I have good knowledge of the functioning of the Community institutions, but for me Europe is more than a political experiment, it is a vital project. I am as European as I am Spanish and ‘també soc català [I am also Catalan]’, but I am neither of the old nor of the new Europe. I am simply a European who rejects denominations intended to perpetuate our division. At some point we have all been new Members of the Union and, from Vilnius to Lisbon, or from Edinburgh to Athens, we are all of the same Europe.</p>
       <p sl="es">Reunification put an end to the tragic inheritance of Hitler and Stalin, but there is still much for us to do in order to make it effective. It will put our solidarity to the test and require us to respect the most diverse of opinions. As President of the European Parliament I shall ensure that it operates correctly within a more complex linguistic context.</p>
@@ -43,7 +43,7 @@
       <p sl="es">I will end with a message of optimism: Europe is a long-term project and its path is made by walking. The crises awaiting us will not be any more serious than the ones we have already overcome. We must and we can mobilise the peoples of Europe to write a new page in our history in peace and therefore, and to this end, I would ask you to vote for my candidature as President of the European Parliament. Thank you very much.</p>
       <a text="(Loud applause)"/>
     </intervention>
-    <intervention id="2-010" speaker_id="28384" name="Geremek" is_mep="True" mode="spoken">
+    <intervention id="2-010" speaker_id="28384" name="Bronisław GEREMEK" is_mep="True" mode="spoken" nationality="Poland" birth_date="06-03-1932" birth_place="Warszawa" p_group="Group of the Alliance of Liberals and Democrats for Europe" m_state="PL">
       <p sl="pl">Mr President, ladies and gentlemen, you are all aware of the history of my homeland. It has played a leading role in all the dramatic events of the twentieth century. My country, Poland, was also the birthplace of the revolt against totalitarianism, a revolt that made the unification of Europe possible. As a result, this House is now one of the institutions of a Europe that is drawing closer together. I come from Central Europe. Poland and all the other countries in this region shared a common fate. Our freedom and independence were threatened on a daily basis, and we feared for the future. Nonetheless, we won through. We are now free and independent nations. Such is the background from which I come before this House.</p>
       <p sl="pl">Ladies and gentlemen, I am sure you are familiar with my past, and that you know how I came to be what I am today. I have friends across the whole spectrum of political groupings represented in this House. With that in mind, I should like to make the following statement. It was exceedingly fortunate for Europe that we were not left alone to fight for our freedom. We were able to count on the support of all those who believed in their hearts and minds that Europe had to be free. You will recall that Martin Luther King said it is impossible to engage in politics without first having a dream.</p>
       <p sl="pl">As I come before this House, I too have a dream. My dream is of a Europe of solidarity. Incidentally, Poland was responsible for bringing the word 'solidarity' into our political vocabulary. As I said, I have a dream of a Europe of solidarity and justice. This House is an institution for such a Europe. Having described how I came to be what I am today, I should like to move on to explain what I would like to become, and why I am standing as a candidate for President of the European Parliament.</p>
@@ -53,7 +53,7 @@
       <p sl="pl">Finally, I aspire to become President of a fine and great European Union institution. The Union is one of the greatest democracies in the world. This institution is itself capable of being free and democratic. I stand before you, Members of this House, and appeal to you to have confidence in me and cast your votes in my favour. If you do, yours will certainly be a vote for Europe!</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-011" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-011" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Mr President, ladies and gentlemen, the election of the President of our Parliament constitutes our first political act of this new term of office. What clear and coherent message are we going to deliver to our fellow citizens on this occasion?</p>
       <p sl="fr">The question is an important one, given the extent to which the public image of the European institutions has become confused, if not suspect, and with good cause: how are people to find their way around the issue when, for all these years, votes from the left and right have systematically combined to administer the liberal economic model, or when Mr Blair and Mr Aznar, like their supporters in this House, have combined their efforts to support George W. Bush in his military adventure.</p>
       <p sl="fr">As many of us said during the recent election campaign, the moment has come to put an end to these confused identities and to make the divisions between progressives and conservatives visible and comprehensible.</p>
@@ -65,12 +65,12 @@
       <p sl="fr">With the exception of three MEPs, who have stated that they will abstain, my group will therefore transfer its votes to Mr Josep Borrell in the second round of this ballot. Although our choice can of course be criticised, neither its coherence nor its clarity can be disputed. That too is what democracy is about.</p>
       <a text="(Applause from the left)"/>
     </intervention>
-    <intervention id="2-012" speaker_id="28369" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-012" speaker_id="28369" is_mep="True" mode="spoken" role="President" name="Giovanni BERLINGUER" nationality="Italy" birth_date="09-07-1924" birth_place="Sassari" p_group="Socialist Group in the European Parliament" m_state="IT">
       <p sl="unknown">Thank you to the three speakers for what they said and for not having exceeded their speaking time. We shall now proceed to the election.</p>
     </intervention>
   </section>
   <section id="creitem4" title="Results of the first ballot">
-    <intervention id="2-015" speaker_id="28369" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-015" speaker_id="28369" is_mep="True" mode="spoken" role="President" name="Giovanni BERLINGUER" nationality="Italy" birth_date="09-07-1924" birth_place="Sassari" p_group="Socialist Group in the European Parliament" m_state="IT">
       <p sl="unknown">I announce the result of the ballot to elect the President.</p>
       <p sl="unknown">Number of voters: 700</p>
       <p sl="unknown">Blank or spoiled ballot papers: 53</p>
@@ -82,7 +82,7 @@
       <p sl="unknown">Francis Wurtz: 51 votes</p>
       <p sl="unknown">José Borrell Fontelles has obtained an absolute majority of the votes cast and is therefore elected President of Parliament.</p>
     </intervention>
-    <intervention id="2-018" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-018" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">Ladies and gentlemen, my first words as President of the European Parliament must be words of gratitude; also of commitment and looking to the future but, above all, words of gratitude.</p>
       <p sl="unknown">Firstly, to the Oldest Member, Mr Berlinguer, for the way he has led our first parliamentary sitting of this term in office …</p>
       <a text="(Applause)"/>
@@ -116,7 +116,7 @@
       <p sl="it">As happened during the last term, the Commission and the European Parliament are collaborating closely so that our common interests can prevail; this is one reason for this alliance, which in formal terms is reflected in the European Parliament’s vote of confidence in the President of the Commission. My Commission has made every effort to develop this collaboration, thanks also to the framework agreement and the daily work of implementing it. Once again, I thank President Cox for having been a fully cooperative and open partner. The results of our work on codecision and in other areas are exceptional and unprecedented, and I am sure that this collaboration will continue with the new Commission, which will be called upon to consolidate this year’s results and to develop them further. Together, the Commission and Parliament must impart fresh impetus to the European integration process, with the fundamental objective of continuing along the path towards enlargement and the Constitution.</p>
       <p sl="it">Mr President, please allow me to say a last word of thanks to your institution, with which I have worked for five years. Without Parliament’s stimulus, without its checks and without its in-depth political debate, even though it may be harsh at times, we would certainly not have achieved this enormous volume of work. These have been years of major results, which have been transformed into concrete benefits for the people and stronger hopes for our common future. Mr President, I wish you and the new Parliament all the best in your work.</p>
     </intervention>
-    <intervention id="2-020" speaker_id="1253" name="Poettering" is_mep="True" mode="spoken">
+    <intervention id="2-020" speaker_id="1253" name="Hans-Gert PÖTTERING" is_mep="True" mode="spoken" nationality="Germany" birth_date="15-09-1945" birth_place="Bersenbrück " p_group="Group of the European People's Party (Christian Democrats)" m_state="DE">
       <p sl="de">Mr President, Mr President of the Commission, ladies and gentlemen, you, Mr President, are now the elected President of the European Parliament and of all its Members. On behalf of the Group of the European People’s Party (Christian Democrats) and European Democrats, I would like to extend to you heartfelt congratulations and to wish you success in your office as President of Parliament, for success for you is success for us all.</p>
       <p sl="de">I would like to express warm respect and high regard for Mr Geremek, whose life’s achievements I personally hold in the highest estimation – as does our group – and thank him for what he has done for Poland and for Europe.</p>
       <a text="(Applause)"/>
@@ -125,7 +125,7 @@
       <p sl="de">Let me make, if I may, a final observation. We in this European Parliament – and I see that Mr Prodi is here, to whom we, as a rule, gave our support, even though that was sometimes very difficult – have a great interest in the stability of the European institutions, and so I appeal to everyone, now that we have taken this decision today, to vote on Thursday for José Manuel Durão Barroso and thereby to demonstrate that we seek stability for the European Commission too.</p>
       <p sl="de">The last thing I have to say to you is that, in this House, issues of policy will continue to be the subject of tough debate between the Group of the European People’s Party (Christian Democrats) and European Democrats, the Socialists and others. The issues will still be there, and will still be bones of contention, but it is important that the institutions be stable. What joins us together and unites us is our defence of democracy, our defence of the rule of law, our commitment to solidarity and peace in our continent as it comes together as one. That is our common task, and in that, Mr President, I wish you success with all my heart.</p>
     </intervention>
-    <intervention id="2-021" speaker_id="1911" name="Schulz" is_mep="True" mode="spoken">
+    <intervention id="2-021" speaker_id="1911" name="Martin SCHULZ" is_mep="True" mode="spoken" nationality="Germany" birth_date="20-12-1955" birth_place="Hehlrath" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="DE">
       <p sl="de">Mr President, ladies and gentlemen, even in the lives of Parliamentary groups there are great days, and, for ours, today is one of them. It is only right, in the hour of triumph, to think of those who do not share in it, so let me address the opposing candidates, such as you, Mr Geremek. Even though we voted for our own candidate rather than for you, I think I speak on behalf of all the Socialist Members of this House when I say how proud I am to be able to work together with you, and that your membership of this House does it honour.</p>
       <a text="(Applause)"/>
       <p sl="de">The only thing to be said about Mr Wurtz, in fact, is that we agree 100% with what he had to say about President Bush’s policies.</p>
@@ -137,7 +137,7 @@
       <p sl="de">Thirdly, let me say that we are proud that, after ten years, a Social Democrat – and what a Social Democrat – again presides over this House. My dear Josep Borrell, you have our best wishes, and let me say to you, our President, that I am sure that you will be as outstanding a political figure in Europe as you have been in Spain. All the best and congratulations!</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-022" speaker_id="2155" name="Watson" is_mep="True" mode="spoken">
+    <intervention id="2-022" speaker_id="2155" name="Sir Graham WATSON" is_mep="True" mode="spoken" nationality="United Kingdom" birth_date="23-03-1956" birth_place="Rothesay " p_group="Group of the Alliance of Liberals and Democrats for Europe" m_state="GB">
       <p sl="en">Mr President, I should like to add my words to those of my colleagues Mr Poettering and Mr Schulz in thanking all the contestants in this competition for the Presidency of our House.</p>
       <p sl="en">The result that we have is an honourable one. I am proud that the political family I represent gave the European Parliament a first-class President in Pat Cox. I believe that he will be a hard act to follow and I wish you, Mr President, all the best in your term of office.</p>
       <p sl="en">I would, however, like to put on notice the Group of the European People's Party and the Socialist Group in the European Parliament. I believe that the alliance they have formed is an unnatural one. Such an alliance, when it happens in national parliaments, happens only at times of war or crisis. If these parties try to use this alliance to carve up the way things are done in this House, my group will fight them every inch of the way. If they conspire to block the necessary reforms in this House, we will stand up for the interests of the citizen. I believe that the citizens of the European Union are fed up with opaque government and back-room deals and look forward to the day when we have a mature Parliament, building a political majority not a technical majority.</p>
@@ -145,52 +145,52 @@
       <p sl="en">Mr Poettering spoke of the need for stability. The trouble is that democracies are run by crisis management: serious problems are not tackled until they have to be. Our Union has problems and resolving those problems will require leadership. We will judge you, Mr President, on your capacity for showing leadership to this House in the period to come.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-023" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-023" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">Mr Watson, you may rest assured that the Presidency will ensure that the rights of all the groups are fully respected.</p>
     </intervention>
-    <intervention id="2-024" speaker_id="4254" name="Frassoni" is_mep="True" mode="spoken">
+    <intervention id="2-024" speaker_id="4254" name="Monica FRASSONI" is_mep="True" mode="spoken" nationality="Italy" birth_date="10-09-1963" birth_place="Veracruz " p_group="Group of the Greens/European Free Alliance - Co" m_state="IT">
       <p sl="it">Mr President, the Group of the Greens/European Free Alliance also congratulates you on this election, even though, as you know, the majority of my group chose another candidate, Mr Geremek, who represents this new Europe that we are creating today. You can, however, be sure of the collaboration and loyalty with which our group will be ready to work with you over the coming years, as it has worked with the other presidents before you.</p>
       <p sl="it">We had offered your group a different alliance, one which in our view was possible and could have had a majority in this Parliament. We think the question of stability is indeed much less important than the transparency of the political agreements that are made and also the transparency of the laws we are to make as the European Parliament. We therefore truly hope that today will be the last time that this vote and this unnatural alliance are seen here, because otherwise it will not be at all easy for citizens to recognise their Parliament as a body that openly conducts European politics in a clear, definite and specific manner and thus reflects their choices and their political views.</p>
       <p sl="it">Mr President, we consider that what Mr Hans-Gert Poettering has said about President Barroso is rather worrying and we think it would be interesting for the whole of this House to learn what the Socialist Group in the European Parliament is going to do about the election of President Barroso and whether that too really is part of a package, as was hoped. Mr President, we believe that it is only through succeeding in creating majorities about issues, about what the citizens are really demanding, clearly and not through ambiguous, opaque alliances, that this Parliament can be respected and European democracy can really work for all its citizens. I thank you and wish you all the best in your work.</p>
     </intervention>
-    <intervention id="2-025" speaker_id="1018" name="Wurtz" is_mep="True" mode="spoken">
+    <intervention id="2-025" speaker_id="1018" name="Francis WURTZ" is_mep="True" mode="spoken" nationality="France" birth_date="03-01-1948" birth_place="Strasbourg" p_group="Confederal Group of the European United Left - Nordic Green Left" m_state="FR">
       <p sl="fr">Mr President, I wish, in my turn, to express my group’s congratulations to Mr Borrell on his election.</p>
       <p sl="fr">I said just now what I thought of the context of this election; I was critical of it. I want now to say what I think of Mr Borrell; by way of complete contrast, I greatly admire him. I admire him for his left-wing commitment on what, in our view, are crucial issues at stake, particularly in the international sphere. I also admire him for his ear for dialogue and for the importance he attaches to warm relationships. That also matters, including in political life.</p>
       <p sl="fr">I am sure that my group and I shall be able to cooperate constructively with him as our new President.</p>
       <p sl="fr">It remains for me to express my respect for Mr Geremek and to thank Mr Poettering and Mr Schultz most sincerely for what they said about me. May we transcend our differences and divisions and, throughout the life of this Parliament, give full sway to this spirit of tolerance and mutual respect. I think that, in the process, there would be no loss to democracy and that much would be gained in terms of human relations.</p>
       <a text="(Applause from the left)"/>
     </intervention>
-    <intervention id="2-026" speaker_id="1073" name="Muscardini" is_mep="True" mode="spoken">
+    <intervention id="2-026" speaker_id="1073" name="Cristiana MUSCARDINI" is_mep="True" mode="spoken" nationality="Italy" birth_date="06-11-1948" birth_place="Cannobio " p_group="Group of the European People's Party (Christian Democrats)" m_state="IT">
       <p sl="it">Mr President, the Union for Europe of the Nations Group is working within Europe to build a common commitment that will take us away from preconceived ideas. We believe we should all collaborate to strengthen a Europe that is free of terrorism, discrimination and monopolistic temptations, whether in the economic sphere or in politics or culture. It is therefore vital that you should be President of the whole of Parliament and that Parliament should find a more effective way of bringing the people closer to our institutions and having them take part in our decisions. Mr President, to bring the people closer to Europe and Europe closer to the people, we must declare here in this House that it is our common commitment, within a context of mutual respect, to find a way to provide full and correct information at last. The work of Parliament is all too often insufficiently understood in our own countries.</p>
       <p sl="it">Mr President, as I give you and this House my best wishes for your future work, allow me on behalf of my group to offer my esteem and friendship to Mr Geremek and to recall once more the example he has set and still sets for all of us and the whole of Europe.</p>
     </intervention>
-    <intervention id="2-027" speaker_id="1164" name="Gollnisch" is_mep="True" mode="spoken">
+    <intervention id="2-027" speaker_id="1164" name="Bruno GOLLNISCH" is_mep="True" mode="spoken" nationality="France" birth_date="28-01-1950" birth_place="Neuilly-sur-Seine" p_group="Non" m_state="FR">
       <p sl="fr">Mr President, having expressed our sincere gratitude to your predecessor, Mr Cox, we wish, in accordance with the forms and courtesies of this House, in turn to offer you our sincere congratulations on your election.</p>
       <p sl="fr">These are, of course, congratulations that are offered not so much out of political considerations as to you, yourself, since, as has become apparent, this election is, as much as anything, fairly symbolic of the basic agreement that exists between the two main groups in this House, over and above the differences of opinion that, all in all, are relatively superficial.</p>
       <p sl="fr">As a number of previous speakers have said, we hope you will defend the rights of all MEPs, including those who are at present in minorities and who, as has happened to certain other minorities in history, will perhaps be the majorities of tomorrow. They will include MEPs who, as they have every right to do, share their electorate’s unshakeable hostility towards the way in which our institutions are currently developing and who are resolved to defend the identity and fundamental freedoms of their respective nations. They will include MEPs whom, following the pattern in previous terms of office, hostile governments wish to strip of their mandates because of what they have said or because of their protests against the persecutions to which they are subject. They will include MEPs who do not belong to groups and who, although much larger in number than the members of certain groups and although representing no less than eight or ten nationalities, do not have a single interpreter, in French or English for example, at their work meetings – a form of discrimination that, during the previous Parliament, the Court of Justice had occasion to condemn in principle.</p>
       <p sl="fr">In a word, we hope that you will be a President for all MEPs and ensure that the principle is respected whereby, in this Parliament, all MEPs are fully-fledged MEPs, whatever their opinions.</p>
       <a text="(Applause)"/>
     </intervention>
-    <intervention id="2-028" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-028" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">Mr Gollnisch, please rest assured that I will do so.</p>
       <a text="(The sitting was suspended at 12.30 p.m. and resumed at 3.00 p.m.)"/>
     </intervention>
   </section>
   <section id="creitem5" title="Election of the Vice-Presidents of the European Parliament">
-    <intervention id="2-030" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-030" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">The next item is the election of the Vice-Presidents of the European Parliament .</p>
       <p sl="unknown">I have received the following candidatures: Mr Luigi Cocilovo, Mr António Costa, Mr Ingo Friedrich, Mrs Silvia-Yvonne Kaufmann, Mr Edward McMillan-Scott, Mr Mario Mauro, Mr Pierre Moscovici, Mr Gérard Onesta, Mr Janusz Onyszkiewicz, Mr Miroslav Ouzký, Mrs Dagmar Roth-Behrendt, Mr Jacek Emil Saryusz-Wolski, Mr Antonios Trakatellis and Mr Alejo Vidal-Quadras Roca. The candidates have informed me that they accept their candidature and, given that the number of candidates does not exceed the number of posts to be filled, I propose that the election be by acclamation, in accordance with Rule 12(1) of the Rules of Procedure.</p>
       <a text="(Loud applause)"/>
       <p sl="unknown">I therefore declare the candidates I have just named to be Vice-Presidents-elect of the European Parliament and I congratulate them on this election.</p>
       <p sl="unknown">We shall now establish the order of precedence for the Vice-Presidents.</p>
     </intervention>
-    <intervention id="2-031" speaker_id="1264" name="Friedrich" is_mep="True" mode="spoken">
+    <intervention id="2-031" speaker_id="1264" name="Ingo FRIEDRICH" is_mep="True" mode="spoken" nationality="Germany" birth_date="24-01-1942" birth_place="Kutno" p_group="Group of the European People's Party (Christian Democrats) and European Democrats" m_state="DE">
       <p sl="de">Just one question, Mr President: is there a minimum number that have to have a cross against them for the voting paper to be valid? Again, is there a minimum number of names that have to have a cross put against them in order for the voting paper to be valid, or is it valid if you put a cross by 2, 3, 4 or 8 – or indeed any other number?</p>
     </intervention>
-    <intervention id="2-032" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-032" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">Mr Friedrich, there is no minimum number of boxes to tick.</p>
     </intervention>
-    <intervention id="2-033" speaker_id="4533" name="Gill" is_mep="True" mode="spoken">
+    <intervention id="2-033" speaker_id="4533" name="Neena GILL" is_mep="True" mode="spoken" nationality="United Kingdom" p_group="Group of the Progressive Alliance of Socialists and Democrats in the European Parliament" m_state="GB">
       <p sl="en">Mr President, it is regrettable that we do not have an opportunity to hear from the vice-presidential candidates, even though we have the right number. It would have been good to know who the candidates are. We have to remember that 50% of the Members here are new and do not know the people they are voting for.</p>
       <a text="(Applause)"/>
       <p sl="en">It would have been in the interests of transparent democracy for us to have heard who the people were, so we could choose and put them in order. The vice-presidential role is not just a ceremonial role in presiding over these debates but a key decision-making role in the Bureau. Some of the candidates are very new. I suggest that in future candidates make one-minute presentations.</p>
@@ -198,7 +198,7 @@
       <a text="(Applause)"/>
       <p sl="en">Finally, we should depoliticise the Quaestors, so we have real representatives for MEPs.</p>
     </intervention>
-    <intervention id="2-034" speaker_id="28267" is_mep="True" mode="spoken" role="President">
+    <intervention id="2-034" speaker_id="28267" is_mep="True" mode="spoken" role="President" name="Josep BORRELL FONTELLES" nationality="Spain" birth_date="24-04-1947" birth_place="Pobla de Segur" p_group="Socialist Group in the European Parliament" m_state="ES">
       <p sl="unknown">Mrs Gill, I am grateful for your suggestion, but nobody has requested the floor in relation to it. I shall communicate your views to the political groups so that they may consider the matter. But now, we have already begun the vote and it is too late to deal with your request.</p>
       <p sl="unknown">We shall proceed to the vote .</p>
       <a text="(The sitting was closed at 4.54 p.m.)"/>

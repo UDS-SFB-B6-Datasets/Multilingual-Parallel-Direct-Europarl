@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="20020114.IT" lang="it" date="2002-01-14" place="Strasburgo" edition="Edizione GU">
   <section id="creitem1" title="Ripresa della sessione">
-    <intervention id="1-004" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="1-004" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Dichiaro ripresa la sessione del Parlamento europeo, interrotta il 17 dicembre 2001.</p>
       <p sl="unknown">Onorevoli deputati e colleghi, prima di passare al punto concernente l’ordine dei lavori, permettetemi di rubarvi un minuto, un minuto soltanto, per unirmi sinceramente alle parole d’omaggio che nella seduta del 17 dicembre scorso tutti i gruppi parlamentari hanno reso alla nostra Presidente uscente, onorevole Nicole Fontaine. Ricorderete senz’altro che due anni fa sono stato uno dei suoi concorrenti e per questa ragione mi è gradita oggi quest’occasione per ringraziarla e riconoscere la dignità, l’imparzialità, l’efficacia e lo stile eccezionale con cui ha esercitato il suo mandato al servizio dell’Unione europea e a favore di un maggiore prestigio del nostro Parlamento.</p>
       <a text="(Vivi applausi)"/>
     </intervention>
   </section>
   <section id="creitem2" title="Ordine dei lavori">
-    <intervention id="1-006" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="1-006" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">E’ stata distribuita la versione definitiva del progetto di ordine del giorno elaborata in conformità alle decisioni prese il 10 gennaio scorso dalla Conferenza dei presidenti</p>
       <p sl="unknown">Desidero comunque attirare l’attenzione dell’Assemblea sul fatto che l’ordine dei lavori di questa tornata sarà stabilito mercoledì mattina alle 9.00.</p>
     </intervention>
   </section>
   <section id="creitem3" title="Annuncio delle candidature per l'elezione del Presidente">
-    <intervention id="1-008" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente">
+    <intervention id="1-008" speaker_id="4443" is_mep="True" mode="spoken" role="Presidente" name="Mário SOARES" nationality="Portugal" birth_date="07-12-1924" birth_place="Lisboa" p_group="Group of the Party of European Socialists" m_state="PT">
       <p sl="unknown">Conformemente al Regolamento l’elezione del Presidente si terrà domani a partire dalle 10.00.</p>
       <p sl="unknown">Vi ricordo che ai sensi del Regolamento sotto presidenza del decano d’età non può aver luogo alcuna discussione il cui oggetto sia estraneo all’elezione del Presidente o alla verifica dei poteri.</p>
       <p sl="unknown">Ai sensi dell’articolo 13 del Regolamento, le candidature alla Presidenza del Parlamento europeo debbono essere presentate da un gruppo politico o da almeno trentadue deputati, con il consenso degli interessati.</p>
