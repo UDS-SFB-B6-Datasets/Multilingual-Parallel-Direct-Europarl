@@ -18,7 +18,7 @@ def get_comparable(xml_dir, src_lang, parallel_langs:Optional[Union[list, str]]=
 
     for sl in src_lang:
         print(f"Extracting parallel text for {sl} originals")
-        for filepath in tqdm(path_dict[sl][:5], position=0, leave=True):
+        for filepath in tqdm(path_dict[sl], position=0, leave=True):
             xml_tree = read_xml(filepath)
             extracted = extract_originals(xml_tree, sl, native, direct=direct)
             # print(len(extracted))
