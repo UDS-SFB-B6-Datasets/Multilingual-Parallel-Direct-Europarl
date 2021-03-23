@@ -43,8 +43,57 @@ def read_xml(ifile):
     return root
 
 
-def extract_text(xml_file, lang, src_lang:Optional[Union[list, str]]=None, native:Optional[str]=None, direct:int=0):
+def extract_originals(xml_file, langs:Union[list, str], native: Optional[str] = None, direct: int = 0):
     # get intervention date and language
+    if isinstance(langs, str):
+        langs = [langs]
+    for lang in langs:
+        idate, ilang = xml_file.get("id").split(".")
+        extracts = defaultdict(dict)
+        ilang = ilang.lower()
+        lang = lang.lower()
+        if ilang != lang:
+            return extracts
+        if (direct == 1 and int(idate[:4]) > 2003) or (direct == 2 and int(idate[:4]) < 2004):
+            return extracts
+        interventions = xml_file.findall('.//intervention[@id]')  # get interventions
+
+        for el in interventions:
+            iid = el.get("id")
+            nationality = el.get("nationality")
+
+            native_speaker = nationality in nationalities[ilang]
+            if native == "ns" and not native_speaker:
+                continue
+            if native == "nns" and native_speaker:
+                continue
+
+            paragraphs = el.findall(f'.//p[@sl="{lang}"]')  # get paragraphs
+            plen = len(paragraphs)
+            # filter for desired source language(s)
+            for i, p in enumerate(paragraphs):
+                try:
+                    if not detect(p.text) == ilang:
+                        continue
+                except:
+                    pass
+                else:
+                    extracts[f"{idate}:{iid}:{i}:{plen}"] = {"iid": f"{idate}:{iid}:{i}:{plen}",
+                                                             # "lang": ilang,
+                                                             "src": ilang,
+                                                             "native_speaker": int(
+                                                                 nationality in nationalities[ilang]),
+                                                             # "label": int(ilang != lang),
+                                                             "original": p.text}
+    return extracts
+
+
+def extract_text(xml_file, lang, src_langs:Optional[Union[list, str]]=None, native:Optional[str]=None, direct:int=0):
+    # get intervention date and language
+    if src_langs is None:
+        src_langs = []
+    if isinstance(src_langs, str):
+        src_langs = [src_langs]
     idate, ilang = xml_file.get("id").split(".")
     extracts = defaultdict(dict)
     ilang = ilang.lower()
@@ -53,48 +102,48 @@ def extract_text(xml_file, lang, src_lang:Optional[Union[list, str]]=None, nativ
         return extracts
     if (direct == 1 and int(idate[:4]) > 2003) or (direct == 2 and int(idate[:4]) < 2004):
         return extracts
-    interventions = xml_file.findall('.//intervention[@id]') #get interventions
+    interventions = xml_file.xpath('.//intervention') #get interventions
 
     for el in interventions:
         iid = el.get("id")
         nationality = el.get("nationality")
 
-        native_speaker = nationality in nationalities[ilang]
-        if native == "ns" and not native_speaker:
-            continue
-        if native == "nns" and native_speaker:
-            continue
-
-        if isinstance(src_lang, str):
-            src_lang = [src_lang]
-
-        paragraphs = el.findall('.//p[@sl]') #get paragraphs
-        plen = len(paragraphs)
-        # filter for desired source language(s)
-        for i, p in enumerate(paragraphs):
-            try:
-                if not detect(p.text) == ilang:
+        if src_langs:
+            for src_lang in src_langs:
+                native_speaker = nationality in nationalities[src_lang]
+                if native == "ns" and not native_speaker:
                     continue
-            except:
-                pass
-            else:
-                if src_lang is not None:
-                    sl = p.get("sl")
-                    if sl in src_lang:
+                if native == "nns" and native_speaker:
+                    continue
+
+                paragraphs = el.findall(f'.//p[@sl="{src_lang}"]') #get paragraphs
+                plen = len(paragraphs)
+
+                # filter for desired source language(s)
+                for i, p in enumerate(paragraphs):
+                    try:
+                        if not detect(p.text) == ilang:
+                            continue
+                    except:
+                        pass
+                    else:
                         extracts[f"{idate}:{iid}:{i}:{plen}"] = {"iid": f"{idate}:{iid}:{i}:{plen}",
-                                                                 "lang": ilang,
-                                                                 "src": sl,
-                                                                 "native_speaker": int(nationality in nationalities[ilang]),
-                                                                 "label": int(ilang != sl),
+                                                                 # "lang": ilang,
+                                                                 "src": src_lang,
+                                                                 "native_speaker": int(nationality in nationalities[src_lang]),
+                                                                 # "label": int(ilang != src_lang),
                                                                  "text": p.text}
-                else:
-                    sl = p.get("sl")
-                    extracts[f"{idate}:{iid}:{i}:{plen}"] = {"iid": f"{idate}:{iid}:{i}:{plen}",
-                                                             "lang": ilang,
-                                                             "src": sl,
-                                                             "native_speaker": int(nationality in nationalities[ilang]),
-                                                             "label": int(ilang != sl),
-                                                             "text": p.text}
+
+        else:
+            paragraphs = el.findall(f'.//p[@sl]')  # get paragraphs
+            plen = len(paragraphs)
+            sl = p.get("sl")
+            extracts[f"{idate}:{iid}:{i}:{plen}"] = {"iid": f"{idate}:{iid}:{i}:{plen}",
+                                                     # "lang": ilang,
+                                                     "src": sl,
+                                                     "native_speaker": int(nationality in nationalities[sl]),
+                                                     # "label": int(ilang != sl),
+                                                     "text": p.text}
     return extracts
 
 
@@ -140,9 +189,13 @@ def get_xml_file_paths(file_dir):
     return glob(os.path.join(file_dir, "*.xml"))
 
 
-def get_paths(xml_dir, src_lang, parallel_langs):
+def get_paths(xml_dir, src_lang, parallel_langs:Optional[list]=None):
     path_dict = {}
-    path_dict[src_lang] = get_xml_file_paths(os.path.join(xml_dir, src_lang))
-    for lang in parallel_langs:
-        path_dict[lang] = get_xml_file_paths(os.path.join(xml_dir, lang))
+    if isinstance(src_lang, str):
+        src_lang = [src_lang]
+    for l in src_lang:
+        path_dict[l] = get_xml_file_paths(os.path.join(xml_dir, l))
+    if parallel_langs:
+        for lang in parallel_langs:
+            path_dict[lang] = get_xml_file_paths(os.path.join(xml_dir, lang))
     return path_dict
