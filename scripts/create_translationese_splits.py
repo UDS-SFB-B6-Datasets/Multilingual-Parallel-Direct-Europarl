@@ -98,8 +98,7 @@ def split(df, n_train, n_dev, n_test):
 def main(infile, outdir, src_langs, parallel_langs, native, direct,
          tsplit, dsplit, remove_originals, **kwargs):
     df = get_data(infile, src_langs, parallel_langs, native, direct, remove_originals, **kwargs)
-    df_class_counts = (df.src + df.dest + df.label.astype(str)).value_counts()
-    # print(df_class_counts)
+    
     originals = df[df.src == df.dest]
     translations = df[df.src != df.dest]
     series_o = originals['src'] + originals['dest']
