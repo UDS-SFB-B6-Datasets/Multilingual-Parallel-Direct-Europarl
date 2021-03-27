@@ -48,7 +48,7 @@ pandas
 -h -> help
 
 #### Sample command
-python create_translationese_splits.py -i extracted/parallels_ns_pivot.tsv -o tr_splits_ns_pivot/ -s de en es fr it pt nl -p en es de fr it pt nl -n 1 -d 2 -t 0.7 -v0.15
+python create_translationese_splits.py -i extracted/parallels_ns_pivot.tsv -o tr_splits_ns_pivot/ -s de en es fr it pt nl -p en es de fr it pt nl -n 1 -d 2 -t 0.7 -v 0.15
 
 ## Create Machine Translation Dataset
 This is created using the output of the extracted parallel corpus
@@ -71,4 +71,4 @@ pandas
 -h -> help
 
 #### Sample command
-python create_parallel_splits.py -i extracted/parallels_direct.tsv -o mt_splits_direct/ -s de en es fr it pt nl -p en es de fr it pt nl -n 0 -d 1 -t 0.7 -v0.15
+python create_parallel_splits.py -i extracted/parallels_direct.tsv -o mt_splits_direct/ -s de en es fr it pt nl -p en es de fr it pt nl -n 0 -d 1 -t 0.7 -v 0.15
