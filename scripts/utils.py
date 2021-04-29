@@ -3,7 +3,7 @@ from glob import glob
 import os
 from collections import defaultdict
 from typing import Optional, Union
-
+from datetime import datetime
 from langdetect import detect
 from lxml import etree
 
@@ -43,13 +43,21 @@ def read_xml(ifile):
     return root
 
 
-def extract_originals(xml_file, langs:Union[list, str], native: Optional[str] = None, direct: int = 0):
+def extract_originals(xml_file, langs:Union[list, str],
+                      native: Optional[str] = None, direct: int = 0,
+                      start_date=None, end_date=None):
     # get intervention date and language
     if isinstance(langs, str):
         langs = [langs]
     for lang in langs:
         idate, ilang = xml_file.get("id").split(".")
         extracts = defaultdict(dict)
+        if start_date is not None:
+            if start_date > datetime.strptime(idate, '%Y%m%d').date():
+                continue
+        if end_date is not None:
+            if end_date < datetime.strptime(idate, '%Y%m%d').date():
+                continue
         ilang = ilang.lower()
         lang = lang.lower()
         if ilang != lang:
@@ -88,14 +96,22 @@ def extract_originals(xml_file, langs:Union[list, str], native: Optional[str] = 
     return extracts
 
 
-def extract_text(xml_file, lang, src_langs:Optional[Union[list, str]]=None, native:Optional[str]=None, direct:int=0):
+def extract_text(xml_file, lang, src_langs:Optional[Union[list, str]]=None,
+                 native:Optional[str]=None, direct:int=0,
+                 start_date=None, end_date=None):
     # get intervention date and language
     if src_langs is None:
         src_langs = []
     if isinstance(src_langs, str):
         src_langs = [src_langs]
-    idate, ilang = xml_file.get("id").split(".")
     extracts = defaultdict(dict)
+    idate, ilang = xml_file.get("id").split(".")
+    if start_date is not None:
+        if start_date > datetime.strptime(idate, '%Y%m%d').date():
+            return extracts
+    if end_date is not None:
+        if end_date < datetime.strptime(idate, '%Y%m%d').date():
+            return extracts
     ilang = ilang.lower()
     lang = lang.lower()
     if ilang != lang:
