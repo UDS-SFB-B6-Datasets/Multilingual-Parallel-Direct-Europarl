@@ -20,10 +20,12 @@ tqdm
 -p -> parallel language(s)\
 -n -> native/non-native speaker filter\
 -d -> direct/pivot translation(s) filter\
+-f -> start date (optional)\
+-t -> end date (optional)\
 -h -> help
 
 #### Sample command
-python parallel_from_xml.py -i proceedings/xml/ -o extracted/parallels_ns.tsv -s de en es fr it nl pt -p de en es fr it nl pt -n ns -d 0
+python parallel_from_xml.py -i proceedings/xml/ -o extracted/parallels_ns.tsv -s de en es fr it nl pt -p de en es fr it nl pt -n ns -d 0 -f 19990721 -t 19990723
 
 
 ## Create Translationese Dataset
