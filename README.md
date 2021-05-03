@@ -1,4 +1,4 @@
-# europarl_uds
+# Multilingual Parallel Direct Europarl
 A multilingual and multitask adaption of the Europarl Corpus
 
 ## Requirements
