@@ -19,7 +19,7 @@ tqdm
 -s -> source language(s)\
 -p -> parallel language(s)\
 -n -> native/non-native speaker filter\
--d -> direct/pivot translation(s) filter\
+-d -> direct/undefined translation(s) filter\
 -f -> start date (optional)\
 -t -> end date (optional)\
 -h -> help
@@ -43,14 +43,14 @@ pandas
 -s -> source language(s)\
 -p -> parallel language(s)\
 -n -> native/non-native speaker filter\
--d -> direct/pivot translation(s) filter\
+-d -> direct/undefined translation(s) filter\
 -t -> fraction of data for train split\
 -v -> fraction of data for dev split\
 -r -> flag to either keep or retain original texts as part of dataset\
 -h -> help
 
 #### Sample command
-python create_translationese_splits.py -i extracted/parallels_ns_pivot.tsv -o tr_splits_ns_pivot/ -s de en es fr it pt nl -p en es de fr it pt nl -n 1 -d 2 -t 0.7 -v 0.15
+python create_translationese_splits.py -i extracted/parallels_ns_undefined.tsv -o tr_splits_ns_undefined/ -s de en es fr it pt nl -p en es de fr it pt nl -n 1 -d 2 -t 0.7 -v 0.15
 
 ## Create Machine Translation Dataset
 This is created using the output of the extracted parallel corpus
@@ -66,7 +66,7 @@ pandas
 -s -> source language(s)\
 -p -> parallel language(s)\
 -n -> native/non-native speaker filter\
--d -> direct/pivot translation(s) filter\
+-d -> direct/undefined translation(s) filter\
 -t -> fraction of data for train split\
 -v -> fraction of data for dev split\
 -r -> flag to either keep or retain original texts as part of dataset\
