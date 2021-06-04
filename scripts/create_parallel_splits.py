@@ -10,7 +10,7 @@ import numpy
 import pandas
 from tqdm import tqdm
 
-from scripts.utils import get_paths, read_xml, extract_text, extract_originals
+from utils import get_paths, read_xml, extract_text, extract_originals
 
 
 def read_table_with_pandas(filepath, **kwargs):
