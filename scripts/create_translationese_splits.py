@@ -109,7 +109,9 @@ def main(infile, outdir, src_langs, parallel_langs, native, direct,
     a, b, c = get_proportions(O, [tsplit, dsplit])
     d, e, f = get_proportions(P, [tsplit, dsplit])
 
-    L = len(parallel_langs) - 1
+    L = len(parallel_langs)
+    if L > 1:
+        L -= 1
 
     O = a + b + c
     P = d + e + f
