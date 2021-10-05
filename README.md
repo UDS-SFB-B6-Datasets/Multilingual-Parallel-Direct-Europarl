@@ -78,14 +78,14 @@ python create_parallel_splits.py -i extracted/parallels_direct.tsv -o mt_splits_
 
 If you use this work please cite:
 
-@InProceedings{AmponsahEtal:MOTRA:2021,
-      author = {Amponsah-Kaakyire, Kwabena and Pylypenko, Daria and Espa{\~n}a-Bonet, Cristina and van Genabith, Josef},
-      title = "Do not Rely on Relay Translations: Multilingual Parallel Direct Europarl",
-      booktitle = "Proceedings of the Workshop on Modelling Translation: Translatology in the Digital Age (MoTra21)",
-      month = may,
-      year = "2021",
-      address = "Iceland (Online)",
-      publisher = "International Committee on Computational Linguistics",
-      url = "https://www.aclweb.org/anthology/",
-      pages = "--"
+@InProceedings{AmponsahEtal:MOTRA:2021,\
+      author = {Amponsah-Kaakyire, Kwabena and Pylypenko, Daria and Espa{\~n}a-Bonet, Cristina and van Genabith, Josef},\
+      title = "Do not Rely on Relay Translations: Multilingual Parallel Direct Europarl",\
+      booktitle = "Proceedings of the Workshop on Modelling Translation: Translatology in the Digital Age (MoTra21)",\
+      month = may,\
+      year = "2021",\
+      address = "Iceland (Online)",\
+      publisher = "International Committee on Computational Linguistics",\
+      url = "https://www.aclweb.org/anthology/2021.motra-1.1",\
+      pages = "1--7"
 }
