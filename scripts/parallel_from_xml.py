@@ -7,7 +7,7 @@ from typing import Optional, Union
 from datetime import datetime
 from tqdm import tqdm
 
-from scripts.utils import get_paths, read_xml, extract_text, extract_originals
+from utils import get_paths, read_xml, extract_text, extract_originals
 
 
 def get_comparable(xml_dir, src_lang, parallel_langs:Optional[Union[list, str]]=None,
