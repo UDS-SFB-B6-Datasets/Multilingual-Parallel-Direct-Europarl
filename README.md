@@ -1,6 +1,8 @@
 # Multilingual Parallel Direct Europarl
 A multilingual and multitask adaption of the Europarl Corpus
 
+Dataset available for download at https://doi.org/10.5281/zenodo.5550431
+
 ## Requirements
 codecs\
 glob\
