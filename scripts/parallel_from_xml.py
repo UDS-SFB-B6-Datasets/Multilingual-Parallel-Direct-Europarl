@@ -53,16 +53,24 @@ def get_comparable(xml_dir, src_lang, parallel_langs:Optional[Union[list, str]]=
 
 
 def write_to_tsv(data, file, sep="\t", **kwargs):
+    import pandas as pd
+    
     print("Writing data to file")
-    with open(file, **kwargs) as f:
-        if len(data) > 0:
-            header = sep.join((data[0].keys()))
-        else:
-            header = ""
-        f.write(header+"\n")
-        for line in tqdm(data, position=0, leave=True):
-            f.write(sep.join(f"{x}" for x in line.values())+"\n")
-    print(f"{len(data)} data written successfully")
+    if len(data) > 0:
+        header = data[0].keys()
+    else:
+        header = None
+        
+    rows = []
+    for line in tqdm(data, position=0, leave=True):
+        rows.append(line.values())
+        
+    df = pd.DataFrame(rows, columns=header)
+    df = df.drop_duplicates(subset=["iid"], keep=False)
+    
+    df.to_csv(file, sep=sep, index=False)
+    
+    print(f"{df} data written successfully")
 
 def main(xml_dir, outfile, src_lang, parallel_langs, native,
          direct, start_date, end_date):
