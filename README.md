@@ -35,7 +35,6 @@ This is created using the output of the extracted parallel corpus
 Run create_translationese_splits.py to create train, dev and test splits.
 
 ### Requirements
-tqdm\
 numpy\
 pandas
 
