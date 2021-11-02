@@ -4,13 +4,10 @@
 import argparse
 import os
 from math import floor
-from typing import Optional, Union
+from typing import Union
 
 import numpy
-import pandas
-from tqdm import tqdm
-
-from utils import get_paths, read_xml, extract_text, extract_originals
+import pandas as pd
      
     
 def read_corpus(filepath, src_langs:Union[list, str, None]=None, 
@@ -25,6 +22,7 @@ def read_corpus(filepath, src_langs:Union[list, str, None]=None,
     
     cols = ["iid", "src", "native_speaker", "original"]
     
+    print("Reading data")
     df = pd.read_table(filepath, sep="\t")
     
     if parallel_langs is None:
@@ -41,16 +39,20 @@ def read_corpus(filepath, src_langs:Union[list, str, None]=None,
     df['direct'] = numpy.where(df.iid.str[:4].astype(int) < 2004, 1, 0)
     df['label'] = numpy.where(df.src == df.dest, 0, 1)
     if direct is not None:
+        print("Filtering translation type: direct or undefined")
         df = df[df.direct == direct]
     if native is not None:
+        print("Applying (non) native speaker filter")
         df = df[df.native_speaker == native]
     if src_langs:
+        print("Extracting selected source languages and parallels")
         df = df[df.src.isin(src_langs)]
 #     df = df.drop(subset, axis = 1)
     return df
 
 
 def balance_classes(df, train_ratio=0.7, dev_ratio=0.15, random_state=None):
+    print("Creating train-dev-test splits")
     import math
     orig = df[df.src == df.dest]
     trans = df[df.src != df.dest]
@@ -99,7 +101,8 @@ def balance_classes(df, train_ratio=0.7, dev_ratio=0.15, random_state=None):
         train.append(tr)
         dev.append(dv)
         test.append(tran)
-        
+    
+    print("Train-dev-test splits created")
     return pd.concat(train), pd.concat(dev), pd.concat(test)
 
 
@@ -109,18 +112,15 @@ def main(infile, outfile_prefix, src_langs, parallel_langs,
     
     df = read_corpus(filepath=infile, src_langs=src_langs, 
                      parallel_langs=parallel_langs, direct=direct, 
-                     native=native, sep=sep):
-    train, dev, test = balance_classes(df, train_ratio=train_ratio, 
+                     native=native, sep=sep)
+    train_df, dev_df, test_df = balance_classes(df, train_ratio=train_ratio, 
                                        dev_ratio=dev_ratio, random_state=random_state)
     
-    get_stats(train)
-    get_stats(dev)
-    get_stats(test)
-    
+    print(f"Saving splits to {outfile_prefix}_*.tsv")
     train_df.to_csv(os.path.join(f"{outfile_prefix}_train.tsv"), sep="\t", index=False)
     dev_df.to_csv(os.path.join(f"{outfile_prefix}_dev.tsv"), sep="\t", index=False)
     test_df.to_csv(os.path.join(f"{outfile_prefix}_test.tsv"), sep="\t", index=False)
-    print(f"Data split successfully")
+    print(f"Data saved successfully")
 
 
 if __name__ == "__main__":
@@ -141,8 +141,9 @@ if __name__ == "__main__":
                         help="fraction of data for train split. Test size is calculated from train and dev splits.")
     parser.add_argument("-v", "--dev_ratio", required=False, type=float, default=0.15,
                         help="fraction of data for dev split. Test size is calculated from train and dev splits.")
-    parser.add_argument('-r', "--random_state", action='store_true',
-                        help="if not specified, originals are kept for each translation")
+    parser.add_argument('-r', "--random_state", required=False, type=int, default=1,
+                        help="seed for randomly sampling examples"),
+    parser.add_argument("--sep", required=False, default="\t", help="delimiter used in input file")
 
     args = parser.parse_args()
     infile = args.input
@@ -154,6 +155,7 @@ if __name__ == "__main__":
     train_ratio = args.train_ratio
     dev_ratio = args.dev_ratio
     random_state = args.random_state
+    sep = args.sep
 
     main(infile=infile, outfile_prefix=outfile_prefix, 
          src_langs=src_langs, parallel_langs=parallel_langs, 
