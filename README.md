@@ -7,7 +7,10 @@ Dataset available for download at https://doi.org/10.5281/zenodo.5550430
 codecs\
 glob\
 langdetect\
-lxml
+lxml\
+tqdm\
+pandas\
+numpy
 
 ## Generating the corpus
 Run parallel_from_xml.py to extract parallel text from xmls
